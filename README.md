@@ -12,6 +12,12 @@ I'm a student,Learning to program
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 
+#### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeSutendts)](https://github.com/anuraghazra/github-readme-stats)
 <!--
