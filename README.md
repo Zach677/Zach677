@@ -1,11 +1,10 @@
 ### Hi there 👋
 
+I'm a student,Learning to program.
 
-I'm a student,Learning to program
-
+Although the technology is poor now, it will slowly improve in the future.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CodeSutendts&theme=transparent" />
--🌱
 
 **DevOps**
 
