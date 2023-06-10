@@ -26,10 +26,6 @@ Although the technology is poor now, it will slowly improve in the future.
 
 
 
-#### Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 
