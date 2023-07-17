@@ -36,18 +36,20 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Open Source...**
 
+<!-- opensource_dashboard:active -->
 
 **Toys...**
 
-
+<!-- opensource_toys -->
 
 **Recent Writing...**
 
-
+<!-- recent_posts_inject -->
 
 **Recent Star...**
 
-
+<!-- recent_star_inject -->
 
 **Review Stared...**
 
+<!-- random_github_stars_inject -->
