@@ -2,21 +2,19 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=CodeSutendts&show_icons=true&theme=dark"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=CodeSutendts&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true" align=right />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeStudents&show_icons=true" align=right />
 </picture>
+
 
 I'm a student,Learning to program.
 
 Although my technology is poor now, it will slowly improve in the future.
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CodeSutendts&theme=transparent" />
 
 **DevOps**
 
