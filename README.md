@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I'm Star [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
+
 I'm a student,Learning to program.
 
 Although my technology is poor now, it will slowly improve in the future.
