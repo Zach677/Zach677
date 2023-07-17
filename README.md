@@ -1,5 +1,17 @@
 # Star [![wakatime](https://wakatime.com/badge/user/840d21f8-ccf6-4443-ba54-0b5c2549c2e4.svg)](https://wakatime.com/@840d21f8-ccf6-4443-ba54-0b5c2549c2e4)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true" align=right />
+</picture>
+
 I'm a student,Learning to program.
 
 Although my technology is poor now, it will slowly improve in the future.
