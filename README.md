@@ -1,4 +1,4 @@
-# Star [![wakatime]()
+# Star [![wakatime](https://wakatime.com/badge/user/840d21f8-ccf6-4443-ba54-0b5c2549c2e4.svg)](https://wakatime.com/@840d21f8-ccf6-4443-ba54-0b5c2549c2e4)
 
 I'm a student,Learning to program.
 
