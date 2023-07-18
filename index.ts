@@ -3,31 +3,9 @@ import dayjs from 'dayjs'
 import { readFile, rm, writeFile } from 'fs/promises'
 import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
-import MarkdownIt from 'markdown-it'
 import * as rax from 'retry-axios'
 import { github, motto, mxSpace, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
-import { GRepo } from './types'
-import {
-  AggregateController,
-  createClient,
-  NoteModel,
-  PostModel,
-} from '@mx-space/api-client'
-import { axiosAdaptor } from '@mx-space/api-client/lib/adaptors/axios'
-
-const mxClient = createClient(axiosAdaptor)(mxSpace.api, {
-  controllers: [AggregateController],
-})
-
-axiosAdaptor.default.interceptors.request.use((req) => {
-  req.headers && (req.headers['User-Agent'] = 'Innei profile')
-  return req
-})
-
-const md = new MarkdownIt({
-  html: true,
-})
 const githubAPIEndPoint = 'https://api.github.com'
 
 rax.attach()
@@ -48,11 +26,6 @@ axios.defaults.headers.common['User-Agent'] = userAgent
 const gh = axios.create({
   baseURL: githubAPIEndPoint,
   timeout: 4000,
-})
-
-gh.interceptors.response.use(undefined, (err) => {
-  console.log(err.message)
-  return Promise.reject(err)
 })
 
 type GHItem = {
