@@ -37,8 +37,8 @@ jobs:
           run_install: true
       - name: Build project
         run: |
-          npm run build
-      - name: Push new README.md
+          pnpm run build
+      - name: Push new readme.md
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
