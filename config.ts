@@ -1,20 +1,20 @@
 export const opensource = {
   active: [
-    'CodeStudents/CodeStudents',
+    'CodeSutendts/CodeSutendts',
     // 'mx-space/api-client', 
     'CodeStudents/bump-version',
   ],
   toys: {
-    limit: 3,
+    limit: 1,
     random: true,
     repos: [
-      'CodeStudents/CodeStudents',
+      'CodeSutendts/CodeSutendts',
     ],
   },
 }
 export const motto = `<p align=center><strong>お可愛いこと。</strong></p>`
 export const github = {
-  name: 'CodeStudents',
+  name: 'CodeSutendts',
 }
 
 export const mxSpace = {
