@@ -44,7 +44,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><span> cqhttp的golang实现，轻量、原生跨平台.</span></li><li><a href=https://github.com/JohannLai/gptcli>JohannLai/gptcli</a><span> 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli. 内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 GitHub Actions 这么简单，让 AI 帮助我们链接自然语言和结构化数据。</span></li><li><a href=https://github.com/single-spa/import-map-overrides>single-spa/import-map-overrides</a><span> A browser and NodeJS javascript library for overriding import maps</span></li><li><a href=https://github.com/Mosney/anti-anti-AD>Mosney/anti-anti-AD</a><span> 为什么不应使用antiAD去广告列表，以及选择更多优秀的替代品</span></li><li><a href=https://github.com/serverless-stack/open-next>serverless-stack/open-next</a><span> Open source Next.js serverless adapter</span></li></ul>
+<ul><li><a href=https://github.com/Innei/imx-bot>Innei/imx-bot</a><span> My QQ group bot</span></li><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a><span> Refractoring 🚧|ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits |🌎 ?| 📷 Multi-modal/Image | 💐 Self-maintained LLM Framework</span></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li></ul>
 
 **Can you find me?**
 
@@ -55,4 +55,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/18/23, 1:09 PM<br>下一次刷新：7/19/23, 1:09 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/18/23, 1:11 PM<br>下一次刷新：7/19/23, 1:11 PM</p>
