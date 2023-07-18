@@ -38,10 +38,6 @@ Although my technology is poor now, it will slowly improve in the future.
 
 <!-- opensource_dashboard:active -->
 
-**Recent Writing...**
-
-<!-- recent_posts_inject -->
-
 **Recent Star...**
 
 <!-- recent_star_inject -->
