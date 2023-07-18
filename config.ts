@@ -2,7 +2,6 @@ export const opensource = {
   active: [
     'CodeSutendts/CodeSutendts',
     // 'mx-space/api-client', 
-    'CodeStudents/bump-version',
   ],
   toys: {
     limit: 1,
