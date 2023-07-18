@@ -85,41 +85,6 @@ function generateOpenSourceSectionHtml<T extends GHItem>(list: T[]) {
 }
 
 /**
- * 生成 `写过的玩具` 结构
- */
-
-function generateToysHTML(list: GRepo[]) {
-  const tbody = list.reduce(
-    (str, cur) =>
-      str +
-      ` <tr>
-  <td><a href="${cur.html_url}" target="_blank"><b>
-  ${cur.full_name}</b></a> ${
-        cur.homepage ? `<a href="${cur.homepage}" target="_blank">🔗</a>` : ''
-      }</td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/${
-    cur.full_name
-  }?style=flat-square&labelColor=343b41"/></td>
-  <td>${new Date(cur.created_at).toLocaleDateString()}</td>
-  <td>${new Date(cur.pushed_at).toLocaleDateString()}</td>
-</tr>`,
-    ``,
-  )
-  return m`<table>
-  <thead align="center">
-  <tr border: none;>
-    <td><b>🎁 Projects</b></td>
-    <td><b>⭐ Stars</b></td>
-    <td><b>🕐 Create At</b></td>
-    <td><b>📅 Last Active At</b></td>
-  </tr>
-</thead><tbody>
-${tbody}
-</tbody>
-</table>`
-}
-
-/**
  * 生成 Repo  HTML 结构
  */
 
@@ -127,26 +92,6 @@ function generateRepoHTML<T extends GHItem>(item: T) {
   return `<li><a href="${item.html_url}">${item.full_name}</a>${
     item.description ? `<span>  ${item.description}</span>` : ''
   }</li>`
-}
-
-function generatePostItemHTML<T extends Partial<PostModel>>(item: T) {
-  return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
-    dateStyle: 'short',
-    timeZone,
-  })} -  <a href="${
-    mxSpace.url + '/posts/' + item.category.slug + '/' + item.slug
-  }">${item.title}</a></span>${
-    item.summary ? `<p>${item.summary}</p>` : ''
-  }</li>`
-}
-
-function generateNoteItemHTML<T extends Partial<NoteModel>>(item: T) {
-  return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
-    dateStyle: 'short',
-    timeZone,
-  })} -  <a href="${mxSpace.url + '/notes/' + item.nid}">${
-    item.title
-  }</a></span></li>`
 }
 
 async function main() {
@@ -189,36 +134,6 @@ ${topStar5}
       m`
       <ul>
   ${random}
-      </ul>
-      `,
-    )
-  }
-
-  {
-    const posts = await mxClient.aggregate
-      .getTimeline()
-      .then((data) => data.data)
-      .then((data) => {
-        const posts = data.posts
-        const notes = data.notes
-        const sorted = [
-          ...posts.map((i) => ({ ...i, type: 'Post' as const })),
-          ...notes.map((i) => ({ ...i, type: 'Note' as const })),
-        ].sort((b, a) => +new Date(a.created) - +new Date(b.created))
-        return sorted.slice(0, 5).reduce((acc, cur) => {
-          if (cur.type === 'Note') {
-            return acc.concat(generateNoteItemHTML(cur))
-          } else {
-            return acc.concat(generatePostItemHTML(cur))
-          }
-        }, '')
-      })
-
-    newContent = newContent.replace(
-      gc('RECENT_POSTS'),
-      m`
-      <ul>
-  ${posts}
       </ul>
       `,
     )
