@@ -44,7 +44,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Innei/imx-bot>Innei/imx-bot</a><span> My QQ group bot</span></li><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a><span> Refractoring 🚧|ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits |🌎 ?| 📷 Multi-modal/Image | 💐 Self-maintained LLM Framework</span></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li></ul>
+<ul><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/AdguardTeam/AdGuardHome>AdguardTeam/AdGuardHome</a><span> Network-wide ads & trackers blocking DNS server</span></li><li><a href=https://github.com/dgrijalva/jwt-go>dgrijalva/jwt-go</a><span> ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:</span></li><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><span> A Telegram-like theme based on icalingua++</span></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li></ul>
 
 **Can you find me?**
 
@@ -55,4 +55,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/18/23, 1:11 PM<br>下一次刷新：7/19/23, 1:11 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/18/23, 1:17 PM<br>下一次刷新：7/19/23, 1:17 PM</p>
