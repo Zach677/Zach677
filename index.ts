@@ -159,24 +159,6 @@ async function main() {
     }),
   )
 
-  // 获取写过的玩具开源项目详情
-  const limit = opensource.toys.limit
-  const toys = opensource.toys.random
-    ? shuffle(opensource.toys.repos).slice(0, limit)
-    : opensource.toys.repos.slice(0, limit)
-  const toysProjectDetail: GRepo[] = await Promise.all(
-    toys.map((name) => {
-      return gh.get('/repos/' + name).then((data) => data.data)
-    }),
-  )
-
-  newContent = newContent
-    .replace(
-      gc('OPENSOURCE_DASHBOARD_ACTIVE'),
-      generateOpenSourceSectionHtml(activeOpenSourceDetail),
-    )
-    .replace(gc('OPENSOURCE_TOYS'), generateToysHTML(toysProjectDetail))
-
   // 获取 Star
   const star: any[] = await gh
     .get('/users/' + github.name + '/starred')
