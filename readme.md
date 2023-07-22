@@ -44,7 +44,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><span> A Telegram-like theme based on icalingua++</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a><span> A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/KyleAMathews/react-headroom>KyleAMathews/react-headroom</a><span> Hide your header until you need it</span></li><li><a href=https://github.com/serverless-stack/open-next>serverless-stack/open-next</a><span> Open source Next.js serverless adapter</span></li><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><span> A fancy self-hosted monitoring tool</span></li></ul>
+<ul><li><a href=https://github.com/opsnull/follow-me-install-kubernetes-cluster>opsnull/follow-me-install-kubernetes-cluster</a><span> 和我一步步部署 kubernetes 集群</span></li><li><a href=https://github.com/serverless-stack/open-next>serverless-stack/open-next</a><span> Open source Next.js serverless adapter</span></li><li><a href=https://github.com/home-assistant/operating-system>home-assistant/operating-system</a><span> :beginner: Home Assistant Operating System</span></li><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a><span> Refractoring 🚧|ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits |🌎 ?| 📷 Multi-modal/Image | 💐 Self-maintained LLM Framework</span></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li></ul>
 
 **Can you find me?**
 
@@ -55,4 +55,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/21/23, 8:45 AM<br>下一次刷新：7/22/23, 8:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/22/23, 8:46 AM<br>下一次刷新：7/23/23, 8:46 AM</p>
