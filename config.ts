@@ -1,6 +1,6 @@
 export const opensource = {
   active: [
-    'CodeSutendts/static',
+    'CodeSutendts/test',
   ],
 }
 
