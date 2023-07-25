@@ -44,7 +44,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><span> cqhttp的golang实现，轻量、原生跨平台.</span></li><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><span> A Telegram-like theme based on icalingua++</span></li><li><a href=https://github.com/fbelavenuto/arpl>fbelavenuto/arpl</a><span> Automated Redpill Loader</span></li><li><a href=https://github.com/opsnull/follow-me-install-kubernetes-cluster>opsnull/follow-me-install-kubernetes-cluster</a><span> 和我一步步部署 kubernetes 集群</span></li><li><a href=https://github.com/KyleAMathews/react-headroom>KyleAMathews/react-headroom</a><span> Hide your header until you need it</span></li></ul>
+<ul><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a><span> Refractoring 🚧|ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits |🌎 ?| 📷 Multi-modal/Image | 💐 Self-maintained LLM Framework</span></li><li><a href=https://github.com/nvim-treesitter/nvim-treesitter-textobjects>nvim-treesitter/nvim-treesitter-textobjects</a></li><li><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a><span> ● Mouse effect of iPad in browser that can be used in any framework</span></li><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><span> A fancy self-hosted monitoring tool</span></li><li><a href=https://github.com/facebook/create-react-app>facebook/create-react-app</a><span> Set up a modern web app by running one command.</span></li></ul>
 
 **Can you find me?**
 
@@ -55,4 +55,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/25/23, 10:18 AM<br>下一次刷新：7/26/23, 10:18 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/25/23, 11:09 AM<br>下一次刷新：7/26/23, 11:09 AM</p>
