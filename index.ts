@@ -104,6 +104,11 @@ async function main() {
     }),
   )
 
+  newContent = newContent.replace(
+    gc('OPENSOURCE_DASHBOARD_ACTIVE'),
+    generateOpenSourceSectionHtml(activeOpenSourceDetail),
+  )
+
   // 获取 Star
   const star: any[] = await gh
     .get('/users/' + github.name + '/starred')
@@ -147,7 +152,7 @@ ${topStar5}
     newContent = newContent.replace(
       gc('FOOTER'),
       m`
-    <p align="center">此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！
+    <p align="center">此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
     </br>
     刷新于：${now.toLocaleString(undefined, {
       timeStyle: 'short',
