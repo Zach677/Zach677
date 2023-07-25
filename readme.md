@@ -36,7 +36,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Open Source...**
 
-<!-- opensource_dashboard:active -->
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody><tr><td><a href=https://github.com/CodeSutendts/test><b>CodeSutendts/test</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/CodeSutendts/test?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/CodeSutendts/test?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/CodeSutendts/test/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/CodeSutendts/test?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/CodeSutendts/test/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/CodeSutendts/test?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/CodeSutendts/test/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/CodeSutendts/test?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
 
 **Recent Star...**
 
@@ -44,7 +44,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/facebook/create-react-app>facebook/create-react-app</a><span> Set up a modern web app by running one command.</span></li><li><a href=https://github.com/nvim-treesitter/nvim-treesitter-textobjects>nvim-treesitter/nvim-treesitter-textobjects</a></li><li><a href=https://github.com/single-spa/import-map-overrides>single-spa/import-map-overrides</a><span> A browser and NodeJS javascript library for overriding import maps</span></li><li><a href=https://github.com/al-one/hass-xiaomi-miot>al-one/hass-xiaomi-miot</a><span> Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成</span></li><li><a href=https://github.com/AdguardTeam/AdGuardHome>AdguardTeam/AdGuardHome</a><span> Network-wide ads & trackers blocking DNS server</span></li></ul>
+<ul><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><span> cqhttp的golang实现，轻量、原生跨平台.</span></li><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><span> A Telegram-like theme based on icalingua++</span></li><li><a href=https://github.com/fbelavenuto/arpl>fbelavenuto/arpl</a><span> Automated Redpill Loader</span></li><li><a href=https://github.com/opsnull/follow-me-install-kubernetes-cluster>opsnull/follow-me-install-kubernetes-cluster</a><span> 和我一步步部署 kubernetes 集群</span></li><li><a href=https://github.com/KyleAMathews/react-headroom>KyleAMathews/react-headroom</a><span> Hide your header until you need it</span></li></ul>
 
 **Can you find me?**
 
@@ -55,4 +55,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/25/23, 8:50 AM<br>下一次刷新：7/26/23, 8:50 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/25/23, 10:18 AM<br>下一次刷新：7/26/23, 10:18 AM</p>
