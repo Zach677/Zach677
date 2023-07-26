@@ -44,7 +44,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/serverless-stack/open-next>serverless-stack/open-next</a><span> Open source Next.js serverless adapter</span></li><li><a href=https://github.com/single-spa/import-map-overrides>single-spa/import-map-overrides</a><span> A browser and NodeJS javascript library for overriding import maps</span></li><li><a href=https://github.com/fbelavenuto/arpl>fbelavenuto/arpl</a><span> Automated Redpill Loader</span></li><li><a href=https://github.com/AdguardTeam/AdGuardHome>AdguardTeam/AdGuardHome</a><span> Network-wide ads & trackers blocking DNS server</span></li><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><span> cqhttp的golang实现，轻量、原生跨平台.</span></li></ul>
+<ul><li><a href=https://github.com/opsnull/follow-me-install-kubernetes-cluster>opsnull/follow-me-install-kubernetes-cluster</a><span> 和我一步步部署 kubernetes 集群</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a><span> A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/vernesong/OpenClash>vernesong/OpenClash</a><span> A Clash Client For OpenWrt</span></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li></ul>
 
 **Can you find me?**
 
@@ -55,4 +55,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/26/23, 5:09 PM<br>下一次刷新：7/27/23, 5:09 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/26/23, 7:50 PM<br>下一次刷新：7/26/23, 10:50 PM</p>
