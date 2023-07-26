@@ -40,7 +40,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Mosney/anti-anti-AD>Mosney/anti-anti-AD</a><span> 为什么不应使用antiAD去广告列表，以及选择更多优秀的替代品</span></li><li><a href=https://github.com/facebook/create-react-app>facebook/create-react-app</a><span> Set up a modern web app by running one command.</span></li><li><a href=https://github.com/serverless-stack/open-next>serverless-stack/open-next</a><span> Open source Next.js serverless adapter</span></li><li><a href=https://github.com/JohannLai/gptcli>JohannLai/gptcli</a><span> 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli. 内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 GitHub Actions 这么简单，让 AI 帮助我们链接自然语言和结构化数据。</span></li><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><span> cqhttp的golang实现，轻量、原生跨平台.</span></li></ul>
+<ul><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a><span> Refractoring 🚧|ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits |🌎 ?| 📷 Multi-modal/Image | 💐 Self-maintained LLM Framework</span></li><li><a href=https://github.com/opsnull/follow-me-install-kubernetes-cluster>opsnull/follow-me-install-kubernetes-cluster</a><span> 和我一步步部署 kubernetes 集群</span></li></ul>
 
 **Can you find me?**
 
@@ -51,4 +51,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/26/23, 9:08 PM<br>下一次刷新：7/27/23, 12:08 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/26/23, 11:09 PM<br>下一次刷新：7/27/23, 2:09 AM</p>
