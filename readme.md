@@ -36,11 +36,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li><li><a href=https://github.com/CodeSutendts/CodeSutendts>CodeSutendts/CodeSutendts</a><span> Config files for my GitHub profile.</span></li><li><a href=https://github.com/Homebrew/brew>Homebrew/brew</a><span> 🍺 The missing package manager for macOS (or Linux)</span></li><li><a href=https://github.com/Homebrew/legacy-homebrew>Homebrew/legacy-homebrew</a><span> 💀 The former home of Homebrew/homebrew (deprecated)</span></li><li><a href=https://github.com/1c7/chinese-independent-developer>1c7/chinese-independent-developer</a><span> 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</span></li></ul>
+<ul><li><a href=https://github.com/Homebrew/homebrew-core>Homebrew/homebrew-core</a><span> 🍻 Default formulae for the missing package manager for macOS (or Linux)</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li><li><a href=https://github.com/CodeSutendts/CodeSutendts>CodeSutendts/CodeSutendts</a><span> Config files for my GitHub profile.</span></li><li><a href=https://github.com/Homebrew/brew>Homebrew/brew</a><span> 🍺 The missing package manager for macOS (or Linux)</span></li><li><a href=https://github.com/Homebrew/legacy-homebrew>Homebrew/legacy-homebrew</a><span> 💀 The former home of Homebrew/homebrew (deprecated)</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a><span> A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/Mosney/anti-anti-AD>Mosney/anti-anti-AD</a><span> 为什么不应使用antiAD去广告列表，以及选择更多优秀的替代品</span></li><li><a href=https://github.com/nvim-treesitter/nvim-treesitter-textobjects>nvim-treesitter/nvim-treesitter-textobjects</a></li><li><a href=https://github.com/xtekky/gpt4free>xtekky/gpt4free</a><span> The official gpt4free repository | various collection of powerful language models</span></li><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><span> cqhttp的golang实现，轻量、原生跨平台.</span></li></ul>
+<ul><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><span> cqhttp的golang实现，轻量、原生跨平台.</span></li><li><a href=https://github.com/Mosney/anti-anti-AD>Mosney/anti-anti-AD</a><span> 为什么不应使用antiAD去广告列表，以及选择更多优秀的替代品</span></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li><li><a href=https://github.com/KyleAMathews/react-headroom>KyleAMathews/react-headroom</a><span> Hide your header until you need it</span></li><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><span> A Telegram-like theme based on icalingua++</span></li></ul>
 
 **Can you find me?**
 
@@ -51,4 +51,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/27/23, 8:48 AM<br>下一次刷新：7/27/23, 11:48 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/27/23, 11:09 AM<br>下一次刷新：7/27/23, 2:09 PM</p>
