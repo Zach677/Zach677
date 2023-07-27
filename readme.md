@@ -40,7 +40,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><span> A Telegram-like theme based on icalingua++</span></li><li><a href=https://github.com/1c7/chinese-independent-developer>1c7/chinese-independent-developer</a><span> 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</span></li><li><a href=https://github.com/nvim-treesitter/nvim-treesitter-textobjects>nvim-treesitter/nvim-treesitter-textobjects</a></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><span> A fancy self-hosted monitoring tool</span></li></ul>
+<ul><li><a href=https://github.com/EbookFoundation/free-programming-books>EbookFoundation/free-programming-books</a><span> :books: Freely available programming books</span></li><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a><span> Refractoring 🚧|ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits |🌎 ?| 📷 Multi-modal/Image | 💐 Self-maintained LLM Framework</span></li><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><span> A fancy self-hosted monitoring tool</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a><span> A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/KyleAMathews/react-headroom>KyleAMathews/react-headroom</a><span> Hide your header until you need it</span></li></ul>
 
 **Can you find me?**
 
@@ -51,4 +51,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/27/23, 2:12 PM<br>下一次刷新：7/27/23, 5:12 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/27/23, 5:09 PM<br>下一次刷新：7/27/23, 8:09 PM</p>
