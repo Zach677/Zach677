@@ -36,11 +36,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/Homebrew/homebrew-core>Homebrew/homebrew-core</a><span> 🍻 Default formulae for the missing package manager for macOS (or Linux)</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li><li><a href=https://github.com/CodeSutendts/CodeSutendts>CodeSutendts/CodeSutendts</a><span> Config files for my GitHub profile.</span></li><li><a href=https://github.com/Homebrew/brew>Homebrew/brew</a><span> 🍺 The missing package manager for macOS (or Linux)</span></li><li><a href=https://github.com/Homebrew/legacy-homebrew>Homebrew/legacy-homebrew</a><span> 💀 The former home of Homebrew/homebrew (deprecated)</span></li></ul>
+<ul><li><a href=https://github.com/typecho/typecho>typecho/typecho</a><span> A PHP Blogging Platform. Simple and Powerful.</span></li><li><a href=https://github.com/BigCoke233/miracles>BigCoke233/miracles</a><span> 🎉 Typecho Theme Miracles - 生为奇迹</span></li><li><a href=https://github.com/Homebrew/homebrew-core>Homebrew/homebrew-core</a><span> 🍻 Default formulae for the missing package manager for macOS (or Linux)</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li><li><a href=https://github.com/CodeSutendts/CodeSutendts>CodeSutendts/CodeSutendts</a><span> Config files for my GitHub profile.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/EbookFoundation/free-programming-books>EbookFoundation/free-programming-books</a><span> :books: Freely available programming books</span></li><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a><span> Refractoring 🚧|ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits |🌎 ?| 📷 Multi-modal/Image | 💐 Self-maintained LLM Framework</span></li><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><span> A fancy self-hosted monitoring tool</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a><span> A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/KyleAMathews/react-headroom>KyleAMathews/react-headroom</a><span> Hide your header until you need it</span></li></ul>
+<ul><li><a href=https://github.com/xtekky/gpt4free>xtekky/gpt4free</a><span> The official gpt4free repository | various collection of powerful language models</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a><span> A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/netdata/netdata>netdata/netdata</a><span> Monitor your servers, containers, and applications, in high-resolution and in real-time!</span></li><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><span> cqhttp的golang实现，轻量、原生跨平台.</span></li><li><a href=https://github.com/KyleAMathews/react-headroom>KyleAMathews/react-headroom</a><span> Hide your header until you need it</span></li></ul>
 
 **Can you find me?**
 
@@ -51,4 +51,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/27/23, 5:09 PM<br>下一次刷新：7/27/23, 8:09 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/27/23, 8:17 PM<br>下一次刷新：7/27/23, 11:17 PM</p>
