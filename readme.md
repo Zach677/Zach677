@@ -40,7 +40,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/opsnull/follow-me-install-kubernetes-cluster>opsnull/follow-me-install-kubernetes-cluster</a><span> 和我一步步部署 kubernetes 集群</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/JohannLai/gptcli>JohannLai/gptcli</a><span> 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli. 内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 GitHub Actions 这么简单，让 AI 帮助我们链接自然语言和结构化数据。</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a><span> A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li></ul>
+<ul><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/serverless-stack/open-next>serverless-stack/open-next</a><span> Open source Next.js serverless adapter</span></li><li><a href=https://github.com/AdguardTeam/AdGuardHome>AdguardTeam/AdGuardHome</a><span> Network-wide ads & trackers blocking DNS server</span></li><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><span> A Telegram-like theme based on icalingua++</span></li><li><a href=https://github.com/netdata/netdata>netdata/netdata</a><span> Monitor your servers, containers, and applications, in high-resolution and in real-time!</span></li></ul>
 
 **Can you find me?**
 
@@ -51,4 +51,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/27/23, 11:09 PM<br>下一次刷新：7/28/23, 2:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/28/23, 2:11 AM<br>下一次刷新：7/28/23, 5:11 AM</p>
