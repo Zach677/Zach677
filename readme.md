@@ -40,7 +40,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/opsnull/follow-me-install-kubernetes-cluster>opsnull/follow-me-install-kubernetes-cluster</a><span> 和我一步步部署 kubernetes 集群</span></li><li><a href=https://github.com/typecho/typecho>typecho/typecho</a><span> A PHP Blogging Platform. Simple and Powerful.</span></li><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><span> A fancy self-hosted monitoring tool</span></li><li><a href=https://github.com/BigCoke233/miracles>BigCoke233/miracles</a><span> 🎉 Typecho Theme Miracles - 生为奇迹</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li></ul>
+<ul><li><a href=https://github.com/Homebrew/legacy-homebrew>Homebrew/legacy-homebrew</a><span> 💀 The former home of Homebrew/homebrew (deprecated)</span></li><li><a href=https://github.com/typecho/typecho>typecho/typecho</a><span> A PHP Blogging Platform. Simple and Powerful.</span></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/xtekky/gpt4free>xtekky/gpt4free</a><span> The official gpt4free repository | various collection of powerful language models</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a><span> A macOS-like dock component made with WebComponents</span></li></ul>
 
 **Can you find me?**
 
@@ -51,4 +51,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/29/23, 5:07 PM<br>下一次刷新：7/29/23, 8:07 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/29/23, 8:16 PM<br>下一次刷新：7/29/23, 11:16 PM</p>
