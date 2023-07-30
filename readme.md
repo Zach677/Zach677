@@ -40,7 +40,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/typecho/typecho>typecho/typecho</a><span> A PHP Blogging Platform. Simple and Powerful.</span></li><li><a href=https://github.com/LazyVim/LazyVim>LazyVim/LazyVim</a><span> Neovim config for the lazy</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li><li><a href=https://github.com/zsh-users/antigen>zsh-users/antigen</a><span> The plugin manager for zsh.</span></li><li><a href=https://github.com/nvim-treesitter/nvim-treesitter-textobjects>nvim-treesitter/nvim-treesitter-textobjects</a></li></ul>
+<ul><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><span> An easy and powerful Rust HTTP Client</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a><span> A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/BigCoke233/miracles>BigCoke233/miracles</a><span> 🎉 Typecho Theme Miracles - 生为奇迹</span></li><li><a href=https://github.com/kovidgoyal/kitty>kovidgoyal/kitty</a><span> Cross-platform, fast, feature-rich, GPU based terminal</span></li></ul>
 
 **Can you find me?**
 
@@ -51,4 +51,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/30/23, 11:08 PM<br>下一次刷新：7/31/23, 2:08 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/23, 2:10 AM<br>下一次刷新：7/31/23, 5:10 AM</p>
