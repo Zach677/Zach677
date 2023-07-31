@@ -37,11 +37,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/typescript-language-server/typescript-language-server>typescript-language-server/typescript-language-server</a><span> TypeScript & JavaScript Language Server</span></li><li><a href=https://github.com/tmux/tmux>tmux/tmux</a><span> tmux source code</span></li><li><a href=https://github.com/stevearc/dressing.nvim>stevearc/dressing.nvim</a><span> Neovim plugin to improve the default vim.ui interfaces</span></li><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li><li><a href=https://github.com/folke/lazy.nvim>folke/lazy.nvim</a><span> 💤 A modern plugin manager for Neovim</span></li></ul>
+<ul><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><span> Umami is a simple, fast, privacy-focused alternative to Google Analytics.</span></li><li><a href=https://github.com/typescript-language-server/typescript-language-server>typescript-language-server/typescript-language-server</a><span> TypeScript & JavaScript Language Server</span></li><li><a href=https://github.com/tmux/tmux>tmux/tmux</a><span> tmux source code</span></li><li><a href=https://github.com/stevearc/dressing.nvim>stevearc/dressing.nvim</a><span> Neovim plugin to improve the default vim.ui interfaces</span></li><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Homebrew/homebrew-core>Homebrew/homebrew-core</a><span> 🍻 Default formulae for the missing package manager for macOS (or Linux)</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li><li><a href=https://github.com/CodeSutendts/CodeSutendts>CodeSutendts/CodeSutendts</a><span> Config files for my GitHub profile.</span></li><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a></li></ul>
+<ul><li><a href=https://github.com/1c7/chinese-independent-developer>1c7/chinese-independent-developer</a><span> 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li><li><a href=https://github.com/MordechaiHadad/bob>MordechaiHadad/bob</a><span> A version manager for neovim</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a><span> A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><span> Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/23, 5:10 PM<br>下一次刷新：7/31/23, 8:10 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/23, 8:19 PM<br>下一次刷新：7/31/23, 11:19 PM</p>
