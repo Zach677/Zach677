@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><span> An easy and powerful Rust HTTP Client</span></li><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a></li><li><a href=https://github.com/AkaraChen/learn-neovim-lua>AkaraChen/learn-neovim-lua</a><span> Neovim 配置实战：从 0 到 1 打造自己的 IDE</span></li><li><a href=https://github.com/EbookFoundation/free-programming-books>EbookFoundation/free-programming-books</a><span> :books: Freely available programming books</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li></ul>
+<ul><li><a href=https://github.com/1c7/chinese-independent-developer>1c7/chinese-independent-developer</a><span> 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</span></li><li><a href=https://github.com/Homebrew/brew>Homebrew/brew</a><span> 🍺 The missing package manager for macOS (or Linux)</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a><span> A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/zsh-users/antigen>zsh-users/antigen</a><span> The plugin manager for zsh.</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/1/23, 2:11 AM<br>下一次刷新：8/1/23, 5:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/1/23, 5:08 AM<br>下一次刷新：8/1/23, 8:08 AM</p>
