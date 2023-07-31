@@ -27,6 +27,7 @@ Although my technology is poor now, it will slowly improve in the future.
     <img alt="arch linux"src="https://camo.githubusercontent.com/5663f9a4e9d0c47f590d839330c5b4a140a4af82eb3ffb47d130a4dd9c321273/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d617263686c696e75782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d617263686c696e7578266c6f676f436f6c6f723d626c7565"/>
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+  <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
 </p>
 
 
@@ -36,11 +37,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/utilyre/barbecue.nvim>utilyre/barbecue.nvim</a><span> A VS Code like winbar for Neovim</span></li><li><a href=https://github.com/Bekaboo/dropbar.nvim>Bekaboo/dropbar.nvim</a><span> IDE-like breadcrumbs, out of the box</span></li><li><a href=https://github.com/MordechaiHadad/bob>MordechaiHadad/bob</a><span> A version manager for neovim</span></li><li><a href=https://github.com/AkaraChen/learn-neovim-lua>AkaraChen/learn-neovim-lua</a><span> Neovim 配置实战：从 0 到 1 打造自己的 IDE</span></li><li><a href=https://github.com/Innei/dotfiles>Innei/dotfiles</a><span> Innei's dotfiles. nvim, zsh, fzf, git, ideavim, ranger</span></li></ul>
+<ul><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li><li><a href=https://github.com/folke/lazy.nvim>folke/lazy.nvim</a><span> 💤 A modern plugin manager for Neovim</span></li><li><a href=https://github.com/utilyre/barbecue.nvim>utilyre/barbecue.nvim</a><span> A VS Code like winbar for Neovim</span></li><li><a href=https://github.com/Bekaboo/dropbar.nvim>Bekaboo/dropbar.nvim</a><span> IDE-like breadcrumbs, out of the box</span></li><li><a href=https://github.com/MordechaiHadad/bob>MordechaiHadad/bob</a><span> A version manager for neovim</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/JohannLai/gptcli>JohannLai/gptcli</a><span> 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli. 内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 GitHub Actions 这么简单，让 AI 帮助我们链接自然语言和结构化数据。</span></li><li><a href=https://github.com/xtekky/gpt4free>xtekky/gpt4free</a><span> The official gpt4free repository | various collection of powerful language models</span></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a><span> ● Mouse effect of iPad in browser that can be used in any framework</span></li><li><a href=https://github.com/BigCoke233/miracles>BigCoke233/miracles</a><span> 🎉 Typecho Theme Miracles - 生为奇迹</span></li></ul>
+<ul><li><a href=https://github.com/JohannLai/gptcli>JohannLai/gptcli</a><span> 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli. 内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 GitHub Actions 这么简单，让 AI 帮助我们链接自然语言和结构化数据。</span></li><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a></li><li><a href=https://github.com/AkaraChen/learn-neovim-lua>AkaraChen/learn-neovim-lua</a><span> Neovim 配置实战：从 0 到 1 打造自己的 IDE</span></li><li><a href=https://github.com/Homebrew/legacy-homebrew>Homebrew/legacy-homebrew</a><span> 💀 The former home of Homebrew/homebrew (deprecated)</span></li><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><span> Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</span></li></ul>
 
 **Can you find me?**
 
@@ -51,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/23, 11:10 AM<br>下一次刷新：7/31/23, 2:10 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/23, 12:49 PM<br>下一次刷新：7/31/23, 3:49 PM</p>
