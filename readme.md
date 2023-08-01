@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><span> An easy and powerful Rust HTTP Client</span></li><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><span> Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</span></li><li><a href=https://github.com/Homebrew/legacy-homebrew>Homebrew/legacy-homebrew</a><span> 💀 The former home of Homebrew/homebrew (deprecated)</span></li><li><a href=https://github.com/EbookFoundation/free-programming-books>EbookFoundation/free-programming-books</a><span> :books: Freely available programming books</span></li><li><a href=https://github.com/Innei/dotfiles>Innei/dotfiles</a><span> Innei's dotfiles. nvim, zsh, fzf, git, ideavim, ranger</span></li></ul>
+<ul><li><a href=https://github.com/utilyre/barbecue.nvim>utilyre/barbecue.nvim</a><span> A VS Code like winbar for Neovim</span></li><li><a href=https://github.com/zsh-users/antigen>zsh-users/antigen</a><span> The plugin manager for zsh.</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a><span> A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/nvim-treesitter/nvim-treesitter-textobjects>nvim-treesitter/nvim-treesitter-textobjects</a></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a><span> A macOS-like dock component made with WebComponents</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/23, 2:11 AM<br>下一次刷新：8/2/23, 5:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/23, 5:08 AM<br>下一次刷新：8/2/23, 8:08 AM</p>
