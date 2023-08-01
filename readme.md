@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><span> Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</span></li><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a></li><li><a href=https://github.com/Homebrew/homebrew-core>Homebrew/homebrew-core</a><span> 🍻 Default formulae for the missing package manager for macOS (or Linux)</span></li><li><a href=https://github.com/Innei/dotfiles>Innei/dotfiles</a><span> Innei's dotfiles. nvim, zsh, fzf, git, ideavim, ranger</span></li><li><a href=https://github.com/zsh-users/antigen>zsh-users/antigen</a><span> The plugin manager for zsh.</span></li></ul>
+<ul><li><a href=https://github.com/zsh-users/antigen>zsh-users/antigen</a><span> The plugin manager for zsh.</span></li><li><a href=https://github.com/LazyVim/LazyVim>LazyVim/LazyVim</a><span> Neovim config for the lazy</span></li><li><a href=https://github.com/MordechaiHadad/bob>MordechaiHadad/bob</a><span> A version manager for neovim</span></li><li><a href=https://github.com/Homebrew/brew>Homebrew/brew</a><span> 🍺 The missing package manager for macOS (or Linux)</span></li><li><a href=https://github.com/CodeSutendts/CodeSutendts>CodeSutendts/CodeSutendts</a><span> Config files for my GitHub profile.</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/1/23, 8:55 AM<br>下一次刷新：8/1/23, 11:55 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/1/23, 11:10 AM<br>下一次刷新：8/1/23, 2:10 PM</p>
