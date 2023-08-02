@@ -37,11 +37,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><span> Umami is a simple, fast, privacy-focused alternative to Google Analytics.</span></li><li><a href=https://github.com/typescript-language-server/typescript-language-server>typescript-language-server/typescript-language-server</a><span> TypeScript & JavaScript Language Server</span></li><li><a href=https://github.com/tmux/tmux>tmux/tmux</a><span> tmux source code</span></li><li><a href=https://github.com/stevearc/dressing.nvim>stevearc/dressing.nvim</a><span> Neovim plugin to improve the default vim.ui interfaces</span></li><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li></ul>
+<ul><li><a href=https://github.com/CaliCastle/cali.so>CaliCastle/cali.so</a><span> Cali 的个人官网开源项目</span></li><li><a href=https://github.com/vadimdemedes/ink>vadimdemedes/ink</a><span> 🌈 React for interactive command-line apps</span></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><span> Umami is a simple, fast, privacy-focused alternative to Google Analytics.</span></li><li><a href=https://github.com/typescript-language-server/typescript-language-server>typescript-language-server/typescript-language-server</a><span> TypeScript & JavaScript Language Server</span></li><li><a href=https://github.com/tmux/tmux>tmux/tmux</a><span> tmux source code</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/LazyVim/LazyVim>LazyVim/LazyVim</a><span> Neovim config for the lazy</span></li><li><a href=https://github.com/1c7/chinese-independent-developer>1c7/chinese-independent-developer</a><span> 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</span></li><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><span> An easy and powerful Rust HTTP Client</span></li><li><a href=https://github.com/EbookFoundation/free-programming-books>EbookFoundation/free-programming-books</a><span> :books: Freely available programming books</span></li><li><a href=https://github.com/CodeSutendts/CodeSutendts>CodeSutendts/CodeSutendts</a><span> Config files for my GitHub profile.</span></li></ul>
+<ul><li><a href=https://github.com/CodeSutendts/CodeSutendts>CodeSutendts/CodeSutendts</a><span> Config files for my GitHub profile.</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/utilyre/barbecue.nvim>utilyre/barbecue.nvim</a><span> A VS Code like winbar for Neovim</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a><span> A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/kovidgoyal/kitty>kovidgoyal/kitty</a><span> Cross-platform, fast, feature-rich, GPU based terminal</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/23, 2:12 PM<br>下一次刷新：8/2/23, 5:12 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/23, 5:09 PM<br>下一次刷新：8/2/23, 8:09 PM</p>
