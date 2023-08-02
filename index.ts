@@ -155,7 +155,7 @@ ${topStar5}
       gc("FOOTER"),
       m`
     <p align="center">
-    感谢Innei的项目,宝藏README.<a href="https://github.com/Innei">Innei<a>
+    感谢<a href="https://github.com/Innei">Innei</a>的项目,宝藏README.
     </br>
     此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
     </br>
