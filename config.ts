@@ -1,11 +1,9 @@
 export const opensource = {
-  active: [
-    'CodeSutendts/CodeSutendts',
-  ],
-}
+  active: ["CodeSutendts/CodeSutendts", "CodeSutendts/nvim-lua"],
+};
 
 export const github = {
-  name: 'CodeSutendts',
-}
+  name: "CodeSutendts",
+};
 
-export const timeZone = 'Asia/Shanghai'
+export const timeZone = "Asia/Shanghai";
