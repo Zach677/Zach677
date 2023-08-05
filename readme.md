@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/CaliCastle/cali.so>CaliCastle/cali.so</a><span> Cali 的个人官网开源项目</span></li><li><a href=https://github.com/MordechaiHadad/bob>MordechaiHadad/bob</a><span> A version manager for neovim</span></li><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><span> Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</span></li><li><a href=https://github.com/CodeSutendts/CodeSutendts>CodeSutendts/CodeSutendts</a><span> Config files for my GitHub profile.</span></li><li><a href=https://github.com/zsh-users/antigen>zsh-users/antigen</a><span> The plugin manager for zsh.</span></li></ul>
+<ul><li><a href=https://github.com/Homebrew/legacy-homebrew>Homebrew/legacy-homebrew</a><span> 💀 The former home of Homebrew/homebrew (deprecated)</span></li><li><a href=https://github.com/MordechaiHadad/bob>MordechaiHadad/bob</a><span> A version manager for neovim</span></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><span> Umami is a simple, fast, privacy-focused alternative to Google Analytics.</span></li><li><a href=https://github.com/AkaraChen/learn-neovim-lua>AkaraChen/learn-neovim-lua</a><span> Neovim 配置实战：从 0 到 1 打造自己的 IDE</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/5/23, 5:07 AM<br>下一次刷新：8/5/23, 8:07 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/5/23, 8:47 AM<br>下一次刷新：8/5/23, 11:47 AM</p>
