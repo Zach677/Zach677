@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/kovidgoyal/kitty>kovidgoyal/kitty</a><span> Cross-platform, fast, feature-rich, GPU based terminal</span></li><li><a href=https://github.com/stevearc/dressing.nvim>stevearc/dressing.nvim</a><span> Neovim plugin to improve the default vim.ui interfaces</span></li><li><a href=https://github.com/Bekaboo/dropbar.nvim>Bekaboo/dropbar.nvim</a><span> IDE-like breadcrumbs, out of the box</span></li><li><a href=https://github.com/tmux/tmux>tmux/tmux</a><span> tmux source code</span></li><li><a href=https://github.com/vadimdemedes/ink>vadimdemedes/ink</a><span> 🌈 React for interactive command-line apps</span></li></ul>
+<ul><li><a href=https://github.com/kovidgoyal/kitty>kovidgoyal/kitty</a><span> Cross-platform, fast, feature-rich, GPU based terminal</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li><li><a href=https://github.com/utilyre/barbecue.nvim>utilyre/barbecue.nvim</a><span> A VS Code like winbar for Neovim</span></li><li><a href=https://github.com/tmux/tmux>tmux/tmux</a><span> tmux source code</span></li><li><a href=https://github.com/Innei/dotfiles>Innei/dotfiles</a><span> Innei's dotfiles. nvim, zsh, fzf, git, ideavim, ranger</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/6/23, 8:15 PM<br>下一次刷新：8/6/23, 11:15 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/6/23, 11:08 PM<br>下一次刷新：8/7/23, 2:08 AM</p>
