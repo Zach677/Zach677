@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a></li><li><a href=https://github.com/termux/termux-app>termux/termux-app</a><span> Termux - a terminal emulator application for Android OS extendible by variety of packages.</span></li><li><a href=https://github.com/LuaLS/lua-language-server>LuaLS/lua-language-server</a><span> A language server that offers Lua language support - programmed in Lua</span></li><li><a href=https://github.com/folke/lazy.nvim>folke/lazy.nvim</a><span> 💤 A modern plugin manager for Neovim</span></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/learn-neovim-lua>AkaraChen/learn-neovim-lua</a><span> Neovim 配置实战：从 0 到 1 打造自己的 IDE</span></li><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a></li><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li><li><a href=https://github.com/BigCoke233/miracles>BigCoke233/miracles</a><span> 🎉 Typecho Theme Miracles - 生为奇迹</span></li><li><a href=https://github.com/tmux/tmux>tmux/tmux</a><span> tmux source code</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/8/23, 11:09 PM<br>下一次刷新：8/9/23, 2:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/9/23, 2:11 AM<br>下一次刷新：8/9/23, 5:11 AM</p>
