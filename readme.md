@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/termux/termux-app>termux/termux-app</a><span> Termux - a terminal emulator application for Android OS extendible by variety of packages.</span></li><li><a href=https://github.com/CaliCastle/cali.so>CaliCastle/cali.so</a><span> Cali 的个人官网开源项目</span></li><li><a href=https://github.com/MordechaiHadad/bob>MordechaiHadad/bob</a><span> A version manager for neovim</span></li><li><a href=https://github.com/LuaLS/lua-language-server>LuaLS/lua-language-server</a><span> A language server that offers Lua language support - programmed in Lua</span></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><span> Umami is a simple, fast, privacy-focused alternative to Google Analytics.</span></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/learn-neovim-lua>AkaraChen/learn-neovim-lua</a><span> Neovim 配置实战：从 0 到 1 打造自己的 IDE</span></li><li><a href=https://github.com/stevearc/dressing.nvim>stevearc/dressing.nvim</a><span> Neovim plugin to improve the default vim.ui interfaces</span></li><li><a href=https://github.com/BigCoke233/miracles>BigCoke233/miracles</a><span> 🎉 Typecho Theme Miracles - 生为奇迹</span></li><li><a href=https://github.com/vadimdemedes/ink>vadimdemedes/ink</a><span> 🌈 React for interactive command-line apps</span></li><li><a href=https://github.com/Innei/dotfiles>Innei/dotfiles</a><span> Innei's dotfiles. nvim, zsh, fzf, git, ideavim, ranger</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/10/23, 5:09 PM<br>下一次刷新：8/10/23, 8:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/10/23, 8:19 PM<br>下一次刷新：8/10/23, 11:19 PM</p>
