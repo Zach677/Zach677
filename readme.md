@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><span> Umami is a simple, fast, privacy-focused alternative to Google Analytics.</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</span></li><li><a href=https://github.com/stevearc/dressing.nvim>stevearc/dressing.nvim</a><span> Neovim plugin to improve the default vim.ui interfaces</span></li><li><a href=https://github.com/utilyre/barbecue.nvim>utilyre/barbecue.nvim</a><span> A VS Code like winbar for Neovim</span></li></ul>
+<ul><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li><li><a href=https://github.com/Innei/dotfiles>Innei/dotfiles</a><span> Innei's dotfiles. nvim, zsh, fzf, git, ideavim, ranger</span></li><li><a href=https://github.com/MordechaiHadad/bob>MordechaiHadad/bob</a><span> A version manager for neovim</span></li><li><a href=https://github.com/AkaraChen/learn-neovim-lua>AkaraChen/learn-neovim-lua</a><span> Neovim 配置实战：从 0 到 1 打造自己的 IDE</span></li><li><a href=https://github.com/LuaLS/lua-language-server>LuaLS/lua-language-server</a><span> A language server that offers Lua language support - programmed in Lua</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/10/23, 5:08 AM<br>下一次刷新：8/10/23, 8:08 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/10/23, 8:51 AM<br>下一次刷新：8/10/23, 11:51 AM</p>
