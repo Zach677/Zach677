@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/stevearc/dressing.nvim>stevearc/dressing.nvim</a><span> Neovim plugin to improve the default vim.ui interfaces</span></li><li><a href=https://github.com/yichengchen/clashX>yichengchen/clashX</a></li><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a></li><li><a href=https://github.com/Innei/dotfiles>Innei/dotfiles</a><span> Innei's dotfiles. nvim, zsh, fzf, git, ideavim, ranger</span></li><li><a href=https://github.com/MordechaiHadad/bob>MordechaiHadad/bob</a><span> A version manager for neovim</span></li></ul>
+<ul><li><a href=https://github.com/yichengchen/clashX>yichengchen/clashX</a></li><li><a href=https://github.com/LuaLS/lua-language-server>LuaLS/lua-language-server</a><span> A language server that offers Lua language support - programmed in Lua</span></li><li><a href=https://github.com/stevearc/dressing.nvim>stevearc/dressing.nvim</a><span> Neovim plugin to improve the default vim.ui interfaces</span></li><li><a href=https://github.com/kovidgoyal/kitty>kovidgoyal/kitty</a><span> Cross-platform, fast, feature-rich, GPU based terminal</span></li><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/12/23, 2:10 PM<br>下一次刷新：8/12/23, 5:10 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/12/23, 5:07 PM<br>下一次刷新：8/12/23, 8:07 PM</p>
