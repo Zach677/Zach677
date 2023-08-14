@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><span> Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</span></li><li><a href=https://github.com/BigCoke233/miracles>BigCoke233/miracles</a><span> 🎉 Typecho Theme Miracles - 生为奇迹</span></li><li><a href=https://github.com/CaliCastle/cali.so>CaliCastle/cali.so</a><span> Cali 的个人官网开源项目</span></li><li><a href=https://github.com/LazyVim/LazyVim>LazyVim/LazyVim</a><span> Neovim config for the lazy</span></li><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li></ul>
+<ul><li><a href=https://github.com/typecho/typecho>typecho/typecho</a><span> A PHP Blogging Platform. Simple and Powerful.</span></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><span> Umami is a simple, fast, privacy-focused alternative to Google Analytics.</span></li><li><a href=https://github.com/CaliCastle/cali.so>CaliCastle/cali.so</a><span> Cali 的个人官网开源项目</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</span></li><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/14/23, 8:41 AM<br>下一次刷新：8/14/23, 11:41 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/14/23, 11:09 AM<br>下一次刷新：8/14/23, 2:09 PM</p>
