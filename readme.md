@@ -37,11 +37,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/gibahjoe/openapi-generator-dart>gibahjoe/openapi-generator-dart</a><span> Openapi Generator for Dart/Flutter</span></li><li><a href=https://github.com/kauemurakami/getx_pattern>kauemurakami/getx_pattern</a><span> Design pattern designed to standardize your projects with GetX on Flutter.</span></li><li><a href=https://github.com/subosito/flutter-action>subosito/flutter-action</a><span> Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.</span></li><li><a href=https://github.com/nabilnalakath/flutter-githubaction>nabilnalakath/flutter-githubaction</a><span> This is a sample flutter project with CI-CD integration using Github Actions.</span></li><li><a href=https://github.com/XcodesOrg/XcodesApp>XcodesOrg/XcodesApp</a><span> The easiest way to install and switch between multiple versions of Xcode - with a mouse click.</span></li></ul>
+<ul><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><span> 😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</span></li><li><a href=https://github.com/gibahjoe/openapi-generator-dart>gibahjoe/openapi-generator-dart</a><span> Openapi Generator for Dart/Flutter</span></li><li><a href=https://github.com/kauemurakami/getx_pattern>kauemurakami/getx_pattern</a><span> Design pattern designed to standardize your projects with GetX on Flutter.</span></li><li><a href=https://github.com/subosito/flutter-action>subosito/flutter-action</a><span> Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.</span></li><li><a href=https://github.com/nabilnalakath/flutter-githubaction>nabilnalakath/flutter-githubaction</a><span> This is a sample flutter project with CI-CD integration using Github Actions.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/folke/lazy.nvim>folke/lazy.nvim</a><span> 💤 A modern plugin manager for Neovim</span></li><li><a href=https://github.com/tmux/tmux>tmux/tmux</a><span> tmux source code</span></li><li><a href=https://github.com/vadimdemedes/ink>vadimdemedes/ink</a><span> 🌈 React for interactive command-line apps</span></li><li><a href=https://github.com/Bekaboo/dropbar.nvim>Bekaboo/dropbar.nvim</a><span> IDE-like breadcrumbs, out of the box</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</span></li></ul>
+<ul><li><a href=https://github.com/yichengchen/clashX>yichengchen/clashX</a></li><li><a href=https://github.com/nshen/learn-neovim-lua>nshen/learn-neovim-lua</a><span> Neovim 配置实战：从 0 到 1 打造自己的 IDE</span></li><li><a href=https://github.com/utilyre/barbecue.nvim>utilyre/barbecue.nvim</a><span> A VS Code like winbar for Neovim</span></li><li><a href=https://github.com/typescript-language-server/typescript-language-server>typescript-language-server/typescript-language-server</a><span> TypeScript & JavaScript Language Server</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 自用 Adguard 规则</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/15/23, 11:09 AM<br>下一次刷新：8/15/23, 2:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/15/23, 2:12 PM<br>下一次刷新：8/15/23, 5:12 PM</p>
