@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><span> 收集整理远程工作相关的资料</span></li><li><a href=https://github.com/MordechaiHadad/bob>MordechaiHadad/bob</a><span> A version manager for neovim</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 自用 Adguard 规则</span></li><li><a href=https://github.com/typescript-language-server/typescript-language-server>typescript-language-server/typescript-language-server</a><span> TypeScript & JavaScript Language Server</span></li><li><a href=https://github.com/bytedance/bytemd>bytedance/bytemd</a><span> Hackable Markdown Editor and Viewer</span></li></ul>
+<ul><li><a href=https://github.com/CaliCastle/cali.so>CaliCastle/cali.so</a><span> Cali 的个人官网开源项目</span></li><li><a href=https://github.com/folke/lazy.nvim>folke/lazy.nvim</a><span> 💤 A modern plugin manager for Neovim</span></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><span> 收集整理远程工作相关的资料</span></li><li><a href=https://github.com/typescript-language-server/typescript-language-server>typescript-language-server/typescript-language-server</a><span> TypeScript & JavaScript Language Server</span></li><li><a href=https://github.com/tmux/tmux>tmux/tmux</a><span> tmux source code</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/15/23, 11:09 PM<br>下一次刷新：8/16/23, 2:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/16/23, 2:11 AM<br>下一次刷新：8/16/23, 5:11 AM</p>
