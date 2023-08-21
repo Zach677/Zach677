@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/termux/termux-app>termux/termux-app</a><span> Termux - a terminal emulator application for Android OS extendible by variety of packages.</span></li><li><a href=https://github.com/CaliCastle/cali.so>CaliCastle/cali.so</a><span> Cali 的个人官网开源项目</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</span></li><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><span> 😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</span></li><li><a href=https://github.com/gibahjoe/openapi-generator-dart>gibahjoe/openapi-generator-dart</a><span> Openapi Generator for Dart/Flutter</span></li></ul>
+<ul><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a><span> ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.</span></li><li><a href=https://github.com/kauemurakami/getx_pattern>kauemurakami/getx_pattern</a><span> Design pattern designed to standardize your projects with GetX on Flutter.</span></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><span> 收集整理远程工作相关的资料</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</span></li><li><a href=https://github.com/nabilnalakath/flutter-githubaction>nabilnalakath/flutter-githubaction</a><span> This is a sample flutter project with CI-CD integration using Github Actions.</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/21/23, 11:09 PM<br>下一次刷新：8/22/23, 2:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/22/23, 2:10 AM<br>下一次刷新：8/22/23, 5:10 AM</p>
