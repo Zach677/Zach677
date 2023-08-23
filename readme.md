@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><span> 😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</span></li><li><a href=https://github.com/pmndrs/jotai>pmndrs/jotai</a><span> 👻 Primitive and flexible state management for React</span></li><li><a href=https://github.com/LuaLS/lua-language-server>LuaLS/lua-language-server</a><span> A language server that offers Lua language support - programmed in Lua</span></li><li><a href=https://github.com/yichengchen/clashX>yichengchen/clashX</a></li><li><a href=https://github.com/subosito/flutter-action>subosito/flutter-action</a><span> Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.</span></li></ul>
+<ul><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><span> 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</span></li><li><a href=https://github.com/kauemurakami/getx_pattern>kauemurakami/getx_pattern</a><span> Design pattern designed to standardize your projects with GetX on Flutter.</span></li><li><a href=https://github.com/danielfalk/smart-open.nvim>danielfalk/smart-open.nvim</a><span> Neovim plugin for fast file-finding</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 自用 Adguard 规则</span></li><li><a href=https://github.com/gibahjoe/openapi-generator-dart>gibahjoe/openapi-generator-dart</a><span> Openapi Generator for Dart/Flutter</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/23/23, 5:08 AM<br>下一次刷新：8/23/23, 8:08 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/23/23, 8:40 AM<br>下一次刷新：8/23/23, 11:40 AM</p>
