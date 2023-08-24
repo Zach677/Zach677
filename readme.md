@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/XcodesOrg/XcodesApp>XcodesOrg/XcodesApp</a><span> The easiest way to install and switch between multiple versions of Xcode - with a mouse click.</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><span> A nice code font</span></li><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><span> 😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</span></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><span> 收集整理远程工作相关的资料</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a><span> ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.</span></li></ul>
+<ul><li><a href=https://github.com/pmndrs/jotai>pmndrs/jotai</a><span> 👻 Primitive and flexible state management for React</span></li><li><a href=https://github.com/XcodesOrg/XcodesApp>XcodesOrg/XcodesApp</a><span> The easiest way to install and switch between multiple versions of Xcode - with a mouse click.</span></li><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><span> 😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</span></li><li><a href=https://github.com/yichengchen/clashX>yichengchen/clashX</a></li><li><a href=https://github.com/XcodesOrg/xcodes>XcodesOrg/xcodes</a><span> The best command-line tool to install and switch between multiple versions of Xcode.</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/24/23, 11:09 AM<br>下一次刷新：8/24/23, 2:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/24/23, 2:12 PM<br>下一次刷新：8/24/23, 5:12 PM</p>
