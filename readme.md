@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/danielfalk/smart-open.nvim>danielfalk/smart-open.nvim</a><span> Neovim plugin for fast file-finding</span></li><li><a href=https://github.com/termux/termux-app>termux/termux-app</a><span> Termux - a terminal emulator application for Android OS extendible by variety of packages.</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 自用 Adguard 规则</span></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><span> 收集整理远程工作相关的资料</span></li><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li></ul>
+<ul><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/pmndrs/jotai>pmndrs/jotai</a><span> 👻 Primitive and flexible state management for React</span></li><li><a href=https://github.com/bytedance/bytemd>bytedance/bytemd</a><span> Hackable Markdown Editor and Viewer</span></li><li><a href=https://github.com/ikun-svelte/ikun-ui>ikun-svelte/ikun-ui</a><span> 🐔A Svelte.js based UnoCSS UI library that allows you to make websites</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/25/23, 8:16 PM<br>下一次刷新：8/25/23, 11:16 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/25/23, 11:09 PM<br>下一次刷新：8/26/23, 2:09 AM</p>
