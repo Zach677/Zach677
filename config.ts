@@ -1,5 +1,5 @@
 export const opensource = {
-  active: ["CodeSutendts/CodeSutendts"],
+  active: ["CodeSutendts/CodeSutendts", "CodeSutendts/static"],
 };
 
 export const github = {
