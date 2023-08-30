@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/XcodesOrg/xcodes>XcodesOrg/xcodes</a><span> The best command-line tool to install and switch between multiple versions of Xcode.</span></li><li><a href=https://github.com/subosito/flutter-action>subosito/flutter-action</a><span> Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.</span></li><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/danielfalk/smart-open.nvim>danielfalk/smart-open.nvim</a><span> Neovim plugin for fast file-finding</span></li><li><a href=https://github.com/ShenQingchuan/Railgun>ShenQingchuan/Railgun</a><span> Opinionated Vite + React starter template.</span></li></ul>
+<ul><li><a href=https://github.com/kauemurakami/getx_pattern>kauemurakami/getx_pattern</a><span> Design pattern designed to standardize your projects with GetX on Flutter.</span></li><li><a href=https://github.com/ikun-svelte/ikun-ui>ikun-svelte/ikun-ui</a><span> 🐔A Svelte.js based UnoCSS UI library that allows you to make websites</span></li><li><a href=https://github.com/XcodesOrg/xcodes>XcodesOrg/xcodes</a><span> The best command-line tool to install and switch between multiple versions of Xcode.</span></li><li><a href=https://github.com/termux/termux-app>termux/termux-app</a><span> Termux - a terminal emulator application for Android OS extendible by variety of packages.</span></li><li><a href=https://github.com/Drovosek01/adobe-packager>Drovosek01/adobe-packager</a><span> Script that allows to download portable installers of different versions Adobe software for macOS</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/30/23, 5:08 AM<br>下一次刷新：8/30/23, 8:08 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/30/23, 8:41 AM<br>下一次刷新：8/30/23, 11:41 AM</p>
