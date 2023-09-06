@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/kamiyaa/joshuto>kamiyaa/joshuto</a><span> ranger-like terminal file manager written in Rust</span></li><li><a href=https://github.com/ikun-svelte/ikun-ui>ikun-svelte/ikun-ui</a><span> 🐔A Svelte.js based UnoCSS UI library that allows you to make websites</span></li><li><a href=https://github.com/XcodesOrg/xcodes>XcodesOrg/xcodes</a><span> The best command-line tool to install and switch between multiple versions of Xcode.</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a><span> ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.</span></li><li><a href=https://github.com/CodeSutendts/static>CodeSutendts/static</a><span> 关于我的个人图床</span></li></ul>
+<ul><li><a href=https://github.com/XcodesOrg/XcodesApp>XcodesOrg/XcodesApp</a><span> The easiest way to install and switch between multiple versions of Xcode - with a mouse click.</span></li><li><a href=https://github.com/subosito/flutter-action>subosito/flutter-action</a><span> Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.</span></li><li><a href=https://github.com/jackMort/ChatGPT.nvim>jackMort/ChatGPT.nvim</a><span> ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API</span></li><li><a href=https://github.com/openai-translator/raycast-openai-translator>openai-translator/raycast-openai-translator</a><span> 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.</span></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><span> 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/6/23, 11:09 AM<br>下一次刷新：9/6/23, 2:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/6/23, 2:12 PM<br>下一次刷新：9/6/23, 5:12 PM</p>
