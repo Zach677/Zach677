@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/danielfalk/smart-open.nvim>danielfalk/smart-open.nvim</a><span> Neovim plugin for fast file-finding</span></li><li><a href=https://github.com/rust-lang/rust-analyzer>rust-lang/rust-analyzer</a><span> A Rust compiler front-end for IDEs</span></li><li><a href=https://github.com/kamiyaa/joshuto>kamiyaa/joshuto</a><span> ranger-like terminal file manager written in Rust</span></li><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a><span> ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.</span></li></ul>
+<ul><li><a href=https://github.com/nabilnalakath/flutter-githubaction>nabilnalakath/flutter-githubaction</a><span> This is a sample flutter project with CI-CD integration using Github Actions.</span></li><li><a href=https://github.com/CodeSutendts/learning>CodeSutendts/learning</a></li><li><a href=https://github.com/CodeSutendts/static>CodeSutendts/static</a><span> 关于我的个人图床</span></li><li><a href=https://github.com/CodeSutendts/Shiro>CodeSutendts/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 自用 Adguard 规则</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/7/23, 5:09 PM<br>下一次刷新：9/7/23, 8:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/7/23, 8:17 PM<br>下一次刷新：9/7/23, 11:17 PM</p>
