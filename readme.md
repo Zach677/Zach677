@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/openai-translator/raycast-openai-translator>openai-translator/raycast-openai-translator</a><span> 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.</span></li><li><a href=https://github.com/CodeSutendts/Shiro>CodeSutendts/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/SerenityOS/serenity>SerenityOS/serenity</a><span> The Serenity Operating System 🐞</span></li><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><span> 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</span></li><li><a href=https://github.com/CodeSutendts/learning>CodeSutendts/learning</a></li></ul>
+<ul><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><span> A nice code font</span></li><li><a href=https://github.com/ayamir/nvimdots>ayamir/nvimdots</a><span> A well configured and structured Neovim.</span></li><li><a href=https://github.com/kauemurakami/getx_pattern>kauemurakami/getx_pattern</a><span> Design pattern designed to standardize your projects with GetX on Flutter.</span></li><li><a href=https://github.com/rust-lang/rust-analyzer>rust-lang/rust-analyzer</a><span> A Rust compiler front-end for IDEs</span></li><li><a href=https://github.com/jackMort/ChatGPT.nvim>jackMort/ChatGPT.nvim</a><span> ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/12/23, 2:11 PM<br>下一次刷新：9/12/23, 5:11 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/12/23, 5:09 PM<br>下一次刷新：9/12/23, 8:09 PM</p>
