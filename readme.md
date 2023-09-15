@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ayamir/nvimdots>ayamir/nvimdots</a><span> A well configured and structured Neovim.</span></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a><span> Automated iOS Backup Robot</span></li><li><a href=https://github.com/spicetify/spicetify-cli>spicetify/spicetify-cli</a><span> Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.</span></li><li><a href=https://github.com/kamiyaa/joshuto>kamiyaa/joshuto</a><span> ranger-like terminal file manager written in Rust</span></li><li><a href=https://github.com/openai-translator/raycast-openai-translator>openai-translator/raycast-openai-translator</a><span> 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.</span></li></ul>
+<ul><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/gibahjoe/openapi-generator-dart>gibahjoe/openapi-generator-dart</a><span> Openapi Generator for Dart/Flutter</span></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><span> 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</span></li><li><a href=https://github.com/Drovosek01/adobe-packager>Drovosek01/adobe-packager</a><span> Script that allows to download portable installers of different versions Adobe software for macOS</span></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a><span> Automated iOS Backup Robot</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/15/23, 8:42 AM<br>下一次刷新：9/15/23, 11:42 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/15/23, 11:10 AM<br>下一次刷新：9/15/23, 2:10 PM</p>
