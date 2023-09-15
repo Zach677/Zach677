@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/CodeSutendts/static>CodeSutendts/static</a><span> 关于我的个人图床</span></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><span> 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</span></li><li><a href=https://github.com/SerenityOS/serenity>SerenityOS/serenity</a><span> The Serenity Operating System 🐞</span></li><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><span> 😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</span></li></ul>
+<ul><li><a href=https://github.com/kauemurakami/getx_pattern>kauemurakami/getx_pattern</a><span> Design pattern designed to standardize your projects with GetX on Flutter.</span></li><li><a href=https://github.com/SerenityOS/serenity>SerenityOS/serenity</a><span> The Serenity Operating System 🐞</span></li><li><a href=https://github.com/spicetify/spicetify-cli>spicetify/spicetify-cli</a><span> Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.</span></li><li><a href=https://github.com/rust-lang/rust-analyzer>rust-lang/rust-analyzer</a><span> A Rust compiler front-end for IDEs</span></li><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/15/23, 11:09 PM<br>下一次刷新：9/16/23, 2:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/16/23, 2:11 AM<br>下一次刷新：9/16/23, 5:11 AM</p>
