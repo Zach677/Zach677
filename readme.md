@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/kamiyaa/joshuto>kamiyaa/joshuto</a><span> ranger-like terminal file manager written in Rust</span></li><li><a href=https://github.com/Caldis/Mos>Caldis/Mos</a><span> 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</span></li><li><a href=https://github.com/CodeSutendts/Shiro>CodeSutendts/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><span> A nice code font</span></li><li><a href=https://github.com/ShenQingchuan/Railgun>ShenQingchuan/Railgun</a><span> Opinionated Vite + React starter template.</span></li></ul>
+<ul><li><a href=https://github.com/spicetify/spicetify-cli>spicetify/spicetify-cli</a><span> Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.</span></li><li><a href=https://github.com/CodeSutendts/InjectLib>CodeSutendts/InjectLib</a><span> 基于Ruby编写的命令行注入版本</span></li><li><a href=https://github.com/CodeSutendts/gpt4free>CodeSutendts/gpt4free</a><span> The official gpt4free repository | various collection of powerful language models</span></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><span> 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</span></li><li><a href=https://github.com/Caldis/Mos>Caldis/Mos</a><span> 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/16/23, 5:08 PM<br>下一次刷新：9/16/23, 8:08 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/16/23, 8:18 PM<br>下一次刷新：9/16/23, 11:18 PM</p>
