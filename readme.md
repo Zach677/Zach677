@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Caldis/Mos>Caldis/Mos</a><span> 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</span></li><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><span> 😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</span></li><li><a href=https://github.com/CodeSutendts/static>CodeSutendts/static</a><span> 关于我的个人图床</span></li><li><a href=https://github.com/rust-lang/rust-analyzer>rust-lang/rust-analyzer</a><span> A Rust compiler front-end for IDEs</span></li><li><a href=https://github.com/CodeSutendts/InjectLib>CodeSutendts/InjectLib</a><span> 基于Ruby编写的命令行注入版本</span></li></ul>
+<ul><li><a href=https://github.com/openai-translator/raycast-openai-translator>openai-translator/raycast-openai-translator</a><span> 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.</span></li><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a><span> ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.</span></li><li><a href=https://github.com/CodeSutendts/static>CodeSutendts/static</a><span> 关于我的个人图床</span></li><li><a href=https://github.com/gibahjoe/openapi-generator-dart>gibahjoe/openapi-generator-dart</a><span> Openapi Generator for Dart/Flutter</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/17/23, 5:07 AM<br>下一次刷新：9/17/23, 8:07 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/17/23, 8:44 AM<br>下一次刷新：9/17/23, 11:44 AM</p>
