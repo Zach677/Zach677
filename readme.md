@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/CodeSutendts/static>CodeSutendts/static</a><span> 关于我的个人图床</span></li><li><a href=https://github.com/gibahjoe/openapi-generator-dart>gibahjoe/openapi-generator-dart</a><span> Openapi Generator for Dart/Flutter</span></li><li><a href=https://github.com/Drovosek01/adobe-packager>Drovosek01/adobe-packager</a><span> Script that allows to download portable installers of different versions Adobe software for macOS</span></li><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a><span> Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li></ul>
+<ul><li><a href=https://github.com/rust-lang/rust-analyzer>rust-lang/rust-analyzer</a><span> A Rust compiler front-end for IDEs</span></li><li><a href=https://github.com/CodeSutendts/learning>CodeSutendts/learning</a></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><span> A nice code font</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a><span> ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.</span></li><li><a href=https://github.com/jackMort/ChatGPT.nvim>jackMort/ChatGPT.nvim</a><span> ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/18/23, 8:18 PM<br>下一次刷新：9/18/23, 11:18 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/18/23, 11:09 PM<br>下一次刷新：9/19/23, 2:09 AM</p>
