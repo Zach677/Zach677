@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/CodeSutendts/Shiro>CodeSutendts/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/ayamir/nvimdots>ayamir/nvimdots</a><span> A well configured and structured Neovim.</span></li><li><a href=https://github.com/ShenQingchuan/Railgun>ShenQingchuan/Railgun</a><span> Opinionated Vite + React starter template.</span></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><span> 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</span></li><li><a href=https://github.com/kamiyaa/joshuto>kamiyaa/joshuto</a><span> ranger-like terminal file manager written in Rust</span></li></ul>
+<ul><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/Drovosek01/adobe-packager>Drovosek01/adobe-packager</a><span> Script that allows to download portable installers of different versions Adobe software for macOS</span></li><li><a href=https://github.com/jackMort/ChatGPT.nvim>jackMort/ChatGPT.nvim</a><span> ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API</span></li><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><span> 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</span></li><li><a href=https://github.com/openai-translator/raycast-openai-translator>openai-translator/raycast-openai-translator</a><span> 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/20/23, 8:17 PM<br>下一次刷新：9/20/23, 11:17 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/20/23, 11:09 PM<br>下一次刷新：9/21/23, 2:09 AM</p>
