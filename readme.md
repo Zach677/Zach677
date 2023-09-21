@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><span> A nice code font</span></li><li><a href=https://github.com/ikun-svelte/ikun-ui>ikun-svelte/ikun-ui</a><span> 🐔A Svelte.js based UnoCSS UI library that allows you to make websites</span></li><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a><span> Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/CodeSutendts/static>CodeSutendts/static</a><span> 关于我的个人图床</span></li></ul>
+<ul><li><a href=https://github.com/CodeSutendts/learning>CodeSutendts/learning</a></li><li><a href=https://github.com/CodeSutendts/InjectLib>CodeSutendts/InjectLib</a><span> 基于Ruby编写的命令行注入版本</span></li><li><a href=https://github.com/spicetify/spicetify-cli>spicetify/spicetify-cli</a><span> Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.</span></li><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a><span> Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/CodeSutendts/gpt4free>CodeSutendts/gpt4free</a><span> The official gpt4free repository | various collection of powerful language models</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/22/23, 2:12 AM<br>下一次刷新：9/22/23, 5:12 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/22/23, 5:08 AM<br>下一次刷新：9/22/23, 8:08 AM</p>
