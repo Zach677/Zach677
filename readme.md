@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/SerenityOS/serenity>SerenityOS/serenity</a><span> The Serenity Operating System 🐞</span></li><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><span> 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</span></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><span> 🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</span></li><li><a href=https://github.com/jackMort/ChatGPT.nvim>jackMort/ChatGPT.nvim</a><span> ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API</span></li></ul>
+<ul><li><a href=https://github.com/h3110w0r1d-y/termius-cracked>h3110w0r1d-y/termius-cracked</a><span> Termius Pro</span></li><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><span> 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</span></li><li><a href=https://github.com/SerenityOS/serenity>SerenityOS/serenity</a><span> The Serenity Operating System 🐞</span></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><span> 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</span></li><li><a href=https://github.com/Drovosek01/adobe-packager>Drovosek01/adobe-packager</a><span> Script that allows to download portable installers of different versions Adobe software for macOS</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/24/23, 2:10 AM<br>下一次刷新：9/24/23, 5:10 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/24/23, 5:07 AM<br>下一次刷新：9/24/23, 8:07 AM</p>
