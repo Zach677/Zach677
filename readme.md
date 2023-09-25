@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Innei/nest-http-prisma-zod>Innei/nest-http-prisma-zod</a><span> A best practice for NestJS framework with using Prisma + Postgres, Socket.IO, Zod and Vitest</span></li><li><a href=https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader>QiuChenlyOpenSource/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/kamiyaa/joshuto>kamiyaa/joshuto</a><span> ranger-like terminal file manager written in Rust</span></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a><span> Automated iOS Backup Robot</span></li><li><a href=https://github.com/CodeSutendts/InjectLib>CodeSutendts/InjectLib</a><span> 基于Ruby编写的命令行注入版本</span></li></ul>
+<ul><li><a href=https://github.com/CodeSutendts/Shiro>CodeSutendts/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/CodeSutendts/learning>CodeSutendts/learning</a></li><li><a href=https://github.com/rust-lang/rust-analyzer>rust-lang/rust-analyzer</a><span> A Rust compiler front-end for IDEs</span></li><li><a href=https://github.com/Innei/nest-http-prisma-zod>Innei/nest-http-prisma-zod</a><span> A best practice for NestJS framework with using Prisma + Postgres, Socket.IO, Zod and Vitest</span></li><li><a href=https://github.com/h3110w0r1d-y/termius-cracked>h3110w0r1d-y/termius-cracked</a><span> Termius Pro</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/23, 2:13 PM<br>下一次刷新：9/25/23, 5:13 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/23, 5:10 PM<br>下一次刷新：9/25/23, 8:10 PM</p>
