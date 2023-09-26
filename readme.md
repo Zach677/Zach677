@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/rust-lang/rust-analyzer>rust-lang/rust-analyzer</a><span> A Rust compiler front-end for IDEs</span></li><li><a href=https://github.com/h3110w0r1d-y/termius-cracked>h3110w0r1d-y/termius-cracked</a><span> Termius Pro</span></li><li><a href=https://github.com/CodeSutendts/static>CodeSutendts/static</a><span> 关于我的个人图床</span></li><li><a href=https://github.com/Drovosek01/adobe-packager>Drovosek01/adobe-packager</a><span> Script that allows to download portable installers of different versions Adobe software for macOS</span></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a><span> Automated iOS Backup Robot</span></li></ul>
+<ul><li><a href=https://github.com/openai-translator/raycast-openai-translator>openai-translator/raycast-openai-translator</a><span> 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.</span></li><li><a href=https://github.com/SerenityOS/serenity>SerenityOS/serenity</a><span> The Serenity Operating System 🐞</span></li><li><a href=https://github.com/CodeSutendts/InjectLib>CodeSutendts/InjectLib</a><span> 基于Ruby编写的命令行注入版本</span></li><li><a href=https://github.com/CodeSutendts/static>CodeSutendts/static</a><span> 关于我的个人图床</span></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a><span> Automated iOS Backup Robot</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/26/23, 11:10 AM<br>下一次刷新：9/26/23, 2:10 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/26/23, 2:12 PM<br>下一次刷新：9/26/23, 5:12 PM</p>
