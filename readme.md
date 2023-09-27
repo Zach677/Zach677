@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/CodeSutendts/InjectLib>CodeSutendts/InjectLib</a><span> 基于Ruby编写的命令行注入版本</span></li><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a><span> Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/Innei/nest-http-prisma-zod>Innei/nest-http-prisma-zod</a><span> A best practice for NestJS framework with using Prisma + Postgres, Socket.IO, Zod and Vitest</span></li><li><a href=https://github.com/jackMort/ChatGPT.nvim>jackMort/ChatGPT.nvim</a><span> ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API</span></li><li><a href=https://github.com/CodeSutendts/gpt4free>CodeSutendts/gpt4free</a><span> The official gpt4free repository | various collection of powerful language models</span></li></ul>
+<ul><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a><span> Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/RealKai42/qwerty-learner>RealKai42/qwerty-learner</a><span> 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</span></li><li><a href=https://github.com/go-musicfox/go-musicfox>go-musicfox/go-musicfox</a><span> go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...</span></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><span> 🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</span></li><li><a href=https://github.com/Drovosek01/adobe-packager>Drovosek01/adobe-packager</a><span> Script that allows to download portable installers of different versions Adobe software for macOS</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/27/23, 5:10 PM<br>下一次刷新：9/27/23, 8:10 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/27/23, 8:17 PM<br>下一次刷新：9/27/23, 11:17 PM</p>
