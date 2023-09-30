@@ -41,7 +41,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a><span> Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/rust-lang/rust-analyzer>rust-lang/rust-analyzer</a><span> A Rust compiler front-end for IDEs</span></li><li><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a><span> An open-source remote desktop, and alternative to TeamViewer.</span></li><li><a href=https://github.com/Caldis/Mos>Caldis/Mos</a><span> 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</span></li><li><a href=https://github.com/CodeSutendts/Shiro>CodeSutendts/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li></ul>
+<ul><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a><span> Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/CodeSutendts/InjectLib>CodeSutendts/InjectLib</a><span> 基于Ruby编写的命令行注入版本</span></li><li><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a><span> An open-source remote desktop, and alternative to TeamViewer.</span></li><li><a href=https://github.com/Caldis/Mos>Caldis/Mos</a><span> 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</span></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><span> 🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</span></li></ul>
 
 **Can you find me?**
 
@@ -52,4 +52,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/30/23, 11:08 PM<br>下一次刷新：10/1/23, 2:08 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/1/23, 5:07 AM<br>下一次刷新：10/1/23, 8:07 AM</p>
