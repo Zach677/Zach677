@@ -2,13 +2,13 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sattar&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Ssttar&show_icons=true&theme=dark"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sattar&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Ssttar&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sattar&show_icons=true" align=right />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ssttar&show_icons=true" align=right />
 </picture>
 
 I'm a student,Learning to program.
@@ -43,7 +43,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Can you find me?**
 
-<p><a href="https://github.com/Sattar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p><a href="https://github.com/Ssttar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 ---
 
