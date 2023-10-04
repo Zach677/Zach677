@@ -2,15 +2,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CodeSutendts&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Sattar&show_icons=true&theme=dark"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CodeSutendts&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Sattar&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeStudents&show_icons=true" align=right />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sattar&show_icons=true" align=right />
 </picture>
-
 
 I'm a student,Learning to program.
 
@@ -30,7 +29,6 @@ Although my technology is poor now, it will slowly improve in the future.
   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
 </p>
 
-
 **Open Source...**
 
 <!-- opensource_dashboard:active -->
@@ -45,7 +43,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Can you find me?**
 
-<p><a href="https://github.com/CodeStudents" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p><a href="https://github.com/CodeStudents" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 ---
 

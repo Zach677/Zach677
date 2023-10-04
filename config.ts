@@ -1,9 +1,9 @@
 export const opensource = {
-  active: ["CodeSutendts/CodeSutendts", "CodeSutendts/Shiro"],
+  active: ["Sattar/Sattar", "Sattar/Shiro"],
 };
 
 export const github = {
-  name: "CodeSutendts",
+  name: "Sattar",
 };
 
 export const timeZone = "Asia/Shanghai";

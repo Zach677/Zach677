@@ -4,7 +4,7 @@ import { readFile, rm, writeFile } from "fs/promises";
 import { minify } from "html-minifier";
 import { shuffle } from "lodash";
 import * as rax from "retry-axios";
-import { github, motto, mxSpace, opensource, timeZone } from "./config";
+import { github, opensource, timeZone } from "./config";
 import { COMMNETS } from "./constants";
 const githubAPIEndPoint = "https://api.github.com";
 
