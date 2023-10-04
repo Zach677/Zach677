@@ -2,15 +2,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CodeSutendts&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Sattar&show_icons=true&theme=dark"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CodeSutendts&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Sattar&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeStudents&show_icons=true" align=right />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sattar&show_icons=true" align=right />
 </picture>
-
 
 I'm a student,Learning to program.
 
@@ -30,7 +29,6 @@ Although my technology is poor now, it will slowly improve in the future.
   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
 </p>
 
-
 **Open Source...**
 
 <table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody><tr><td><a href=https://github.com/CodeSutendts/CodeSutendts><b>CodeSutendts/CodeSutendts</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/CodeSutendts/CodeSutendts?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/CodeSutendts/CodeSutendts?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/CodeSutendts/CodeSutendts/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/CodeSutendts/CodeSutendts?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/CodeSutendts/CodeSutendts/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/CodeSutendts/CodeSutendts?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/CodeSutendts/CodeSutendts/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/CodeSutendts/CodeSutendts?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/CodeSutendts/Shiro><b>CodeSutendts/Shiro</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/CodeSutendts/Shiro?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/CodeSutendts/Shiro?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/CodeSutendts/Shiro/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/CodeSutendts/Shiro?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/CodeSutendts/Shiro/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/CodeSutendts/Shiro?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/CodeSutendts/Shiro/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/CodeSutendts/Shiro?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
@@ -45,7 +43,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Can you find me?**
 
-<p><a href="https://github.com/CodeStudents" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p><a href="https://github.com/CodeStudents" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 ---
 
