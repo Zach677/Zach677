@@ -39,7 +39,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/elysiajs/elysia>elysiajs/elysia</a><span> Fast, and friendly Bun web framework</span></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><span> 🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</span></li><li><a href=https://github.com/go-musicfox/go-musicfox>go-musicfox/go-musicfox</a><span> go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...</span></li><li><a href=https://github.com/shellRaining/hlchunk.nvim>shellRaining/hlchunk.nvim</a><span> This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed</span></li><li><a href=https://github.com/Ssttar/gpt4free>Ssttar/gpt4free</a><span> The official gpt4free repository | various collection of powerful language models</span></li></ul>
+<ul><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><span> 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</span></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a><span> Automated iOS Backup Robot</span></li><li><a href=https://github.com/dracula/dracula-theme>dracula/dracula-theme</a><span> 🧛🏻‍♂️ One theme. All platforms.</span></li><li><a href=https://github.com/AloneMonkey/MonkeyDev>AloneMonkey/MonkeyDev</a><span> CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.</span></li><li><a href=https://github.com/go-musicfox/go-musicfox>go-musicfox/go-musicfox</a><span> go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...</span></li></ul>
 
 **Can you find me?**
 
@@ -50,4 +50,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/4/23, 2:12 PM<br>下一次刷新：10/4/23, 5:12 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/4/23, 5:10 PM<br>下一次刷新：10/4/23, 8:10 PM</p>
