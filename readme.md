@@ -39,7 +39,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/AloneMonkey/MonkeyDev>AloneMonkey/MonkeyDev</a><span> CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.</span></li><li><a href=https://github.com/go-musicfox/go-musicfox>go-musicfox/go-musicfox</a><span> go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...</span></li><li><a href=https://github.com/ShellWen/v8_killer>ShellWen/v8_killer</a><span> A tool that can inject any js into the V8 VM</span></li><li><a href=https://github.com/h3110w0r1d-y/termius-cracked>h3110w0r1d-y/termius-cracked</a><span> Termius Pro</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li></ul>
+<ul><li><a href=https://github.com/AloneMonkey/MonkeyDev>AloneMonkey/MonkeyDev</a><span> CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.</span></li><li><a href=https://github.com/ray-x/go.nvim>ray-x/go.nvim</a><span> A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.</span></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><span> 🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</span></li><li><a href=https://github.com/byoungd/English-level-up-tips>byoungd/English-level-up-tips</a><span> An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南。</span></li><li><a href=https://github.com/dracula/dracula-theme>dracula/dracula-theme</a><span> 🧛🏻‍♂️ One theme. All platforms.</span></li></ul>
 
 **Can you find me?**
 
@@ -50,4 +50,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/8/23, 2:11 AM<br>下一次刷新：10/8/23, 5:11 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/8/23, 5:07 AM<br>下一次刷新：10/8/23, 8:07 AM</p>
