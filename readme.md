@@ -39,7 +39,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/p00f/clangd_extensions.nvim>p00f/clangd_extensions.nvim</a><span> Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead</span></li><li><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a><span> An open-source remote desktop, and alternative to TeamViewer.</span></li><li><a href=https://github.com/kn007/silk-v3-decoder>kn007/silk-v3-decoder</a><span> [Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.</span></li><li><a href=https://github.com/pt-plugins/PT-Plugin-Plus>pt-plugins/PT-Plugin-Plus</a><span> PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li></ul>
+<ul><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><span> A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li><li><a href=https://github.com/fanmingming/live>fanmingming/live</a><span> ✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</span></li><li><a href=https://github.com/Ssttar/Mp3-decoder>Ssttar/Mp3-decoder</a><span> base on https://github.com/lieff/minimp3</span></li><li><a href=https://github.com/go-musicfox/go-musicfox>go-musicfox/go-musicfox</a><span> go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...</span></li><li><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a><span> An open-source remote desktop, and alternative to TeamViewer.</span></li></ul>
 
 **Can you find me?**
 
@@ -50,4 +50,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/11/23, 2:13 PM<br>下一次刷新：10/11/23, 5:13 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/11/23, 5:10 PM<br>下一次刷新：10/11/23, 8:10 PM</p>
