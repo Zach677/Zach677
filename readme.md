@@ -39,7 +39,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/fanmingming/live>fanmingming/live</a><span> ✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</span></li><li><a href=https://github.com/burpheart/cdnlookup>burpheart/cdnlookup</a><span> 一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具</span></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><span> A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li><li><a href=https://github.com/p00f/clangd_extensions.nvim>p00f/clangd_extensions.nvim</a><span> Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead</span></li><li><a href=https://github.com/dracula/dracula-theme>dracula/dracula-theme</a><span> 🧛🏻‍♂️ One theme. All platforms.</span></li></ul>
+<ul><li><a href=https://github.com/dracula/dracula-theme>dracula/dracula-theme</a><span> 🧛🏻‍♂️ One theme. All platforms.</span></li><li><a href=https://github.com/fanmingming/live>fanmingming/live</a><span> ✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li><li><a href=https://github.com/byoungd/English-level-up-tips>byoungd/English-level-up-tips</a><span> An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南。</span></li><li><a href=https://github.com/elysiajs/elysia>elysiajs/elysia</a><span> Fast, and friendly Bun web framework</span></li></ul>
 
 **Can you find me?**
 
@@ -50,4 +50,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/12/23, 8:40 AM<br>下一次刷新：10/12/23, 11:40 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/12/23, 11:09 AM<br>下一次刷新：10/12/23, 2:09 PM</p>
