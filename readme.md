@@ -39,7 +39,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/apernet/hysteria>apernet/hysteria</a><span> Hysteria is a powerful, lightning fast and censorship resistant proxy.</span></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><span> A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li><li><a href=https://github.com/burpheart/cdnlookup>burpheart/cdnlookup</a><span> 一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具</span></li><li><a href=https://github.com/tjy-gitnub/win12>tjy-gitnub/win12</a><span> Windows 12 网页版，在线体验 点击下面的链接在线体验</span></li><li><a href=https://github.com/ray-x/go.nvim>ray-x/go.nvim</a><span> A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.</span></li></ul>
+<ul><li><a href=https://github.com/FFmpeg/FFmpeg>FFmpeg/FFmpeg</a><span> Mirror of https://git.ffmpeg.org/ffmpeg.git</span></li><li><a href=https://github.com/AloneMonkey/MonkeyDev>AloneMonkey/MonkeyDev</a><span> CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li><li><a href=https://github.com/burpheart/cdnlookup>burpheart/cdnlookup</a><span> 一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具</span></li><li><a href=https://github.com/vitejs/vite>vitejs/vite</a><span> Next generation frontend tooling. It's fast!</span></li></ul>
 
 **Can you find me?**
 
@@ -50,4 +50,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/13/23, 11:09 PM<br>下一次刷新：10/14/23, 2:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/14/23, 2:12 AM<br>下一次刷新：10/14/23, 5:12 AM</p>
