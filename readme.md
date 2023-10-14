@@ -35,11 +35,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/Ssttar/nvim>Ssttar/nvim</a></li><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a><span> A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。</span></li><li><a href=https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile>QiuChenlyOpenSource/SearchHexCodeInFile</a><span> 编写，测试特征码在文件中的相对位置，以便注入绝对地址。</span></li><li><a href=https://github.com/Alex313031/Thorium-MacOS>Alex313031/Thorium-MacOS</a><span> Thorium builds for MacOS (arm64 and x64).</span></li><li><a href=https://github.com/MetaCubeX/Clash.Meta>MetaCubeX/Clash.Meta</a><span> A rule-based tunnel in Go.</span></li></ul>
+<ul><li><a href=https://github.com/ChineseSubFinder/ChineseSubFinder>ChineseSubFinder/ChineseSubFinder</a><span> 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM</span></li><li><a href=https://github.com/Ssttar/nvim>Ssttar/nvim</a></li><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a><span> A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。</span></li><li><a href=https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile>QiuChenlyOpenSource/SearchHexCodeInFile</a><span> 编写，测试特征码在文件中的相对位置，以便注入绝对地址。</span></li><li><a href=https://github.com/Alex313031/Thorium-MacOS>Alex313031/Thorium-MacOS</a><span> Thorium builds for MacOS (arm64 and x64).</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/apernet/hysteria>apernet/hysteria</a><span> Hysteria is a powerful, lightning fast and censorship resistant proxy.</span></li><li><a href=https://github.com/ray-x/go.nvim>ray-x/go.nvim</a><span> A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.</span></li><li><a href=https://github.com/pt-plugins/PT-Plugin-Plus>pt-plugins/PT-Plugin-Plus</a><span> PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。</span></li><li><a href=https://github.com/elysiajs/elysia>elysiajs/elysia</a><span> Fast, and friendly Bun web framework</span></li><li><a href=https://github.com/acmesh-official/acme.sh>acmesh-official/acme.sh</a><span> A pure Unix shell script implementing ACME client protocol</span></li></ul>
+<ul><li><a href=https://github.com/tjy-gitnub/win12>tjy-gitnub/win12</a><span> Windows 12 网页版，在线体验 点击下面的链接在线体验</span></li><li><a href=https://github.com/burpheart/cdnlookup>burpheart/cdnlookup</a><span> 一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具</span></li><li><a href=https://github.com/Lakr233/BootableBackupOSX>Lakr233/BootableBackupOSX</a><span> A script to backup all your macOS files using rsync.</span></li><li><a href=https://github.com/p00f/clangd_extensions.nvim>p00f/clangd_extensions.nvim</a><span> Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead</span></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><span> 解锁完整的 Apple功能和集成服务</span></li></ul>
 
 **Can you find me?**
 
@@ -50,4 +50,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/14/23, 2:11 PM<br>下一次刷新：10/14/23, 5:11 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/14/23, 5:08 PM<br>下一次刷新：10/14/23, 8:08 PM</p>
