@@ -39,7 +39,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/nuxt/nuxt>nuxt/nuxt</a><span> The Intuitive Vue Framework.</span></li><li><a href=https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile>QiuChenlyOpenSource/SearchHexCodeInFile</a><span> 编写，测试特征码在文件中的相对位置，以便注入绝对地址。</span></li><li><a href=https://github.com/golang-standards/project-layout>golang-standards/project-layout</a><span> Standard Go Project Layout</span></li><li><a href=https://github.com/Ssttar/nvim>Ssttar/nvim</a></li><li><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a><span> An open-source remote desktop, and alternative to TeamViewer.</span></li></ul>
+<ul><li><a href=https://github.com/nuxt/nuxt>nuxt/nuxt</a><span> The Intuitive Vue Framework.</span></li><li><a href=https://github.com/p00f/clangd_extensions.nvim>p00f/clangd_extensions.nvim</a><span> Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead</span></li><li><a href=https://github.com/dracula/dracula-theme>dracula/dracula-theme</a><span> 🧛🏻‍♂️ One theme. All platforms.</span></li><li><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a><span> An open-source remote desktop, and alternative to TeamViewer.</span></li><li><a href=https://github.com/shellRaining/hlchunk.nvim>shellRaining/hlchunk.nvim</a><span> This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed</span></li></ul>
 
 **Can you find me?**
 
@@ -50,4 +50,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/18/23, 8:18 PM<br>下一次刷新：10/18/23, 11:18 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/18/23, 11:10 PM<br>下一次刷新：10/19/23, 2:10 AM</p>
