@@ -37,7 +37,7 @@ jobs:
           run_install: true
       - name: Build project
         run: |
-          pnpm run build
+          npm run build
       - name: Push new readme.md
         uses: mikeal/publish-to-github-action@master
         env:
