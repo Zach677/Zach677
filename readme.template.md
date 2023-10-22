@@ -1,4 +1,4 @@
-# Star [![wakatime](https://wakatime.com/badge/user/840d21f8-ccf6-4443-ba54-0b5c2549c2e4.svg)](https://wakatime.com/@840d21f8-ccf6-4443-ba54-0b5c2549c2e4)
+# Star ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/840d21f8-ccf6-4443-ba54-0b5c2549c2e4.svg)](https://wakatime.com/@840d21f8-ccf6-4443-ba54-0b5c2549c2e4)
 
 <picture>
   <source
@@ -27,6 +27,7 @@ Although my technology is poor now, it will slowly improve in the future.
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
+  <img alt="C" src="https://img.shields.io/badge/" />
 </p>
 
 **Open Source...**
