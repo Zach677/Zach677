@@ -1,4 +1,4 @@
-# Star [![wakatime](https://wakatime.com/badge/user/840d21f8-ccf6-4443-ba54-0b5c2549c2e4.svg)](https://wakatime.com/@840d21f8-ccf6-4443-ba54-0b5c2549c2e4)
+# Star ![](https://visitor-badge.laobi.icu/badge?page_id=Ssttar.Ssttar) [![wakatime](https://wakatime.com/badge/user/840d21f8-ccf6-4443-ba54-0b5c2549c2e4.svg)](https://wakatime.com/@840d21f8-ccf6-4443-ba54-0b5c2549c2e4)
 
 <picture>
   <source
@@ -15,15 +15,28 @@ I'm a student,Learning to program.
 
 Although my technology is poor now, it will slowly improve in the future.
 
-**Stacks**
+**Software Developer**
 
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <img alt="Static Badge" src="https://img.shields.io/badge/-clang-ea146?style=flat-square&logo=C&logoColor=white">
+ <!-- <img alt="Static Badge" src="https://img.shields.io/badge/-rust-ea7?style=flat-square&logo=rust&logoColor=white"> -->
+ <!-- <img alt="Static Badge" src="https://img.shields.io/badge/-go-%2300FFFF?style=flat-square&logo=go&logoColor=white"> -->
+</p>
+
+**DevOps**
+
+<p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions"
     src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="arch linux"src="https://camo.githubusercontent.com/5663f9a4e9d0c47f590d839330c5b4a140a4af82eb3ffb47d130a4dd9c321273/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d617263686c696e75782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d617263686c696e7578266c6f676f436f6c6f723d626c7565"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="archlinux" src="https://img.shields.io/badge/-archlinux-1793D1?style=flat-square&logo=ubuntu&logoColor=white" />
+</p>
+
+**Environment**
+
+<p>
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
@@ -35,19 +48,19 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/dice2o/BingGPT>dice2o/BingGPT</a><span> Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)</span></li><li><a href=https://github.com/vuejs-translations/docs-zh-cn>vuejs-translations/docs-zh-cn</a><span> Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li><li><a href=https://github.com/taglib/taglib>taglib/taglib</a><span> TagLib Audio Meta-Data Library</span></li><li><a href=https://github.com/lieff/minimp3>lieff/minimp3</a><span> Minimalistic MP3 decoder single header library</span></li></ul>
+<ul><li><a href=https://github.com/mas-cli/mas>mas-cli/mas</a><span> :package: Mac App Store command line interface</span></li><li><a href=https://github.com/rustlang-cn/rusty-book>rustlang-cn/rusty-book</a><span> A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！</span></li><li><a href=https://github.com/github/copilot.vim>github/copilot.vim</a><span> Neovim plugin for GitHub Copilot</span></li><li><a href=https://github.com/vuejs-translations/docs-zh-cn>vuejs-translations/docs-zh-cn</a><span> Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/p00f/clangd_extensions.nvim>p00f/clangd_extensions.nvim</a><span> Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead</span></li><li><a href=https://github.com/golang/go>golang/go</a><span> The Go programming language</span></li><li><a href=https://github.com/pt-plugins/PT-Plugin-Plus>pt-plugins/PT-Plugin-Plus</a><span> PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。</span></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><span> 解锁完整的 Apple功能和集成服务</span></li><li><a href=https://github.com/dracula/dracula-theme>dracula/dracula-theme</a><span> 🧛🏻‍♂️ One theme. All platforms.</span></li></ul>
+<ul><li><a href=https://github.com/pt-plugins/PT-Plugin-Plus>pt-plugins/PT-Plugin-Plus</a><span> PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。</span></li><li><a href=https://github.com/p00f/clangd_extensions.nvim>p00f/clangd_extensions.nvim</a><span> Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead</span></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><span> 解锁完整的 Apple功能和集成服务</span></li><li><a href=https://github.com/ShellWen/v8_killer>ShellWen/v8_killer</a><span> A tool that can inject any js into the V8 VM</span></li><li><a href=https://github.com/shellRaining/hlchunk.nvim>shellRaining/hlchunk.nvim</a><span> This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed</span></li></ul>
 
 **Can you find me?**
 
-<p><a href="https://github.com/Ssttar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p><a href="https://github.com/Ssttar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ciLu270171" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 
 ---
 
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/19/23, 2:13 PM<br>下一次刷新：10/19/23, 5:13 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/22/23, 7:35 PM<br>下一次刷新：10/22/23, 10:35 PM</p>
