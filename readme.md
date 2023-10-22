@@ -52,7 +52,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile>QiuChenlyOpenSource/SearchHexCodeInFile</a><span> 编写，测试特征码在文件中的相对位置，以便注入绝对地址。</span></li><li><a href=https://github.com/nuxt/nuxt>nuxt/nuxt</a><span> The Intuitive Vue Framework.</span></li><li><a href=https://github.com/shellRaining/hlchunk.nvim>shellRaining/hlchunk.nvim</a><span> This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed</span></li><li><a href=https://github.com/Pythagora-io/gpt-pilot>Pythagora-io/gpt-pilot</a><span> Dev tool that writes scalable apps from scratch while the developer oversees the implementation</span></li><li><a href=https://github.com/FFmpeg/FFmpeg>FFmpeg/FFmpeg</a><span> Mirror of https://git.ffmpeg.org/ffmpeg.git</span></li></ul>
+<ul><li><a href=https://github.com/ChineseSubFinder/ChineseSubFinder>ChineseSubFinder/ChineseSubFinder</a><span> 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM</span></li><li><a href=https://github.com/Pythagora-io/gpt-pilot>Pythagora-io/gpt-pilot</a><span> Dev tool that writes scalable apps from scratch while the developer oversees the implementation</span></li><li><a href=https://github.com/FFmpeg/FFmpeg>FFmpeg/FFmpeg</a><span> Mirror of https://git.ffmpeg.org/ffmpeg.git</span></li><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a><span> A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。</span></li><li><a href=https://github.com/burpheart/cdnlookup>burpheart/cdnlookup</a><span> 一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具</span></li></ul>
 
 **Can you find me?**
 
@@ -63,4 +63,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/23/23, 2:10 AM<br>下一次刷新：10/23/23, 5:10 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/23/23, 5:07 AM<br>下一次刷新：10/23/23, 8:07 AM</p>
