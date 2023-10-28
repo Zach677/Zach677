@@ -52,7 +52,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/taglib/taglib>taglib/taglib</a><span> TagLib Audio Meta-Data Library</span></li><li><a href=https://github.com/kn007/silk-v3-decoder>kn007/silk-v3-decoder</a><span> [Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.</span></li><li><a href=https://github.com/golang-standards/project-layout>golang-standards/project-layout</a><span> Standard Go Project Layout</span></li><li><a href=https://github.com/lieff/minimp3>lieff/minimp3</a><span> Minimalistic MP3 decoder single header library</span></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><span> 解锁完整的 Apple功能和集成服务</span></li></ul>
+<ul><li><a href=https://github.com/golang/go>golang/go</a><span> The Go programming language</span></li><li><a href=https://github.com/ChineseSubFinder/ChineseSubFinder>ChineseSubFinder/ChineseSubFinder</a><span> 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM</span></li><li><a href=https://github.com/shellRaining/hlchunk.nvim>shellRaining/hlchunk.nvim</a><span> This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed</span></li><li><a href=https://github.com/ShellWen/v8_killer>ShellWen/v8_killer</a><span> A tool that can inject any js into the V8 VM</span></li><li><a href=https://github.com/zdhxiong/mdui>zdhxiong/mdui</a><span> mdui 是使用 Web Components 实现 Material You 设计规范的前端组件库</span></li></ul>
 
 **Can you find me?**
 
@@ -63,4 +63,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/28/23, 11:08 PM<br>下一次刷新：10/29/23, 2:08 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/29/23, 2:10 AM<br>下一次刷新：10/29/23, 5:10 AM</p>
