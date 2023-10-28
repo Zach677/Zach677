@@ -52,7 +52,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Ssttar/nvim>Ssttar/nvim</a></li><li><a href=https://github.com/taglib/taglib>taglib/taglib</a><span> TagLib Audio Meta-Data Library</span></li><li><a href=https://github.com/Pythagora-io/gpt-pilot>Pythagora-io/gpt-pilot</a><span> Dev tool that writes scalable apps from scratch while the developer oversees the implementation</span></li><li><a href=https://github.com/ray-x/go.nvim>ray-x/go.nvim</a><span> A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.</span></li><li><a href=https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile>QiuChenlyOpenSource/SearchHexCodeInFile</a><span> 编写，测试特征码在文件中的相对位置，以便注入绝对地址。</span></li></ul>
+<ul><li><a href=https://github.com/nuxt/nuxt>nuxt/nuxt</a><span> The Intuitive Vue Framework.</span></li><li><a href=https://github.com/golang-standards/project-layout>golang-standards/project-layout</a><span> Standard Go Project Layout</span></li><li><a href=https://github.com/pt-plugins/PT-Plugin-Plus>pt-plugins/PT-Plugin-Plus</a><span> PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。</span></li><li><a href=https://github.com/p00f/clangd_extensions.nvim>p00f/clangd_extensions.nvim</a><span> Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead</span></li><li><a href=https://github.com/ShellWen/v8_killer>ShellWen/v8_killer</a><span> A tool that can inject any js into the V8 VM</span></li></ul>
 
 **Can you find me?**
 
@@ -63,4 +63,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/28/23, 2:11 PM<br>下一次刷新：10/28/23, 5:11 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/28/23, 5:08 PM<br>下一次刷新：10/28/23, 8:08 PM</p>
