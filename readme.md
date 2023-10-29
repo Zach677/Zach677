@@ -52,7 +52,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/BootableBackupOSX>Lakr233/BootableBackupOSX</a><span> A script to backup all your macOS files using rsync.</span></li><li><a href=https://github.com/Pythagora-io/gpt-pilot>Pythagora-io/gpt-pilot</a><span> Dev tool that writes scalable apps from scratch while the developer oversees the implementation</span></li><li><a href=https://github.com/zdhxiong/mdui>zdhxiong/mdui</a><span> mdui 是使用 Web Components 实现 Material You 设计规范的前端组件库</span></li><li><a href=https://github.com/golang-standards/project-layout>golang-standards/project-layout</a><span> Standard Go Project Layout</span></li><li><a href=https://github.com/ChineseSubFinder/ChineseSubFinder>ChineseSubFinder/ChineseSubFinder</a><span> 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM</span></li></ul>
+<ul><li><a href=https://github.com/lieff/minimp3>lieff/minimp3</a><span> Minimalistic MP3 decoder single header library</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li><li><a href=https://github.com/nuxt/nuxt>nuxt/nuxt</a><span> The Intuitive Vue Framework.</span></li><li><a href=https://github.com/golang/go>golang/go</a><span> The Go programming language</span></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><span> A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li></ul>
 
 **Can you find me?**
 
@@ -63,4 +63,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/29/23, 5:08 PM<br>下一次刷新：10/29/23, 8:08 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/29/23, 8:15 PM<br>下一次刷新：10/29/23, 11:15 PM</p>
