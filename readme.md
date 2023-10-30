@@ -52,7 +52,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/dracula/dracula-theme>dracula/dracula-theme</a><span> 🧛🏻‍♂️ One theme. All platforms.</span></li><li><a href=https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile>QiuChenlyOpenSource/SearchHexCodeInFile</a><span> 编写，测试特征码在文件中的相对位置，以便注入绝对地址。</span></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><span> 解锁完整的 Apple功能和集成服务</span></li><li><a href=https://github.com/Pythagora-io/gpt-pilot>Pythagora-io/gpt-pilot</a><span> Dev tool that writes scalable apps from scratch while the developer oversees the implementation</span></li><li><a href=https://github.com/ShellWen/v8_killer>ShellWen/v8_killer</a><span> A tool that can inject any js into the V8 VM</span></li></ul>
+<ul><li><a href=https://github.com/ray-x/go.nvim>ray-x/go.nvim</a><span> A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.</span></li><li><a href=https://github.com/burpheart/cdnlookup>burpheart/cdnlookup</a><span> 一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具</span></li><li><a href=https://github.com/vuejs-translations/docs-zh-cn>vuejs-translations/docs-zh-cn</a><span> Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs</span></li><li><a href=https://github.com/pt-plugins/PT-Plugin-Plus>pt-plugins/PT-Plugin-Plus</a><span> PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li></ul>
 
 **Can you find me?**
 
@@ -63,4 +63,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/30/23, 11:09 PM<br>下一次刷新：10/31/23, 2:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/31/23, 2:12 AM<br>下一次刷新：10/31/23, 5:12 AM</p>
