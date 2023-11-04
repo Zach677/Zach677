@@ -52,7 +52,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Pythagora-io/gpt-pilot>Pythagora-io/gpt-pilot</a><span> Dev tool that writes scalable apps from scratch while the developer oversees the implementation</span></li><li><a href=https://github.com/golang-standards/project-layout>golang-standards/project-layout</a><span> Standard Go Project Layout</span></li><li><a href=https://github.com/taglib/taglib>taglib/taglib</a><span> TagLib Audio Meta-Data Library</span></li><li><a href=https://github.com/pt-plugins/PT-Plugin-Plus>pt-plugins/PT-Plugin-Plus</a><span> PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。</span></li><li><a href=https://github.com/nuxt/nuxt>nuxt/nuxt</a><span> The Intuitive Vue Framework.</span></li></ul>
+<ul><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li><li><a href=https://github.com/zdhxiong/mdui>zdhxiong/mdui</a><span> mdui 是使用 Web Components 实现 Material You 设计规范的前端组件库</span></li><li><a href=https://github.com/golang-standards/project-layout>golang-standards/project-layout</a><span> Standard Go Project Layout</span></li><li><a href=https://github.com/FFmpeg/FFmpeg>FFmpeg/FFmpeg</a><span> Mirror of https://git.ffmpeg.org/ffmpeg.git</span></li><li><a href=https://github.com/Pythagora-io/gpt-pilot>Pythagora-io/gpt-pilot</a><span> Dev tool that writes scalable apps from scratch while the developer oversees the implementation</span></li></ul>
 
 **Can you find me?**
 
@@ -63,4 +63,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/4/23, 5:07 AM<br>下一次刷新：11/4/23, 8:07 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/4/23, 8:42 AM<br>下一次刷新：11/4/23, 11:42 AM</p>
