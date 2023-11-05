@@ -1,15 +1,27 @@
 # Star ![](https://visitor-badge.laobi.icu/badge?page_id=Ssttar.Ssttar) [![wakatime](https://wakatime.com/badge/user/840d21f8-ccf6-4443-ba54-0b5c2549c2e4.svg)](https://wakatime.com/@840d21f8-ccf6-4443-ba54-0b5c2549c2e4)
 
-<picture>
-  <source
+  <picture>
+    <source
     srcset="https://github-readme-stats.vercel.app/api?username=Ssttar&show_icons=true&theme=dark"
-  />
-  <source
+    />
+    <source
     srcset="https://github-readme-stats.vercel.app/api?username=Ssttar&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ssttar&show_icons=true" align=right />
-</picture>
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ssttar&show_icons=true" align=right />
+  </picture>
+
+
+  <picture>
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssttar&show_icons&theme=dark"
+    />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssttar&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssttar&show_icons=true" align=right />
+  </picture>
 
 I'm a student,Learning to program.
 
