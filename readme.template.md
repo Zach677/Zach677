@@ -11,18 +11,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Ssttar&show_icons=true" align=right />
   </picture>
 
-
-  <picture>
-    <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssttar&show_icons&theme=dark"
-    />
-    <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssttar&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssttar&show_icons=true" align=right />
-  </picture>
-
 I'm a student,Learning to program.
 
 Although my technology is poor now, it will slowly improve in the future.
@@ -65,6 +53,7 @@ Although my technology is poor now, it will slowly improve in the future.
 **Review Stared...**
 
 <!-- random_github_stars_inject -->
+
 
 **Can you find me?**
 
