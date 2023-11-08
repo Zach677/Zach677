@@ -52,7 +52,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Ssttar/nvim>Ssttar/nvim</a></li><li><a href=https://github.com/burpheart/cdnlookup>burpheart/cdnlookup</a><span> 一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具</span></li><li><a href=https://github.com/github/copilot.vim>github/copilot.vim</a><span> Neovim plugin for GitHub Copilot</span></li><li><a href=https://github.com/ChineseSubFinder/ChineseSubFinder>ChineseSubFinder/ChineseSubFinder</a><span> 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM</span></li><li><a href=https://github.com/mas-cli/mas>mas-cli/mas</a><span> :package: Mac App Store command line interface</span></li></ul>
+<ul><li><a href=https://github.com/pt-plugins/PT-Plugin-Plus>pt-plugins/PT-Plugin-Plus</a><span> PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。</span></li><li><a href=https://github.com/rustlang-cn/rusty-book>rustlang-cn/rusty-book</a><span> A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！</span></li><li><a href=https://github.com/golang/go>golang/go</a><span> The Go programming language</span></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><span> A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li><li><a href=https://github.com/github/copilot.vim>github/copilot.vim</a><span> Neovim plugin for GitHub Copilot</span></li></ul>
 
 
 **Can you find me?**
@@ -64,4 +64,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/8/23, 8:43 AM<br>下一次刷新：11/8/23, 11:43 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/8/23, 11:09 AM<br>下一次刷新：11/8/23, 2:09 PM</p>
