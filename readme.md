@@ -52,7 +52,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><span> 解锁完整的 Apple功能和集成服务</span></li><li><a href=https://github.com/rustlang-cn/rusty-book>rustlang-cn/rusty-book</a><span> A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！</span></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><span> A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li><li><a href=https://github.com/burpheart/cdnlookup>burpheart/cdnlookup</a><span> 一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具</span></li><li><a href=https://github.com/FFmpeg/FFmpeg>FFmpeg/FFmpeg</a><span> Mirror of https://git.ffmpeg.org/ffmpeg.git</span></li></ul>
+<ul><li><a href=https://github.com/Ssttar/nvim>Ssttar/nvim</a></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li><li><a href=https://github.com/Lakr233/BootableBackupOSX>Lakr233/BootableBackupOSX</a><span> A script to backup all your macOS files using rsync.</span></li><li><a href=https://github.com/pt-plugins/PT-Plugin-Plus>pt-plugins/PT-Plugin-Plus</a><span> PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。</span></li><li><a href=https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile>QiuChenlyOpenSource/SearchHexCodeInFile</a><span> 编写，测试特征码在文件中的相对位置，以便注入绝对地址。</span></li></ul>
 
 
 **Can you find me?**
@@ -64,4 +64,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/8/23, 5:09 PM<br>下一次刷新：11/8/23, 8:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/8/23, 11:09 PM<br>下一次刷新：11/9/23, 2:09 AM</p>
