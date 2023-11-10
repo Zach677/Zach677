@@ -52,7 +52,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/golang/go>golang/go</a><span> The Go programming language</span></li><li><a href=https://github.com/Pythagora-io/gpt-pilot>Pythagora-io/gpt-pilot</a><span> Dev tool that writes scalable apps from scratch while the developer oversees the implementation</span></li><li><a href=https://github.com/rustlang-cn/rusty-book>rustlang-cn/rusty-book</a><span> A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！</span></li><li><a href=https://github.com/FFmpeg/FFmpeg>FFmpeg/FFmpeg</a><span> Mirror of https://git.ffmpeg.org/ffmpeg.git</span></li><li><a href=https://github.com/Ssttar/nvim>Ssttar/nvim</a></li></ul>
+<ul><li><a href=https://github.com/vuejs-translations/docs-zh-cn>vuejs-translations/docs-zh-cn</a><span> Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs</span></li><li><a href=https://github.com/matchai/waka-box>matchai/waka-box</a><span> 📊 Update a pinned gist to contain your weekly WakaTime stats</span></li><li><a href=https://github.com/Pythagora-io/gpt-pilot>Pythagora-io/gpt-pilot</a><span> Dev tool that writes scalable apps from scratch while the developer oversees the implementation</span></li><li><a href=https://github.com/Ssttar/nvim>Ssttar/nvim</a></li><li><a href=https://github.com/zdhxiong/mdui>zdhxiong/mdui</a><span> mdui 是使用 Web Components 实现 Material You 设计规范的前端组件库</span></li></ul>
 
 
 **Can you find me?**
@@ -64,4 +64,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/10/23, 8:43 AM<br>下一次刷新：11/10/23, 11:43 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/10/23, 11:10 AM<br>下一次刷新：11/10/23, 2:10 PM</p>
