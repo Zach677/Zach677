@@ -1,9 +1,9 @@
 export const opensource = {
-  active: ["Ssttar/Ssttar", "Ssttar/learning"],
-};
+  active: ['Ssttar/Clock', 'Ssttar/learning'],
+}
 
 export const github = {
-  name: "Ssttar",
-};
+  name: 'Ssttar',
+}
 
-export const timeZone = "Asia/Shanghai";
+export const timeZone = 'Asia/Shanghai'
