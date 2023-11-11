@@ -1,5 +1,5 @@
 export const opensource = {
-  active: ['Ssttar/Clock', 'Ssttar/My-simple-blog'],
+  active: ['Ssttar/TechTrek', 'Ssttar/CLock'],
 }
 
 export const github = {
