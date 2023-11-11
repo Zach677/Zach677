@@ -52,7 +52,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/lieff/minimp3>lieff/minimp3</a><span> Minimalistic MP3 decoder single header library</span></li><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a><span> A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。</span></li><li><a href=https://github.com/FFmpeg/FFmpeg>FFmpeg/FFmpeg</a><span> Mirror of https://git.ffmpeg.org/ffmpeg.git</span></li><li><a href=https://github.com/Lakr233/Fix-GPS>Lakr233/Fix-GPS</a><span> 从一生足迹中读取位置数据并写入图片</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li></ul>
+<ul><li><a href=https://github.com/golang/go>golang/go</a><span> The Go programming language</span></li><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a><span> A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。</span></li><li><a href=https://github.com/webfansplz/vue-c2c>webfansplz/vue-c2c</a><span> Transforming Vue components to composable functions</span></li><li><a href=https://github.com/unpreset/unocss-preset-useful>unpreset/unocss-preset-useful</a><span> Integrate and useful preset.</span></li><li><a href=https://github.com/toptal/gitignore.io>toptal/gitignore.io</a><span> Create useful .gitignore files for your project</span></li></ul>
 
 
 **Can you find me?**
@@ -64,4 +64,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/11/23, 8:42 AM<br>下一次刷新：11/11/23, 11:42 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/11/23, 11:13 AM<br>下一次刷新：11/11/23, 2:13 PM</p>
