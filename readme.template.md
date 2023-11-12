@@ -18,9 +18,10 @@ Although my technology is poor now, it will slowly improve in the future.
 **Software Developer**
 
 <p>
- <img alt="Static Badge" src="https://img.shields.io/badge/-clang-ea146?style=flat-square&logo=C&logoColor=white">
- <!-- <img alt="Static Badge" src="https://img.shields.io/badge/-rust-ea7?style=flat-square&logo=rust&logoColor=white"> -->
- <!-- <img alt="Static Badge" src="https://img.shields.io/badge/-go-%2300FFFF?style=flat-square&logo=go&logoColor=white"> -->
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <img alt="Clang" src="https://img.shields.io/badge/-clang-ea146?style=flat-square&logo=C&logoColor=white">
+ <!-- <img alt="rust" src="https://img.shields.io/badge/-rust-ea7?style=flat-square&logo=rust&logoColor=white"> -->
+ <!-- <img alt="Golang" src="https://img.shields.io/badge/-go-%2300FFFF?style=flat-square&logo=go&logoColor=white"> -->
 </p>
 
 **DevOps**
