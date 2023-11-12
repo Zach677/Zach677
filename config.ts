@@ -1,5 +1,5 @@
 export const opensource = {
-  active: ['Ssttar/TechTrek', 'Ssttar/CLock'],
+  active: ['Techtrek-space/TechTrek-simple-theme', 'Ssttar/CLock'],
 }
 
 export const github = {
