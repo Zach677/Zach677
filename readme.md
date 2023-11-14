@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/github/copilot.vim>github/copilot.vim</a><span> Neovim plugin for GitHub Copilot</span></li><li><a href=https://github.com/mas-cli/mas>mas-cli/mas</a><span> :package: Mac App Store command line interface</span></li><li><a href=https://github.com/webfansplz/vue-c2c>webfansplz/vue-c2c</a><span> Transforming Vue components to composable functions</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li><li><a href=https://github.com/JetBrains/JetBrainsMono>JetBrains/JetBrainsMono</a><span> JetBrains Mono – the free and open-source typeface for developers</span></li></ul>
+<ul><li><a href=https://github.com/vuejs-translations/docs-zh-cn>vuejs-translations/docs-zh-cn</a><span> Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs</span></li><li><a href=https://github.com/toptal/gitignore.io>toptal/gitignore.io</a><span> Create useful .gitignore files for your project</span></li><li><a href=https://github.com/mas-cli/mas>mas-cli/mas</a><span> :package: Mac App Store command line interface</span></li><li><a href=https://github.com/unpreset/unocss-preset-useful>unpreset/unocss-preset-useful</a><span> Integrate and useful preset.</span></li><li><a href=https://github.com/matchai/waka-box>matchai/waka-box</a><span> 📊 Update a pinned gist to contain your weekly WakaTime stats</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/14/23, 8:17 PM<br>下一次刷新：11/14/23, 11:17 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/14/23, 11:10 PM<br>下一次刷新：11/15/23, 2:10 AM</p>
