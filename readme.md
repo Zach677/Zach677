@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/vercel/geist-font>vercel/geist-font</a></li><li><a href=https://github.com/zdhxiong/mdui>zdhxiong/mdui</a><span> mdui 是使用 Web Components 实现 Material You 设计规范的前端组件库</span></li><li><a href=https://github.com/unpreset/unocss-preset-useful>unpreset/unocss-preset-useful</a><span> Integrate and useful preset.</span></li><li><a href=https://github.com/toptal/gitignore.io>toptal/gitignore.io</a><span> Create useful .gitignore files for your project</span></li><li><a href=https://github.com/vuejs-translations/docs-zh-cn>vuejs-translations/docs-zh-cn</a><span> Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/Fix-GPS>Lakr233/Fix-GPS</a><span> 从一生足迹中读取位置数据并写入图片</span></li><li><a href=https://github.com/intitni/CopilotForXcode>intitni/CopilotForXcode</a><span> The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension</span></li><li><a href=https://github.com/rustlang-cn/rusty-book>rustlang-cn/rusty-book</a><span> A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！</span></li><li><a href=https://github.com/Innei/shuffle-article>Innei/shuffle-article</a><span> 在 DOM 上打乱文字，而非视觉上。</span></li><li><a href=https://github.com/matchai/waka-box>matchai/waka-box</a><span> 📊 Update a pinned gist to contain your weekly WakaTime stats</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/18/23, 5:08 AM<br>下一次刷新：11/18/23, 8:08 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/18/23, 8:44 AM<br>下一次刷新：11/18/23, 11:44 AM</p>
