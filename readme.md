@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Ssttar/Clock>Ssttar/Clock</a><span> timer with C</span></li><li><a href=https://github.com/sveltejs/svelte>sveltejs/svelte</a><span> Cybernetically enhanced web apps</span></li><li><a href=https://github.com/webfansplz/vue-c2c>webfansplz/vue-c2c</a><span> Transforming Vue components to composable functions</span></li><li><a href=https://github.com/matchai/waka-box>matchai/waka-box</a><span> 📊 Update a pinned gist to contain your weekly WakaTime stats</span></li><li><a href=https://github.com/FFmpeg/FFmpeg>FFmpeg/FFmpeg</a><span> Mirror of https://git.ffmpeg.org/ffmpeg.git</span></li></ul>
+<ul><li><a href=https://github.com/Innei/shuffle-article>Innei/shuffle-article</a><span> 在 DOM 上打乱文字，而非视觉上。</span></li><li><a href=https://github.com/taglib/taglib>taglib/taglib</a><span> TagLib Audio Meta-Data Library</span></li><li><a href=https://github.com/webfansplz/vue-c2c>webfansplz/vue-c2c</a><span> Transforming Vue components to composable functions</span></li><li><a href=https://github.com/WisdomShell/codeshell-vscode>WisdomShell/codeshell-vscode</a><span> An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell</span></li><li><a href=https://github.com/antfu/.github>antfu/.github</a><span> The default community health files for all my repos on GitHub</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/24/23, 11:09 PM<br>下一次刷新：11/25/23, 2:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/25/23, 2:11 AM<br>下一次刷新：11/25/23, 5:11 AM</p>
