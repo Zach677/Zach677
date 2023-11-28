@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/githubnext/monaspace>githubnext/monaspace</a><span> An innovative superfamily of fonts for code</span></li><li><a href=https://github.com/sveltejs/svelte>sveltejs/svelte</a><span> Cybernetically enhanced web apps</span></li><li><a href=https://github.com/vuejs-translations/docs-zh-cn>vuejs-translations/docs-zh-cn</a><span> Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs</span></li><li><a href=https://github.com/mas-cli/mas>mas-cli/mas</a><span> :package: Mac App Store command line interface</span></li><li><a href=https://github.com/Ssttar/TechTrek>Ssttar/TechTrek</a><span> My Simple Personal website</span></li></ul>
+<ul><li><a href=https://github.com/rustlang-cn/rusty-book>rustlang-cn/rusty-book</a><span> A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！</span></li><li><a href=https://github.com/antfu/.github>antfu/.github</a><span> The default community health files for all my repos on GitHub</span></li><li><a href=https://github.com/lieff/minimp3>lieff/minimp3</a><span> Minimalistic MP3 decoder single header library</span></li><li><a href=https://github.com/matchai/waka-box>matchai/waka-box</a><span> 📊 Update a pinned gist to contain your weekly WakaTime stats</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/28/23, 11:10 AM<br>下一次刷新：11/28/23, 2:10 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/28/23, 2:13 PM<br>下一次刷新：11/28/23, 5:13 PM</p>
