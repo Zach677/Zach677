@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/WisdomShell/codeshell-vscode>WisdomShell/codeshell-vscode</a><span> An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell</span></li><li><a href=https://github.com/vuejs-translations/docs-zh-cn>vuejs-translations/docs-zh-cn</a><span> Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs</span></li><li><a href=https://github.com/Innei/shuffle-article>Innei/shuffle-article</a><span> 在 DOM 上打乱文字，而非视觉上。</span></li><li><a href=https://github.com/anker1209/Scriptable>anker1209/Scriptable</a></li><li><a href=https://github.com/rustlang-cn/rusty-book>rustlang-cn/rusty-book</a><span> A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！</span></li></ul>
+<ul><li><a href=https://github.com/matchai/waka-box>matchai/waka-box</a><span> 📊 Update a pinned gist to contain your weekly WakaTime stats</span></li><li><a href=https://github.com/vuejs-translations/docs-zh-cn>vuejs-translations/docs-zh-cn</a><span> Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs</span></li><li><a href=https://github.com/JetBrains/JetBrainsMono>JetBrains/JetBrainsMono</a><span> JetBrains Mono – the free and open-source typeface for developers</span></li><li><a href=https://github.com/github/copilot.vim>github/copilot.vim</a><span> Neovim plugin for GitHub Copilot</span></li><li><a href=https://github.com/tailwindlabs/tailwindcss>tailwindlabs/tailwindcss</a><span> A utility-first CSS framework for rapid UI development.</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/2/23, 8:43 AM<br>下一次刷新：12/2/23, 11:43 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/2/23, 11:10 AM<br>下一次刷新：12/2/23, 2:10 PM</p>
