@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/mas-cli/mas>mas-cli/mas</a><span> :package: Mac App Store command line interface</span></li><li><a href=https://github.com/tailwindlabs/tailwindcss>tailwindlabs/tailwindcss</a><span> A utility-first CSS framework for rapid UI development.</span></li><li><a href=https://github.com/JetBrains/JetBrainsMono>JetBrains/JetBrainsMono</a><span> JetBrains Mono – the free and open-source typeface for developers</span></li><li><a href=https://github.com/anker1209/Scriptable>anker1209/Scriptable</a></li><li><a href=https://github.com/WisdomShell/codeshell-vscode>WisdomShell/codeshell-vscode</a><span> An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/Fix-GPS>Lakr233/Fix-GPS</a><span> 从一生足迹中读取位置数据并写入图片</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li><li><a href=https://github.com/sveltejs/svelte>sveltejs/svelte</a><span> Cybernetically enhanced web apps</span></li><li><a href=https://github.com/tailwindlabs/tailwindcss>tailwindlabs/tailwindcss</a><span> A utility-first CSS framework for rapid UI development.</span></li><li><a href=https://github.com/githubnext/monaspace>githubnext/monaspace</a><span> An innovative superfamily of fonts for code</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/15/23, 11:10 AM<br>下一次刷新：12/15/23, 2:10 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/15/23, 2:13 PM<br>下一次刷新：12/15/23, 5:13 PM</p>
