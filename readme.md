@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/toptal/gitignore.io>toptal/gitignore.io</a><span> Create useful .gitignore files for your project</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li><li><a href=https://github.com/anker1209/Scriptable>anker1209/Scriptable</a></li><li><a href=https://github.com/webfansplz/vue-c2c>webfansplz/vue-c2c</a><span> Transforming Vue components to composable functions</span></li><li><a href=https://github.com/romkatv/powerlevel10k>romkatv/powerlevel10k</a><span> A Zsh theme</span></li></ul>
+<ul><li><a href=https://github.com/Ssttar/Clock>Ssttar/Clock</a><span> timer with C</span></li><li><a href=https://github.com/daidr/douLog>daidr/douLog</a><span> 戴兜的博客（施工中）</span></li><li><a href=https://github.com/toptal/gitignore.io>toptal/gitignore.io</a><span> Create useful .gitignore files for your project</span></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><span> Empowering everyone to build reliable and efficient software.</span></li><li><a href=https://github.com/githubnext/monaspace>githubnext/monaspace</a><span> An innovative superfamily of fonts for code</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/16/23, 5:08 AM<br>下一次刷新：12/16/23, 8:08 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/16/23, 8:44 AM<br>下一次刷新：12/16/23, 11:44 AM</p>
