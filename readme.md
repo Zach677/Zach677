@@ -73,11 +73,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/VirgilClyne/Cloudflare>VirgilClyne/Cloudflare</a><span> Cloudflare相关插件/模块</span></li><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><span> 🚤 Cross-platform, unofficial CLI for Cloudflare Warp</span></li><li><a href=https://github.com/wibus-wee/PhotosProcessor>wibus-wee/PhotosProcessor</a><span> Multi-functional photo processor software. Open source. Free forever.</span></li><li><a href=https://github.com/altstoreio/AltStore>altstoreio/AltStore</a><span> AltStore is an alternative app store for non-jailbroken iOS devices.</span></li></ul>
+<ul><li><a href=https://github.com/WPeace-HcH/WPeChatGPT>WPeace-HcH/WPeChatGPT</a><span> A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.</span></li><li><a href=https://github.com/VirgilClyne/Cloudflare>VirgilClyne/Cloudflare</a><span> Cloudflare相关插件/模块</span></li><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><span> 🚤 Cross-platform, unofficial CLI for Cloudflare Warp</span></li><li><a href=https://github.com/wibus-wee/PhotosProcessor>wibus-wee/PhotosProcessor</a><span> Multi-functional photo processor software. Open source. Free forever.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Innei/shuffle-article>Innei/shuffle-article</a><span> 在 DOM 上打乱文字，而非视觉上。</span></li><li><a href=https://github.com/mas-cli/mas>mas-cli/mas</a><span> :package: Mac App Store command line interface</span></li><li><a href=https://github.com/githubnext/monaspace>githubnext/monaspace</a><span> An innovative superfamily of fonts for code</span></li><li><a href=https://github.com/matchai/waka-box>matchai/waka-box</a><span> 📊 Update a pinned gist to contain your weekly WakaTime stats</span></li><li><a href=https://github.com/WisdomShell/codeshell-vscode>WisdomShell/codeshell-vscode</a><span> An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell</span></li></ul>
+<ul><li><a href=https://github.com/WisdomShell/codeshell-vscode>WisdomShell/codeshell-vscode</a><span> An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell</span></li><li><a href=https://github.com/anker1209/Scriptable>anker1209/Scriptable</a></li><li><a href=https://github.com/tailwindlabs/tailwindcss>tailwindlabs/tailwindcss</a><span> A utility-first CSS framework for rapid UI development.</span></li><li><a href=https://github.com/webfansplz/vue-c2c>webfansplz/vue-c2c</a><span> Transforming Vue components to composable functions</span></li><li><a href=https://github.com/matchai/waka-box>matchai/waka-box</a><span> 📊 Update a pinned gist to contain your weekly WakaTime stats</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/17/23, 11:10 AM<br>下一次刷新：12/17/23, 2:10 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/17/23, 2:12 PM<br>下一次刷新：12/17/23, 5:12 PM</p>
