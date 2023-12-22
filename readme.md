@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/unpreset/unocss-preset-useful>unpreset/unocss-preset-useful</a><span> Integrate and useful preset.</span></li><li><a href=https://github.com/mengjian-github/copilot-analysis>mengjian-github/copilot-analysis</a></li><li><a href=https://github.com/githubnext/monaspace>githubnext/monaspace</a><span> An innovative superfamily of fonts for code</span></li><li><a href=https://github.com/matchai/waka-box>matchai/waka-box</a><span> 📊 Update a pinned gist to contain your weekly WakaTime stats</span></li><li><a href=https://github.com/intitni/CopilotForXcode>intitni/CopilotForXcode</a><span> The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension</span></li></ul>
+<ul><li><a href=https://github.com/WisdomShell/codeshell-vscode>WisdomShell/codeshell-vscode</a><span> An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell</span></li><li><a href=https://github.com/intitni/CopilotForXcode>intitni/CopilotForXcode</a><span> The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension</span></li><li><a href=https://github.com/vercel/geist-font>vercel/geist-font</a></li><li><a href=https://github.com/Ssttar/Clock>Ssttar/Clock</a><span> timer with C</span></li><li><a href=https://github.com/daidr/douLog>daidr/douLog</a><span> 戴兜的博客（施工中）</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/22/23, 8:44 AM<br>下一次刷新：12/22/23, 11:44 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/22/23, 11:10 AM<br>下一次刷新：12/22/23, 2:10 PM</p>
