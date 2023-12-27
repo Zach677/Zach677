@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><span> 🚤 Cross-platform, unofficial CLI for Cloudflare Warp</span></li><li><a href=https://github.com/61bcdefg/vmprotect-3.5.1>61bcdefg/vmprotect-3.5.1</a><span> buildable for Mac</span></li><li><a href=https://github.com/VirgilClyne/Cloudflare>VirgilClyne/Cloudflare</a><span> Cloudflare相关插件/模块</span></li><li><a href=https://github.com/romkatv/powerlevel10k>romkatv/powerlevel10k</a><span> A Zsh theme</span></li><li><a href=https://github.com/tailwindlabs/tailwindcss>tailwindlabs/tailwindcss</a><span> A utility-first CSS framework for rapid UI development.</span></li></ul>
+<ul><li><a href=https://github.com/altstoreio/AltStore>altstoreio/AltStore</a><span> AltStore is an alternative app store for non-jailbroken iOS devices.</span></li><li><a href=https://github.com/sveltejs/svelte>sveltejs/svelte</a><span> Cybernetically enhanced web apps</span></li><li><a href=https://github.com/wibus-wee/PhotosProcessor>wibus-wee/PhotosProcessor</a><span> Multi-functional photo processor software. Open source. Free forever.</span></li><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><span> 🚤 Cross-platform, unofficial CLI for Cloudflare Warp</span></li><li><a href=https://github.com/antfu/.github>antfu/.github</a><span> The default community health files for all my repos on GitHub</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/27/23, 5:09 PM<br>下一次刷新：12/27/23, 8:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/27/23, 8:17 PM<br>下一次刷新：12/27/23, 11:17 PM</p>
