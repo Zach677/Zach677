@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/MAGPIE>Lakr233/MAGPIE</a><span> 喜鹊派员工餐配方存档</span></li><li><a href=https://github.com/apple-oss-distributions/dyld>apple-oss-distributions/dyld</a></li><li><a href=https://github.com/jmpoep/vmprotect-3.5.1>jmpoep/vmprotect-3.5.1</a></li><li><a href=https://github.com/61bcdefg/vmprotect-3.5.1>61bcdefg/vmprotect-3.5.1</a><span> buildable for Mac</span></li><li><a href=https://github.com/romkatv/powerlevel10k>romkatv/powerlevel10k</a><span> A Zsh theme</span></li></ul>
+<ul><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><span> Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</span></li><li><a href=https://github.com/lulu-ls/cloud-uploader>lulu-ls/cloud-uploader</a><span> 网易云音乐MAC云盘上传工具</span></li><li><a href=https://github.com/githubnext/monaspace>githubnext/monaspace</a><span> An innovative superfamily of fonts for code</span></li><li><a href=https://github.com/61bcdefg/vmprotect-3.5.1>61bcdefg/vmprotect-3.5.1</a><span> buildable for Mac</span></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><span> 网易云音乐 Node.js API service</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/8/24, 8:18 PM<br>下一次刷新：1/8/24, 11:18 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/9/24, 2:13 AM<br>下一次刷新：1/9/24, 5:13 AM</p>
