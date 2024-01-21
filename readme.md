@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/romkatv/powerlevel10k>romkatv/powerlevel10k</a><span> A Zsh theme</span></li><li><a href=https://github.com/apple-oss-distributions/dyld>apple-oss-distributions/dyld</a></li><li><a href=https://github.com/Lakr233/MAGPIE>Lakr233/MAGPIE</a><span> 喜鹊派员工餐配方存档</span></li><li><a href=https://github.com/daidr/douLog>daidr/douLog</a><span> 戴兜的博客（施工中）</span></li><li><a href=https://github.com/tyilo/insert_dylib>tyilo/insert_dylib</a><span> Command line utility for inserting a dylib load command into a Mach-O binary</span></li></ul>
+<ul><li><a href=https://github.com/timqian/chinese-independent-blogs>timqian/chinese-independent-blogs</a><span> 中文独立博客列表</span></li><li><a href=https://github.com/tyilo/insert_dylib>tyilo/insert_dylib</a><span> Command line utility for inserting a dylib load command into a Mach-O binary</span></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><span> 网易云音乐 Node.js API service</span></li><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li><li><a href=https://github.com/wibus-wee/PhotosProcessor>wibus-wee/PhotosProcessor</a><span> Multi-functional photo processor software. Open source. Free forever.</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/21/24, 11:10 AM<br>下一次刷新：1/21/24, 2:10 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/21/24, 2:12 PM<br>下一次刷新：1/21/24, 5:12 PM</p>
