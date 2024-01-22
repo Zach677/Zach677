@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><span> Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</span></li><li><a href=https://github.com/Lakr233/MAGPIE>Lakr233/MAGPIE</a><span> 喜鹊派员工餐配方存档</span></li><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><span> 🚤 Cross-platform, unofficial CLI for Cloudflare Warp</span></li><li><a href=https://github.com/anker1209/Scriptable>anker1209/Scriptable</a></li><li><a href=https://github.com/rodionovd/rd_route>rodionovd/rd_route</a><span> Function hooking for macOS</span></li></ul>
+<ul><li><a href=https://github.com/NationalSecurityAgency/ghidra>NationalSecurityAgency/ghidra</a><span> Ghidra is a software reverse engineering (SRE) framework</span></li><li><a href=https://github.com/romkatv/powerlevel10k>romkatv/powerlevel10k</a><span> A Zsh theme</span></li><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><span> 🚤 Cross-platform, unofficial CLI for Cloudflare Warp</span></li><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><span> Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</span></li><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/22/24, 11:11 AM<br>下一次刷新：1/22/24, 2:11 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/22/24, 2:14 PM<br>下一次刷新：1/22/24, 5:14 PM</p>
