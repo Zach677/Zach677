@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/altstoreio/AltStore>altstoreio/AltStore</a><span> AltStore is an alternative app store for non-jailbroken iOS devices.</span></li><li><a href=https://github.com/x0rloser/ida_dll_shim>x0rloser/ida_dll_shim</a><span> Enables using HexRays Decompiler v7.6 and v7.7 with IDA 8.x</span></li><li><a href=https://github.com/jmpoep/vmprotect-3.5.1>jmpoep/vmprotect-3.5.1</a></li><li><a href=https://github.com/mikeroyal/Self-Hosting-Guide>mikeroyal/Self-Hosting-Guide</a><span> Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</span></li><li><a href=https://github.com/1Panel-dev/KubePi>1Panel-dev/KubePi</a><span> KubePi 是一个现代化的 K8s 面板。</span></li></ul>
+<ul><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li><li><a href=https://github.com/WPeace-HcH/WPeChatGPT>WPeace-HcH/WPeChatGPT</a><span> A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.</span></li><li><a href=https://github.com/svelte-society/sveltesociety.dev>svelte-society/sveltesociety.dev</a><span> The Svelte Society website</span></li><li><a href=https://github.com/apernet/OpenGFW>apernet/OpenGFW</a><span> OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux</span></li><li><a href=https://github.com/altstoreio/AltStore>altstoreio/AltStore</a><span> AltStore is an alternative app store for non-jailbroken iOS devices.</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/25/24, 2:13 PM<br>下一次刷新：1/25/24, 5:13 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/25/24, 5:10 PM<br>下一次刷新：1/25/24, 8:10 PM</p>
