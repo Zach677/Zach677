@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/61bcdefg/vmprotect-3.5.1>61bcdefg/vmprotect-3.5.1</a><span> buildable for Mac</span></li><li><a href=https://github.com/apple-oss-distributions/dyld>apple-oss-distributions/dyld</a></li><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li><li><a href=https://github.com/WPeace-HcH/WPeChatGPT>WPeace-HcH/WPeChatGPT</a><span> A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.</span></li><li><a href=https://github.com/lulu-ls/cloud-uploader>lulu-ls/cloud-uploader</a><span> 网易云音乐MAC云盘上传工具</span></li></ul>
+<ul><li><a href=https://github.com/svelte-society/sveltesociety.dev>svelte-society/sveltesociety.dev</a><span> The Svelte Society website</span></li><li><a href=https://github.com/apernet/OpenGFW>apernet/OpenGFW</a><span> OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux</span></li><li><a href=https://github.com/WPeace-HcH/WPeChatGPT>WPeace-HcH/WPeChatGPT</a><span> A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.</span></li><li><a href=https://github.com/jmpoep/vmprotect-3.5.1>jmpoep/vmprotect-3.5.1</a></li><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/26/24, 11:11 AM<br>下一次刷新：1/26/24, 2:11 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/26/24, 2:12 PM<br>下一次刷新：1/26/24, 5:12 PM</p>
