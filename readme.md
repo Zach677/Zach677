@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/svelte-society/sveltesociety.dev>svelte-society/sveltesociety.dev</a><span> The Svelte Society website</span></li><li><a href=https://github.com/apernet/OpenGFW>apernet/OpenGFW</a><span> OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux</span></li><li><a href=https://github.com/WPeace-HcH/WPeChatGPT>WPeace-HcH/WPeChatGPT</a><span> A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.</span></li><li><a href=https://github.com/jmpoep/vmprotect-3.5.1>jmpoep/vmprotect-3.5.1</a></li><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li></ul>
+<ul><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><span> Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</span></li><li><a href=https://github.com/timqian/chinese-independent-blogs>timqian/chinese-independent-blogs</a><span> 中文独立博客列表</span></li><li><a href=https://github.com/unocss/unocss>unocss/unocss</a><span> The instant on-demand atomic CSS engine.</span></li><li><a href=https://github.com/ikun-svelte/ikun-ui>ikun-svelte/ikun-ui</a><span> 🐔A Svelte.js based UnoCSS UI library that allows you to make websites</span></li><li><a href=https://github.com/altstoreio/AltStore>altstoreio/AltStore</a><span> AltStore is an alternative app store for non-jailbroken iOS devices.</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/26/24, 2:12 PM<br>下一次刷新：1/26/24, 5:12 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/26/24, 5:10 PM<br>下一次刷新：1/26/24, 8:10 PM</p>
