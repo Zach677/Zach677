@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><span> Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</span></li><li><a href=https://github.com/apernet/OpenGFW>apernet/OpenGFW</a><span> OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux</span></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><span> 网易云音乐 Node.js API service</span></li><li><a href=https://github.com/altstoreio/AltStore>altstoreio/AltStore</a><span> AltStore is an alternative app store for non-jailbroken iOS devices.</span></li><li><a href=https://github.com/VirgilClyne/Cloudflare>VirgilClyne/Cloudflare</a><span> Cloudflare相关插件/模块</span></li></ul>
+<ul><li><a href=https://github.com/apple-oss-distributions/dyld>apple-oss-distributions/dyld</a></li><li><a href=https://github.com/jsososo/QQMusicApi>jsososo/QQMusicApi</a><span> 基于 Express + Axios 的 QQ音乐接口 nodejs 版</span></li><li><a href=https://github.com/61bcdefg/vmprotect-3.5.1>61bcdefg/vmprotect-3.5.1</a><span> buildable for Mac</span></li><li><a href=https://github.com/VirgilClyne/Cloudflare>VirgilClyne/Cloudflare</a><span> Cloudflare相关插件/模块</span></li><li><a href=https://github.com/altstoreio/AltStore>altstoreio/AltStore</a><span> AltStore is an alternative app store for non-jailbroken iOS devices.</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/27/24, 5:09 AM<br>下一次刷新：1/27/24, 8:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/27/24, 8:43 AM<br>下一次刷新：1/27/24, 11:43 AM</p>
