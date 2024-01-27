@@ -73,11 +73,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/rust-lang/rustlings>rust-lang/rustlings</a><span> :crab: Small exercises to get you used to reading and writing Rust code!</span></li><li><a href=https://github.com/lencx/nofwl>lencx/nofwl</a><span> NoFWL Desktop Application</span></li><li><a href=https://github.com/lencx/ChatGPT>lencx/ChatGPT</a><span> 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)</span></li><li><a href=https://github.com/lencx/Noi>lencx/Noi</a><span> 🦄 AI + Tools + Plugins + Community</span></li><li><a href=https://github.com/DualSubs/Universal>DualSubs/Universal</a><span> 流媒体平台字幕增强及双语模块</span></li></ul>
+<ul><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a><span> IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/rust-lang/rustlings>rust-lang/rustlings</a><span> :crab: Small exercises to get you used to reading and writing Rust code!</span></li><li><a href=https://github.com/lencx/nofwl>lencx/nofwl</a><span> NoFWL Desktop Application</span></li><li><a href=https://github.com/lencx/ChatGPT>lencx/ChatGPT</a><span> 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)</span></li><li><a href=https://github.com/lencx/Noi>lencx/Noi</a><span> 🦄 AI + Tools + Plugins + Community</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/WPeace-HcH/WPeChatGPT>WPeace-HcH/WPeChatGPT</a><span> A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.</span></li><li><a href=https://github.com/VirgilClyne/Cloudflare>VirgilClyne/Cloudflare</a><span> Cloudflare相关插件/模块</span></li><li><a href=https://github.com/Lakr233/MAGPIE>Lakr233/MAGPIE</a><span> 喜鹊派员工餐配方存档</span></li><li><a href=https://github.com/jmpoep/vmprotect-3.5.1>jmpoep/vmprotect-3.5.1</a></li><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><span> Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</span></li></ul>
+<ul><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><span> 网易云音乐 Node.js API service</span></li><li><a href=https://github.com/lulu-ls/cloud-uploader>lulu-ls/cloud-uploader</a><span> 网易云音乐MAC云盘上传工具</span></li><li><a href=https://github.com/ikun-svelte/ikun-ui>ikun-svelte/ikun-ui</a><span> 🐔A Svelte.js based UnoCSS UI library that allows you to make websites</span></li><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li><li><a href=https://github.com/timqian/chinese-independent-blogs>timqian/chinese-independent-blogs</a><span> 中文独立博客列表</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/27/24, 8:14 PM<br>下一次刷新：1/27/24, 11:14 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/27/24, 11:08 PM<br>下一次刷新：1/28/24, 2:08 AM</p>
