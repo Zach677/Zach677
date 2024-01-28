@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/timqian/chinese-independent-blogs>timqian/chinese-independent-blogs</a><span> 中文独立博客列表</span></li><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li><li><a href=https://github.com/61bcdefg/vmprotect-3.5.1>61bcdefg/vmprotect-3.5.1</a><span> buildable for Mac</span></li><li><a href=https://github.com/DualSubs/Universal>DualSubs/Universal</a><span> 流媒体平台字幕增强及双语模块</span></li><li><a href=https://github.com/1Panel-dev/KubePi>1Panel-dev/KubePi</a><span> KubePi 是一个现代化的 K8s 面板。</span></li></ul>
+<ul><li><a href=https://github.com/wibus-wee/PhotosProcessor>wibus-wee/PhotosProcessor</a><span> Multi-functional photo processor software. Open source. Free forever.</span></li><li><a href=https://github.com/timqian/chinese-independent-blogs>timqian/chinese-independent-blogs</a><span> 中文独立博客列表</span></li><li><a href=https://github.com/ikun-svelte/ikun-ui>ikun-svelte/ikun-ui</a><span> 🐔A Svelte.js based UnoCSS UI library that allows you to make websites</span></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><span> 网易云音乐 Node.js API service</span></li><li><a href=https://github.com/jsososo/QQMusicApi>jsososo/QQMusicApi</a><span> 基于 Express + Axios 的 QQ音乐接口 nodejs 版</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/28/24, 2:11 PM<br>下一次刷新：1/28/24, 5:11 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/28/24, 5:10 PM<br>下一次刷新：1/28/24, 8:10 PM</p>
