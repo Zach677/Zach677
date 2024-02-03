@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/apernet/OpenGFW>apernet/OpenGFW</a><span> OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux</span></li><li><a href=https://github.com/Lakr233/MAGPIE>Lakr233/MAGPIE</a><span> 喜鹊派员工餐配方存档</span></li><li><a href=https://github.com/svelte-society/sveltesociety.dev>svelte-society/sveltesociety.dev</a><span> The Svelte Society website</span></li><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li><li><a href=https://github.com/unocss/unocss>unocss/unocss</a><span> The instant on-demand atomic CSS engine.</span></li></ul>
+<ul><li><a href=https://github.com/apple-oss-distributions/dyld>apple-oss-distributions/dyld</a></li><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><span> Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</span></li><li><a href=https://github.com/apernet/OpenGFW>apernet/OpenGFW</a><span> OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux</span></li><li><a href=https://github.com/NationalSecurityAgency/ghidra>NationalSecurityAgency/ghidra</a><span> Ghidra is a software reverse engineering (SRE) framework</span></li><li><a href=https://github.com/getsomecat/GetSomeCats>getsomecat/GetSomeCats</a></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/3/24, 8:42 AM<br>下一次刷新：2/3/24, 11:42 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/3/24, 11:11 AM<br>下一次刷新：2/3/24, 2:11 PM</p>
