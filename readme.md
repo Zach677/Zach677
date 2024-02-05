@@ -73,11 +73,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/warpdotdev/Warp>warpdotdev/Warp</a><span> Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.</span></li><li><a href=https://github.com/2lifetop/Pal-Server-Install>2lifetop/Pal-Server-Install</a><span> 幻兽帕鲁服务端一键安装脚本</span></li><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a><span> IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/rust-lang/rustlings>rust-lang/rustlings</a><span> :crab: Small exercises to get you used to reading and writing Rust code!</span></li><li><a href=https://github.com/lencx/nofwl>lencx/nofwl</a><span> NoFWL Desktop Application</span></li></ul>
+<ul><li><a href=https://github.com/clash-verge-rev/clash-verge-rev>clash-verge-rev/clash-verge-rev</a><span> Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)</span></li><li><a href=https://github.com/MetaCubeX/clash-verge>MetaCubeX/clash-verge</a><span> A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li><li><a href=https://github.com/MetaCubeX/ClashX.Meta>MetaCubeX/ClashX.Meta</a></li><li><a href=https://github.com/MetaCubeX/mihomo>MetaCubeX/mihomo</a><span> A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.</span></li><li><a href=https://github.com/warpdotdev/Warp>warpdotdev/Warp</a><span> Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/svelte-society/sveltesociety.dev>svelte-society/sveltesociety.dev</a><span> The Svelte Society website</span></li><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><span> Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</span></li><li><a href=https://github.com/tyilo/insert_dylib>tyilo/insert_dylib</a><span> Command line utility for inserting a dylib load command into a Mach-O binary</span></li><li><a href=https://github.com/mikeroyal/Self-Hosting-Guide>mikeroyal/Self-Hosting-Guide</a><span> Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</span></li><li><a href=https://github.com/rodionovd/rd_route>rodionovd/rd_route</a><span> Function hooking for macOS</span></li></ul>
+<ul><li><a href=https://github.com/rodionovd/rd_route>rodionovd/rd_route</a><span> Function hooking for macOS</span></li><li><a href=https://github.com/svelte-society/sveltesociety.dev>svelte-society/sveltesociety.dev</a><span> The Svelte Society website</span></li><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><span> Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</span></li><li><a href=https://github.com/Lakr233/MAGPIE>Lakr233/MAGPIE</a><span> 喜鹊派员工餐配方存档</span></li><li><a href=https://github.com/2lifetop/Pal-Server-Install>2lifetop/Pal-Server-Install</a><span> 幻兽帕鲁服务端一键安装脚本</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/5/24, 11:11 AM<br>下一次刷新：2/5/24, 2:11 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/5/24, 2:12 PM<br>下一次刷新：2/5/24, 5:12 PM</p>
