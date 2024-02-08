@@ -73,11 +73,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/YueChan/Live>YueChan/Live</a><span> 收集于互联网的一些高清直播源。</span></li><li><a href=https://github.com/wibus-wee/activation-script>wibus-wee/activation-script</a><span> [WIP] A script designed to generate configuration files and activate software for the Surge</span></li><li><a href=https://github.com/MetaCubeX/meta-rules-dat>MetaCubeX/meta-rules-dat</a><span> 🐱 rules-dat for mihomo</span></li><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><span> 分流规则、重写写规则及脚本。</span></li><li><a href=https://github.com/luofeng7/QQFlacMusicDownloader>luofeng7/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li></ul>
+<ul><li><a href=https://github.com/jeessy2/ddns-go>jeessy2/ddns-go</a><span> Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...</span></li><li><a href=https://github.com/gdy666/lucky>gdy666/lucky</a><span> 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser</span></li><li><a href=https://github.com/QiuChenlyOpenSource/91QiuChen>QiuChenlyOpenSource/91QiuChen</a><span> 91 Sex asm code asian cosplay porn hexinhex big dick</span></li><li><a href=https://github.com/Antibioticss/InjectLib>Antibioticss/InjectLib</a><span> 基于Ruby编写的命令行注入版本</span></li><li><a href=https://github.com/YueChan/Live>YueChan/Live</a><span> 收集于互联网的一些高清直播源。</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/lencx/Noi>lencx/Noi</a><span> 🚀 Power Your World with AI - Explore, Extend, Empower.</span></li><li><a href=https://github.com/warpdotdev/Warp>warpdotdev/Warp</a><span> Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.</span></li><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a><span> IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/unocss/unocss>unocss/unocss</a><span> The instant on-demand atomic CSS engine.</span></li><li><a href=https://github.com/lencx/ChatGPT>lencx/ChatGPT</a><span> 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)</span></li></ul>
+<ul><li><a href=https://github.com/x0rloser/ida_dll_shim>x0rloser/ida_dll_shim</a><span> Enables using HexRays Decompiler v7.6 and v7.7 with IDA 8.x</span></li><li><a href=https://github.com/MetaCubeX/ClashX.Meta>MetaCubeX/ClashX.Meta</a></li><li><a href=https://github.com/lencx/nofwl>lencx/nofwl</a><span> NoFWL Desktop Application</span></li><li><a href=https://github.com/MetaCubeX/meta-rules-dat>MetaCubeX/meta-rules-dat</a><span> 🐱 rules-dat for mihomo</span></li><li><a href=https://github.com/lencx/Noi>lencx/Noi</a><span> 🚀 Power Your World with AI - Explore, Extend, Empower.</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/8/24, 11:11 AM<br>下一次刷新：2/8/24, 2:11 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/8/24, 8:16 PM<br>下一次刷新：2/8/24, 11:16 PM</p>
