@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/naiba/nezha>naiba/nezha</a><span> :trollface: Self-hosted, lightweight server and website monitoring and O&M tool</span></li><li><a href=https://github.com/lencx/ChatGPT>lencx/ChatGPT</a><span> 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)</span></li><li><a href=https://github.com/wibus-wee/activation-script>wibus-wee/activation-script</a><span> [WIP] A script designed to generate configuration files and activate software for the Surge</span></li><li><a href=https://github.com/luofeng7/QQFlacMusicDownloader>luofeng7/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a><span> Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li></ul>
+<ul><li><a href=https://github.com/1Panel-dev/KubePi>1Panel-dev/KubePi</a><span> KubePi 是一个现代化的 K8s 面板。</span></li><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a><span> IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/mikeroyal/Self-Hosting-Guide>mikeroyal/Self-Hosting-Guide</a><span> Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</span></li><li><a href=https://github.com/lencx/nofwl>lencx/nofwl</a><span> NoFWL Desktop Application</span></li><li><a href=https://github.com/luofeng7/QQFlacMusicDownloader>luofeng7/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/9/24, 11:10 AM<br>下一次刷新：2/9/24, 2:10 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/9/24, 2:12 PM<br>下一次刷新：2/9/24, 5:12 PM</p>
