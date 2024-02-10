@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/lencx/Noi>lencx/Noi</a><span> 🚀 Power Your World with AI - Explore, Extend, Empower.</span></li><li><a href=https://github.com/MetaCubeX/ClashX.Meta>MetaCubeX/ClashX.Meta</a></li><li><a href=https://github.com/rust-lang/rustlings>rust-lang/rustlings</a><span> :crab: Small exercises to get you used to reading and writing Rust code!</span></li><li><a href=https://github.com/lencx/nofwl>lencx/nofwl</a><span> NoFWL Desktop Application</span></li><li><a href=https://github.com/MetaCubeX/meta-rules-dat>MetaCubeX/meta-rules-dat</a><span> 🐱 rules-dat for mihomo</span></li></ul>
+<ul><li><a href=https://github.com/lencx/Noi>lencx/Noi</a><span> 🚀 Power Your World with AI - Explore, Extend, Empower.</span></li><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a><span> IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/YueChan/Live>YueChan/Live</a><span> 收集于互联网的一些高清直播源。</span></li><li><a href=https://github.com/Antibioticss/InjectLib>Antibioticss/InjectLib</a><span> 基于Ruby编写的命令行注入版本</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a><span> Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/10/24, 5:09 PM<br>下一次刷新：2/10/24, 8:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/10/24, 8:16 PM<br>下一次刷新：2/10/24, 11:16 PM</p>
