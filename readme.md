@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a><span> Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a><span> IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/Rabbit-Spec/Surge>Rabbit-Spec/Surge</a><span> Surge自用配置以及模块和脚本</span></li><li><a href=https://github.com/MetaCubeX/mihomo>MetaCubeX/mihomo</a><span> A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.</span></li><li><a href=https://github.com/warpdotdev/Warp>warpdotdev/Warp</a><span> Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.</span></li></ul>
+<ul><li><a href=https://github.com/naiba/nezha>naiba/nezha</a><span> :trollface: Self-hosted, lightweight server and website monitoring and O&M tool</span></li><li><a href=https://github.com/MetaCubeX/ClashX.Meta>MetaCubeX/ClashX.Meta</a></li><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a><span> IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/YueChan/Live>YueChan/Live</a><span> 收集于互联网的一些高清直播源。</span></li><li><a href=https://github.com/MetaCubeX/clash-verge>MetaCubeX/clash-verge</a><span> A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/15/24, 5:12 PM<br>下一次刷新：2/15/24, 8:12 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/15/24, 8:16 PM<br>下一次刷新：2/15/24, 11:16 PM</p>
