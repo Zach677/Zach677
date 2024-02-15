@@ -77,7 +77,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/MetaCubeX/clash-verge>MetaCubeX/clash-verge</a><span> A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li><li><a href=https://github.com/QiuChenlyOpenSource/91QiuChen>QiuChenlyOpenSource/91QiuChen</a><span> 91 Sex asm code asian cosplay hexinhex porn big dick 花Q</span></li><li><a href=https://github.com/Ssttar/Surge-rules>Ssttar/Surge-rules</a><span> My surge rules</span></li><li><a href=https://github.com/luofeng7/QQFlacMusicDownloader>luofeng7/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/gdy666/lucky>gdy666/lucky</a><span> 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser</span></li></ul>
+<ul><li><a href=https://github.com/2lifetop/Pal-Server-Install>2lifetop/Pal-Server-Install</a><span> 幻兽帕鲁服务端一键安装脚本</span></li><li><a href=https://github.com/Rabbit-Spec/Surge>Rabbit-Spec/Surge</a><span> Surge自用配置以及模块和脚本</span></li><li><a href=https://github.com/hideuvpn/android-google-play-store>hideuvpn/android-google-play-store</a><span> 安装谷歌三件套：google服务框架 ; google play service ;google play store</span></li><li><a href=https://github.com/zhuozhiyongde/Unlocking-Raycast-With-Surge>zhuozhiyongde/Unlocking-Raycast-With-Surge</a><span> Utilize Surge's MiTM capability to intercept requests and leverage Docker services to emulate backend operations, enabling the activation of Raycast.</span></li><li><a href=https://github.com/Ssttar/Surge-rules>Ssttar/Surge-rules</a><span> My surge rules</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/15/24, 8:43 AM<br>下一次刷新：2/15/24, 11:43 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/15/24, 11:11 AM<br>下一次刷新：2/15/24, 2:11 PM</p>
