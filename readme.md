@@ -73,11 +73,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/facebook/react-strict-dom>facebook/react-strict-dom</a><span> React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets</span></li><li><a href=https://github.com/sashabaranov/go-openai>sashabaranov/go-openai</a><span> OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</span></li><li><a href=https://github.com/Ssttar/activation-script>Ssttar/activation-script</a><span> A script designed to generate configuration files and activate software for the Surge</span></li><li><a href=https://github.com/OwO-Network/DeepLX>OwO-Network/DeepLX</a><span> DeepL Free API (No TOKEN required)</span></li><li><a href=https://github.com/nxtrace/NTrace-core>nxtrace/NTrace-core</a><span> NextTrace, an open source visual route tracking CLI tool</span></li></ul>
+<ul><li><a href=https://github.com/aaamoon/copilot-gpt4-service>aaamoon/copilot-gpt4-service</a><span> Convert Github Copilot to ChatGPT</span></li><li><a href=https://github.com/facebook/react-strict-dom>facebook/react-strict-dom</a><span> React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets</span></li><li><a href=https://github.com/sashabaranov/go-openai>sashabaranov/go-openai</a><span> OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</span></li><li><a href=https://github.com/Ssttar/activation-script>Ssttar/activation-script</a><span> A script designed to generate configuration files and activate software for the Surge</span></li><li><a href=https://github.com/OwO-Network/DeepLX>OwO-Network/DeepLX</a><span> DeepL Free API (No TOKEN required)</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/MetaCubeX/meta-rules-dat>MetaCubeX/meta-rules-dat</a><span> 🐱 rules-dat for mihomo</span></li><li><a href=https://github.com/gdy666/lucky>gdy666/lucky</a><span> 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser</span></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li><li><a href=https://github.com/Ssttar/Surge-rules>Ssttar/Surge-rules</a><span> My surge rules</span></li><li><a href=https://github.com/clash-verge-rev/clash-verge-rev>clash-verge-rev/clash-verge-rev</a><span> Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)</span></li></ul>
+<ul><li><a href=https://github.com/wibus-wee/activation-script>wibus-wee/activation-script</a><span> A script designed to generate configuration files and activate software for the Surge</span></li><li><a href=https://github.com/YueChan/Live>YueChan/Live</a><span> 收集于互联网的一些高清直播源。</span></li><li><a href=https://github.com/Ssttar/Surge-rules>Ssttar/Surge-rules</a><span> My surge rules</span></li><li><a href=https://github.com/QiuChenlyOpenSource/91QiuChen>QiuChenlyOpenSource/91QiuChen</a><span> 91 Sex asm code asian cosplay hexinhex porn big dick 花Q</span></li><li><a href=https://github.com/MetaCubeX/mihomo>MetaCubeX/mihomo</a><span> A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.</span></li></ul>
 
 
 **Can you find me?**
@@ -89,4 +89,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <!-- motto -->
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/22/24, 2:12 PM<br>下一次刷新：2/22/24, 5:12 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/22/24, 5:10 PM<br>下一次刷新：2/22/24, 8:10 PM</p>
