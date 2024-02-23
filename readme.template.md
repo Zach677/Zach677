@@ -15,12 +15,12 @@ I'm a student,Learning to program.
 
 Although my technology is poor now, it will slowly improve in the future.
 
-**Software Developer**
+**Backend Developer**
 
 <p>
  <img alt="Clang" src="https://img.shields.io/badge/-clang-ea146?style=flat-square&logo=C&logoColor=white">
  <!-- <img alt="rust" src="https://img.shields.io/badge/-rust-ea7?style=flat-square&logo=rust&logoColor=white"> -->
- <!-- <img alt="Golang" src="https://img.shields.io/badge/-go-%2300FFFF?style=flat-square&logo=go&logoColor=white"> -->
+ <img alt="Golang" src="https://img.shields.io/badge/-go-%2300FFFF?style=flat-square&logo=go&logoColor=white">
 </p>
 
 **Web Developer**
@@ -82,7 +82,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Can you find me?**
 
-<p><a href="https://github.com/Ssttar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ciLu270171" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<p><a href="https://github.com/Ssttar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Ssttar123" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 
 ---
 
