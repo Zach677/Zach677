@@ -1,5 +1,5 @@
 export const opensource = {
-  active: ['innei/Shiro', 'Ssttar/Surge-rules'],
+  active: ['innei/Shiro', 'Ssttar/Surge-rules', 'Ssttar/Ssttar'],
 };
 export const motto = `<p align=center><strong>Happy Life!</strong></p>`;
 export const github = {
