@@ -1,5 +1,5 @@
 export const opensource = {
-  active: ['Techtrek-space/TechTrek-simple-theme', 'Ssttar/CLock'],
+  active: ['innei/Shiro', 'Ssttar/Surge-rules'],
 };
 export const motto = `<p align=center><strong>Happy Life!</strong></p>`;
 export const github = {
