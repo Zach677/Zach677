@@ -85,7 +85,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Ssttar/activation-script>Ssttar/activation-script</a><span> A script designed to generate configuration files and activate software for the Surge</span></li><li><a href=https://github.com/clash-verge-rev/clash-verge-rev>clash-verge-rev/clash-verge-rev</a><span> Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a><span> Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li><li><a href=https://github.com/Rabbit-Spec/Surge>Rabbit-Spec/Surge</a><span> Surge自用配置以及模块和脚本</span></li><li><a href=https://github.com/QiuChenlyOpenSource/91QiuChen>QiuChenlyOpenSource/91QiuChen</a><span> 91 Sex asm code asian cosplay hexinhex porn big dick 花Q</span></li></ul>
+<ul><li><a href=https://github.com/juewuy/ShellCrash>juewuy/ShellCrash</a><span> Run sing-box/mihomo as client in shell</span></li><li><a href=https://github.com/nxtrace/NTrace-core>nxtrace/NTrace-core</a><span> NextTrace, an open source visual route tracking CLI tool</span></li><li><a href=https://github.com/Ssttar/activation-script>Ssttar/activation-script</a><span> A script designed to generate configuration files and activate software for the Surge</span></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li><li><a href=https://github.com/nkeonkeo/MediaUnlockTest>nkeonkeo/MediaUnlockTest</a><span> MediaUnlockTest with golang</span></li></ul>
 
 
 **Can you find me?**
@@ -97,4 +97,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/24, 2:12 PM<br>下一次刷新：2/27/24, 5:12 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/24, 5:09 PM<br>下一次刷新：2/27/24, 8:09 PM</p>
