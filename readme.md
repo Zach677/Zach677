@@ -85,7 +85,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/juewuy/ShellCrash>juewuy/ShellCrash</a><span> Run sing-box/mihomo as client in shell</span></li><li><a href=https://github.com/zhuozhiyongde/Unlocking-Raycast-With-Surge>zhuozhiyongde/Unlocking-Raycast-With-Surge</a><span> Utilize Surge's MiTM capability to intercept requests and leverage Docker services to emulate backend operations, enabling the activation of Raycast.</span></li><li><a href=https://github.com/MetaCubeX/meta-rules-dat>MetaCubeX/meta-rules-dat</a><span> 🐱 rules-dat for mihomo</span></li><li><a href=https://github.com/clash-verge-rev/clash-verge-rev>clash-verge-rev/clash-verge-rev</a><span> Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a><span> Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li></ul>
+<ul><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><span> 分流规则、重写写规则及脚本。</span></li><li><a href=https://github.com/luofeng7/QQFlacMusicDownloader>luofeng7/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/sashabaranov/go-openai>sashabaranov/go-openai</a><span> OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</span></li><li><a href=https://github.com/Rabbit-Spec/Surge>Rabbit-Spec/Surge</a><span> Surge自用配置以及模块和脚本</span></li><li><a href=https://github.com/naiba/nezha>naiba/nezha</a><span> :trollface: Self-hosted, lightweight server and website monitoring and O&M tool</span></li></ul>
 
 
 **Can you find me?**
@@ -97,4 +97,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/28/24, 8:42 AM<br>下一次刷新：2/28/24, 11:42 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/28/24, 2:12 PM<br>下一次刷新：2/28/24, 5:12 PM</p>
