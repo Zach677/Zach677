@@ -85,7 +85,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/OwO-Network/DeepLX>OwO-Network/DeepLX</a><span> DeepL Free API (No TOKEN required)</span></li><li><a href=https://github.com/hideuvpn/android-google-play-store>hideuvpn/android-google-play-store</a><span> 安装谷歌三件套：google服务框架 ; google play service ;google play store</span></li><li><a href=https://github.com/Ssttar/activation-script>Ssttar/activation-script</a><span> A script designed to generate configuration files and activate software for the Surge</span></li><li><a href=https://github.com/aaamoon/copilot-gpt4-service>aaamoon/copilot-gpt4-service</a><span> Convert Github Copilot to ChatGPT</span></li><li><a href=https://github.com/Ssttar/Surge-rules>Ssttar/Surge-rules</a><span> My surge rules</span></li></ul>
+<ul><li><a href=https://github.com/Ssttar/Surge-rules>Ssttar/Surge-rules</a><span> My surge rules</span></li><li><a href=https://github.com/naiba/nezha>naiba/nezha</a><span> :trollface: Self-hosted, lightweight server and website monitoring and O&M tool</span></li><li><a href=https://github.com/aaamoon/copilot-gpt4-service>aaamoon/copilot-gpt4-service</a><span> Convert Github Copilot to ChatGPT</span></li><li><a href=https://github.com/MetaCubeX/meta-rules-dat>MetaCubeX/meta-rules-dat</a><span> 🐱 rules-dat for mihomo</span></li><li><a href=https://github.com/wibus-wee/activation-script>wibus-wee/activation-script</a><span> A script designed to generate configuration files and activate software for the Surge</span></li></ul>
 
 
 **Can you find me?**
@@ -97,4 +97,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/3/24, 5:07 AM<br>下一次刷新：3/3/24, 8:07 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/3/24, 8:45 AM<br>下一次刷新：3/3/24, 11:45 AM</p>
