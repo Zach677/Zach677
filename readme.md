@@ -85,7 +85,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a><span> SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li><li><a href=https://github.com/Ssttar/Surge-rules>Ssttar/Surge-rules</a><span> My surge rules</span></li><li><a href=https://github.com/gdy666/lucky>gdy666/lucky</a><span> 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser</span></li><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><span> 分流规则、重写写规则及脚本。</span></li><li><a href=https://github.com/YueChan/Live>YueChan/Live</a><span> 收集于互联网的一些高清直播源。</span></li></ul>
+<ul><li><a href=https://github.com/Ssttar/Surge-rules>Ssttar/Surge-rules</a><span> My surge rules</span></li><li><a href=https://github.com/antfu/ni>antfu/ni</a><span> 💡 Use the right package manager</span></li><li><a href=https://github.com/naiba/nezha>naiba/nezha</a><span> :trollface: Self-hosted, lightweight server and website monitoring and O&M tool</span></li><li><a href=https://github.com/MetaCubeX/meta-rules-dat>MetaCubeX/meta-rules-dat</a><span> 🐱 rules-dat for mihomo</span></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li></ul>
 
 
 **Can you find me?**
@@ -97,4 +97,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/5/24, 5:09 PM<br>下一次刷新：3/5/24, 8:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/5/24, 8:16 PM<br>下一次刷新：3/5/24, 11:16 PM</p>
