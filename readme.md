@@ -85,7 +85,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><span> 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.</span></li><li><a href=https://github.com/nxtrace/NTrace-core>nxtrace/NTrace-core</a><span> NextTrace, an open source visual route tracking CLI tool</span></li><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><span> 分流规则、重写写规则及脚本。</span></li><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a><span> SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li><li><a href=https://github.com/nkeonkeo/MediaUnlockTest>nkeonkeo/MediaUnlockTest</a><span> MediaUnlockTest with golang</span></li></ul>
+<ul><li><a href=https://github.com/facebook/react-strict-dom>facebook/react-strict-dom</a><span> React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets</span></li><li><a href=https://github.com/aaamoon/copilot-gpt4-service>aaamoon/copilot-gpt4-service</a><span> Convert Github Copilot to ChatGPT</span></li><li><a href=https://github.com/luofeng7/QQFlacMusicDownloader>luofeng7/QQFlacMusicDownloader</a><span> [秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/nxtrace/NTrace-core>nxtrace/NTrace-core</a><span> NextTrace, an open source visual route tracking CLI tool</span></li><li><a href=https://github.com/YueChan/Live>YueChan/Live</a><span> 收集于互联网的一些高清直播源。</span></li></ul>
 
 
 **Can you find me?**
@@ -97,4 +97,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/9/24, 2:13 PM<br>下一次刷新：3/9/24, 5:13 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/9/24, 5:11 PM<br>下一次刷新：3/9/24, 8:11 PM</p>
