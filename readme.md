@@ -85,7 +85,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Rabbit-Spec/Surge>Rabbit-Spec/Surge</a><span> Surge自用配置以及模块和脚本</span></li><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><span> 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.</span></li><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a><span> SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li><li><a href=https://github.com/OwO-Network/DeepLX>OwO-Network/DeepLX</a><span> DeepL Free API (No TOKEN required)</span></li><li><a href=https://github.com/Ssttar/activation-script>Ssttar/activation-script</a><span> A script designed to generate configuration files and activate software for the Surge</span></li></ul>
+<ul><li><a href=https://github.com/sashabaranov/go-openai>sashabaranov/go-openai</a><span> OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</span></li><li><a href=https://github.com/facebook/react-strict-dom>facebook/react-strict-dom</a><span> React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets</span></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li><li><a href=https://github.com/Ssttar/lobe-chat>Ssttar/lobe-chat</a><span> 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.</span></li><li><a href=https://github.com/OwO-Network/DeepLX>OwO-Network/DeepLX</a><span> DeepL Free API (No TOKEN required)</span></li></ul>
 
 
 **Can you find me?**
@@ -97,4 +97,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/13/24, 8:17 PM<br>下一次刷新：3/13/24, 11:17 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/13/24, 11:10 PM<br>下一次刷新：3/14/24, 2:10 AM</p>
