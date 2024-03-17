@@ -85,7 +85,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Ssttar/Surge-rules>Ssttar/Surge-rules</a><span> My surge rules</span></li><li><a href=https://github.com/jeessy2/ddns-go>jeessy2/ddns-go</a><span> Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...</span></li><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><span> 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.</span></li><li><a href=https://github.com/sashabaranov/go-openai>sashabaranov/go-openai</a><span> OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</span></li><li><a href=https://github.com/YueChan/Live>YueChan/Live</a><span> 收集于互联网的一些高清直播源。</span></li></ul>
+<ul><li><a href=https://github.com/aaamoon/copilot-gpt4-service>aaamoon/copilot-gpt4-service</a><span> Convert Github Copilot to ChatGPT</span></li><li><a href=https://github.com/wibus-wee/activation-script>wibus-wee/activation-script</a><span> A script designed to generate configuration files and activate software for the Surge</span></li><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><span> 分流规则、重写写规则及脚本。</span></li><li><a href=https://github.com/Ssttar/lobe-chat>Ssttar/lobe-chat</a><span> 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.</span></li><li><a href=https://github.com/nxtrace/NTrace-core>nxtrace/NTrace-core</a><span> NextTrace, an open source visual route tracking CLI tool</span></li></ul>
 
 
 **Can you find me?**
@@ -100,4 +100,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/17/24, 3:18 PM<br>下一次刷新：3/17/24, 6:18 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/17/24, 3:22 PM<br>下一次刷新：3/17/24, 6:22 PM</p>
