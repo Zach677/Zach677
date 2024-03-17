@@ -21,8 +21,11 @@ Although my technology is poor now, it will slowly improve in the future.
  <img alt="Clang" src="https://img.shields.io/badge/-clang-ea146?style=flat-square&logo=C&logoColor=white">
  <!-- <img alt="rust" src="https://img.shields.io/badge/-rust-ea7?style=flat-square&logo=rust&logoColor=white"> -->
 <!-- <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> -->
- <img alt="Golang" src="https://img.shields.io/badge/-GO-00ADD8?style=flat-square&logo=go&logoColor=white" />
+ <!-- <img alt="Golang" src="https://img.shields.io/badge/-GO-00ADD8?style=flat-square&logo=go&logoColor=white" /> -->
 </p>
+
+**IOS Developer**
+<img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-EB543A?style=flat-square&logo=swift&logoColor=white" />
 
 **Web Developer**
 
@@ -81,11 +84,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/Platane/snk>Platane/snk</a><span> 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</span></li><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a><span> Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li><li><a href=https://github.com/Innei/book-ssg-template>Innei/book-ssg-template</a><span> Yet another template for document SSG.</span></li><li><a href=https://github.com/shikijs/shiki-magic-move>shikijs/shiki-magic-move</a><span> Smoothly animated code blocks with Shiki</span></li><li><a href=https://github.com/gopl-zh/gopl-zh.github.com>gopl-zh/gopl-zh.github.com</a><span> :books: Go语言圣经中文版 🇨🇳</span></li></ul>
+<ul><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a><span> (CLI Only) A simple audio recorder for TrollStore.</span></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><span> 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</span></li><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a><span> Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li><li><a href=https://github.com/Innei/book-ssg-template>Innei/book-ssg-template</a><span> Yet another template for document SSG.</span></li><li><a href=https://github.com/shikijs/shiki-magic-move>shikijs/shiki-magic-move</a><span> Smoothly animated code blocks with Shiki</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/nkeonkeo/MediaUnlockTest>nkeonkeo/MediaUnlockTest</a><span> MediaUnlockTest with golang</span></li><li><a href=https://github.com/sashabaranov/go-openai>sashabaranov/go-openai</a><span> OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</span></li><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><span> 🧡 Everything is RSSible</span></li><li><a href=https://github.com/MetaCubeX/meta-rules-dat>MetaCubeX/meta-rules-dat</a><span> 🐱 rules-dat for mihomo</span></li><li><a href=https://github.com/antfu/ni>antfu/ni</a><span> 💡 Use the right package manager</span></li></ul>
+<ul><li><a href=https://github.com/aaamoon/copilot-gpt4-service>aaamoon/copilot-gpt4-service</a><span> Convert Github Copilot to ChatGPT</span></li><li><a href=https://github.com/hideuvpn/android-google-play-store>hideuvpn/android-google-play-store</a><span> 安装谷歌三件套：google服务框架 ; google play service ;google play store</span></li><li><a href=https://github.com/antfu/ni>antfu/ni</a><span> 💡 Use the right package manager</span></li><li><a href=https://github.com/Rabbit-Spec/Surge>Rabbit-Spec/Surge</a><span> Surge自用配置以及模块和脚本</span></li><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><span> 🧡 Everything is RSSible</span></li></ul>
 
 
 **Can you find me?**
@@ -100,4 +103,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/17/24, 5:08 PM<br>下一次刷新：3/17/24, 8:08 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/17/24, 6:19 PM<br>下一次刷新：3/17/24, 9:19 PM</p>
