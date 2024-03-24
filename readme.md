@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Innei/book-ssg-template>Innei/book-ssg-template</a><span> Yet another template for document SSG.</span></li><li><a href=https://github.com/sashabaranov/go-openai>sashabaranov/go-openai</a><span> OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</span></li><li><a href=https://github.com/facebook/react-strict-dom>facebook/react-strict-dom</a><span> React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets</span></li><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a><span> Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li><li><a href=https://github.com/gopl-zh/gopl-zh.github.com>gopl-zh/gopl-zh.github.com</a><span> :books: Go语言圣经中文版 🇨🇳</span></li></ul>
+<ul><li><a href=https://github.com/Homebrew/homebrew-bundle>Homebrew/homebrew-bundle</a><span> 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.</span></li><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a><span> (CLI Only) A simple audio recorder for TrollStore.</span></li><li><a href=https://github.com/Ssttar/Surge-rules>Ssttar/Surge-rules</a><span> My surge rules</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/nkeonkeo/MediaUnlockTest>nkeonkeo/MediaUnlockTest</a><span> MediaUnlockTest with golang</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/25/24, 2:13 AM<br>下一次刷新：3/25/24, 5:13 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/25/24, 5:08 AM<br>下一次刷新：3/25/24, 8:08 AM</p>
