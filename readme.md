@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a><span> (CLI Only) A simple audio recorder for TrollStore.</span></li><li><a href=https://github.com/Ssttar/activation-script>Ssttar/activation-script</a><span> A script designed to generate configuration files and activate software for the Surge</span></li><li><a href=https://github.com/hideuvpn/android-google-play-store>hideuvpn/android-google-play-store</a><span> 安装谷歌三件套：google服务框架 ; google play service ;google play store</span></li><li><a href=https://github.com/jeessy2/ddns-go>jeessy2/ddns-go</a><span> Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...</span></li><li><a href=https://github.com/sashabaranov/go-openai>sashabaranov/go-openai</a><span> OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</span></li></ul>
+<ul><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a><span> SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a><span> (CLI Only) A simple audio recorder for TrollStore.</span></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><span> 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</span></li><li><a href=https://github.com/shikijs/shiki-magic-move>shikijs/shiki-magic-move</a><span> Smoothly animated code blocks with Shiki</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/24/24, 5:08 AM<br>下一次刷新：3/24/24, 8:08 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/24/24, 8:48 AM<br>下一次刷新：3/24/24, 11:48 AM</p>
