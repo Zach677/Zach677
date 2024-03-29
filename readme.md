@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a><span> Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a><span> (CLI Only) A simple audio recorder for TrollStore.</span></li><li><a href=https://github.com/Innei/book-ssg-template>Innei/book-ssg-template</a><span> Yet another template for document SSG.</span></li><li><a href=https://github.com/antfu/ni>antfu/ni</a><span> 💡 Use the right package manager</span></li></ul>
+<ul><li><a href=https://github.com/Innei/book-ssg-template>Innei/book-ssg-template</a><span> Yet another template for document SSG.</span></li><li><a href=https://github.com/OwO-Network/DeepLX>OwO-Network/DeepLX</a><span> DeepL Free API (No TOKEN required)</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/shikijs/shiki-magic-move>shikijs/shiki-magic-move</a><span> Smoothly animated code blocks with Shiki</span></li><li><a href=https://github.com/Homebrew/homebrew-bundle>Homebrew/homebrew-bundle</a><span> 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/29/24, 11:09 PM<br>下一次刷新：3/30/24, 2:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/30/24, 2:12 AM<br>下一次刷新：3/30/24, 5:12 AM</p>
