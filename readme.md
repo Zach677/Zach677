@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/aormsby/Fork-Sync-With-Upstream-action>aormsby/Fork-Sync-With-Upstream-action</a><span> An action to automatically update your fork with new commits from the upstream repo</span></li><li><a href=https://github.com/sashabaranov/go-openai>sashabaranov/go-openai</a><span> OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</span></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><span> Virtual machines for iOS and macOS</span></li><li><a href=https://github.com/antfu/ni>antfu/ni</a><span> 💡 Use the right package manager</span></li><li><a href=https://github.com/vashpan/xcode-dev-cleaner>vashpan/xcode-dev-cleaner</a><span> If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!</span></li></ul>
+<ul><li><a href=https://github.com/Finb/Bark>Finb/Bark</a><span> Bark is an iOS App which allows you to push custom notifications to your iPhone</span></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><span> Virtual machines for iOS and macOS</span></li><li><a href=https://github.com/Innei/book-ssg-template>Innei/book-ssg-template</a><span> Yet another template for document SSG.</span></li><li><a href=https://github.com/facebook/react-strict-dom>facebook/react-strict-dom</a><span> React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets</span></li><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a><span> SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/31/24, 11:08 PM<br>下一次刷新：4/1/24, 2:08 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/1/24, 2:11 AM<br>下一次刷新：4/1/24, 5:11 AM</p>
