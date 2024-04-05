@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/antfu/ni>antfu/ni</a><span> 💡 Use the right package manager</span></li><li><a href=https://github.com/Ssttar/lobe-chat>Ssttar/lobe-chat</a><span> 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.</span></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><span> 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</span></li><li><a href=https://github.com/Lakr233/libssh2-spm>Lakr233/libssh2-spm</a><span> Swift package for libssh2, automatically tracked on release tags.</span></li><li><a href=https://github.com/vashpan/xcode-dev-cleaner>vashpan/xcode-dev-cleaner</a><span> If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!</span></li></ul>
+<ul><li><a href=https://github.com/shikijs/shiki-magic-move>shikijs/shiki-magic-move</a><span> Smoothly animated code blocks with Shiki</span></li><li><a href=https://github.com/aaamoon/copilot-gpt4-service>aaamoon/copilot-gpt4-service</a><span> Convert Github Copilot to ChatGPT</span></li><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a><span> SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li><li><a href=https://github.com/Homebrew/homebrew-bundle>Homebrew/homebrew-bundle</a><span> 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.</span></li><li><a href=https://github.com/aormsby/Fork-Sync-With-Upstream-action>aormsby/Fork-Sync-With-Upstream-action</a><span> An action to automatically update your fork with new commits from the upstream repo</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/5/24, 11:09 PM<br>下一次刷新：4/6/24, 2:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/6/24, 2:12 AM<br>下一次刷新：4/6/24, 5:12 AM</p>
