@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a><span> (CLI Only) A simple audio recorder for TrollStore.</span></li><li><a href=https://github.com/Ssttar/lobe-chat>Ssttar/lobe-chat</a><span> 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.</span></li><li><a href=https://github.com/tonsky/FiraCode>tonsky/FiraCode</a><span> Free monospaced font with programming ligatures</span></li><li><a href=https://github.com/shikijs/shiki-magic-move>shikijs/shiki-magic-move</a><span> Smoothly animated code blocks with Shiki</span></li><li><a href=https://github.com/Lakr233/libssh2-spm>Lakr233/libssh2-spm</a><span> Swift package for libssh2, automatically tracked on release tags.</span></li></ul>
+<ul><li><a href=https://github.com/XCTestHTMLReport/XCTestHTMLReport>XCTestHTMLReport/XCTestHTMLReport</a><span> Xcode-like HTML report for Unit and UI Tests</span></li><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a><span> Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><span> 🧡 Everything is RSSible</span></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><span> Virtual machines for iOS and macOS</span></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><span> 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/6/24, 5:09 PM<br>下一次刷新：4/6/24, 8:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/6/24, 8:16 PM<br>下一次刷新：4/6/24, 11:16 PM</p>
