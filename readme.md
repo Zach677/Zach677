@@ -87,11 +87,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/arvinxx/gitmoji-commit-workflow>arvinxx/gitmoji-commit-workflow</a><span> 😉 Gitmoji Commit Workflow</span></li><li><a href=https://github.com/Finb/bark-server>Finb/bark-server</a><span> Backend of Bark</span></li><li><a href=https://github.com/OpenSwiftUIProject/OpenSwiftUI>OpenSwiftUIProject/OpenSwiftUI</a><span> [WIP] Open source implementation of Apple's SwiftUI.</span></li><li><a href=https://github.com/rustdesk/rustdesk-server>rustdesk/rustdesk-server</a><span> RustDesk Server Program</span></li><li><a href=https://github.com/douglascamata/setup-docker-macos-action>douglascamata/setup-docker-macos-action</a><span> A Github Action to setup Docker on macOS runners.</span></li></ul>
+<ul><li><a href=https://github.com/ManimCommunity/manim>ManimCommunity/manim</a><span> A community-maintained Python framework for creating mathematical animations.</span></li><li><a href=https://github.com/arvinxx/gitmoji-commit-workflow>arvinxx/gitmoji-commit-workflow</a><span> 😉 Gitmoji Commit Workflow</span></li><li><a href=https://github.com/Finb/bark-server>Finb/bark-server</a><span> Backend of Bark</span></li><li><a href=https://github.com/OpenSwiftUIProject/OpenSwiftUI>OpenSwiftUIProject/OpenSwiftUI</a><span> [WIP] Open source implementation of Apple's SwiftUI.</span></li><li><a href=https://github.com/rustdesk/rustdesk-server>rustdesk/rustdesk-server</a><span> RustDesk Server Program</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/pakerwreah/Calendr>pakerwreah/Calendr</a><span> Menu bar calendar for macOS</span></li><li><a href=https://github.com/CareyWang/sub-web>CareyWang/sub-web</a></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><span> 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</span></li><li><a href=https://github.com/shikijs/shiki-magic-move>shikijs/shiki-magic-move</a><span> Smoothly animated code blocks with Shiki</span></li><li><a href=https://github.com/orbstack/orbstack>orbstack/orbstack</a><span> Fast, light, simple Docker containers & Linux machines for macOS</span></li></ul>
+<ul><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a><span> (CLI Only) A simple audio recorder for TrollStore.</span></li><li><a href=https://github.com/tindy2013/subconverter>tindy2013/subconverter</a><span> Utility to convert between various subscription format</span></li><li><a href=https://github.com/XCTestHTMLReport/XCTestHTMLReport>XCTestHTMLReport/XCTestHTMLReport</a><span> Xcode-like HTML report for Unit and UI Tests</span></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><span> 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</span></li><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a><span> Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/9/24, 5:10 PM<br>下一次刷新：4/9/24, 8:10 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/9/24, 8:17 PM<br>下一次刷新：4/9/24, 11:17 PM</p>
