@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Homebrew/homebrew-bundle>Homebrew/homebrew-bundle</a><span> 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.</span></li><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a><span> Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/OpenSwiftUIProject/OpenSwiftUI>OpenSwiftUIProject/OpenSwiftUI</a><span> [WIP] Open source implementation of Apple's SwiftUI.</span></li><li><a href=https://github.com/rustdesk/rustdesk-server>rustdesk/rustdesk-server</a><span> RustDesk Server Program</span></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><span> 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</span></li></ul>
+<ul><li><a href=https://github.com/Platane/snk>Platane/snk</a><span> 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</span></li><li><a href=https://github.com/vashpan/xcode-dev-cleaner>vashpan/xcode-dev-cleaner</a><span> If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!</span></li><li><a href=https://github.com/douglascamata/setup-docker-macos-action>douglascamata/setup-docker-macos-action</a><span> A Github Action to setup Docker on macOS runners.</span></li><li><a href=https://github.com/tindy2013/subconverter>tindy2013/subconverter</a><span> Utility to convert between various subscription format</span></li><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><span> Virtual whiteboard for sketching hand-drawn like diagrams</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/16/24, 2:12 PM<br>下一次刷新：4/16/24, 5:12 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/16/24, 5:10 PM<br>下一次刷新：4/16/24, 8:10 PM</p>
