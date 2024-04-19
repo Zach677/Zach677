@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Platane/snk>Platane/snk</a><span> 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</span></li><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a><span> Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/Homebrew/homebrew-bundle>Homebrew/homebrew-bundle</a><span> 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.</span></li><li><a href=https://github.com/douglascamata/setup-docker-macos-action>douglascamata/setup-docker-macos-action</a><span> A Github Action to setup Docker on macOS runners.</span></li><li><a href=https://github.com/Lakr233/libssh2-spm>Lakr233/libssh2-spm</a><span> Swift package for libssh2, automatically tracked on release tags.</span></li></ul>
+<ul><li><a href=https://github.com/vashpan/xcode-dev-cleaner>vashpan/xcode-dev-cleaner</a><span> If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!</span></li><li><a href=https://github.com/bojan/xcode-one-dark>bojan/xcode-one-dark</a><span> Atom One Dark theme for Xcode</span></li><li><a href=https://github.com/orbstack/orbstack>orbstack/orbstack</a><span> Fast, light, simple Docker containers & Linux machines for macOS</span></li><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a><span> (CLI Only) A simple audio recorder for TrollStore.</span></li><li><a href=https://github.com/tonsky/FiraCode>tonsky/FiraCode</a><span> Free monospaced font with programming ligatures</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/24, 2:13 PM<br>下一次刷新：4/19/24, 5:13 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/24, 5:10 PM<br>下一次刷新：4/19/24, 8:10 PM</p>
