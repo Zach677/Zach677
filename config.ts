@@ -1,9 +1,9 @@
 export const opensource = {
-  active: ['innei/Shiro', 'Ssttar/Surge-rules', 'Ssttar/Ssttar'],
+  active: ["innei/Shiro", "mx-space/core"],
 };
 export const motto = `<p align=center><strong>Happy Life!</strong></p>`;
 export const github = {
-  name: 'Ssttar',
+  name: "Ssttar",
 };
 
 export const mxSpace = {
@@ -11,4 +11,4 @@ export const mxSpace = {
   api: "https://api.ssstttar.com/api/v2",
 };
 
-export const timeZone = 'Asia/Shanghai'
+export const timeZone = "Asia/Shanghai";
