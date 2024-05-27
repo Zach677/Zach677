@@ -1,14 +1,14 @@
 export const opensource = {
-  active: ["innei/Shiro", "mx-space/core"],
-};
-export const motto = `<p align=center><strong>Happy Life!</strong></p>`;
+  active: ['innei/Shiro', 'mx-space/core'],
+}
+export const motto = `<p align=center><strong>Happy Life!</strong></p>`
 export const github = {
-  name: "Ssttar",
-};
+  name: 'Ssttar',
+}
 
 export const mxSpace = {
-  url: "https://ssstttar.com",
-  api: "https://api.ssstttar.com/api/v2",
-};
+  url: 'https://ssstttar.com',
+  api: 'https://my-api.ssstttar.com/api/v2',
+}
 
-export const timeZone = "Asia/Shanghai";
+export const timeZone = 'Asia/Shanghai'
