@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/aormsby/Fork-Sync-With-Upstream-action>aormsby/Fork-Sync-With-Upstream-action</a><span> An action to automatically update your fork with new commits from the upstream repo</span></li><li><a href=https://github.com/antfu-collective/sponsorkit>antfu-collective/sponsorkit</a><span> 💖 Toolkit for generating sponsors images 😄</span></li><li><a href=https://github.com/tindy2013/subconverter>tindy2013/subconverter</a><span> Utility to convert between various subscription format</span></li><li><a href=https://github.com/danielsaidi/ScrollKit>danielsaidi/ScrollKit</a><span> ScrollKit is a SwiftUI SDK that adds powerful scroll features, like offset tracking and a header view that stretches & transforms as you pull down, and sticks to the top when you scroll.</span></li><li><a href=https://github.com/rustdesk/rustdesk-server>rustdesk/rustdesk-server</a><span> RustDesk Server Program</span></li></ul>
+<ul><li><a href=https://github.com/toml-lang/toml>toml-lang/toml</a><span> Tom's Obvious, Minimal Language</span></li><li><a href=https://github.com/PKU-YuanGroup/Open-Sora-Plan>PKU-YuanGroup/Open-Sora-Plan</a><span> This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.</span></li><li><a href=https://github.com/tindy2013/subconverter>tindy2013/subconverter</a><span> Utility to convert between various subscription format</span></li><li><a href=https://github.com/ruanyf/weekly>ruanyf/weekly</a><span> 科技爱好者周刊，每周五发布</span></li><li><a href=https://github.com/Finb/bark-server>Finb/bark-server</a><span> Backend of Bark</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/28/24, 5:02 PM<br>下一次刷新：5/28/24, 8:02 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/28/24, 8:03 PM<br>下一次刷新：5/28/24, 11:03 PM</p>
