@@ -47,7 +47,11 @@ jobs:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: Ssttar
       - name: Push new readme.md
-        uses: mikeal/publish-to-github-action@master
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'chore: update readme'
+          add: '.'
+          author_name: Star-bot
+          author_email: bot@ssstttar.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'main'
