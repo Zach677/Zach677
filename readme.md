@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/tindy2013/subconverter>tindy2013/subconverter</a><span> Utility to convert between various subscription format</span></li><li><a href=https://github.com/aormsby/Fork-Sync-With-Upstream-action>aormsby/Fork-Sync-With-Upstream-action</a><span> An action to automatically update your fork with new commits from the upstream repo</span></li><li><a href=https://github.com/61bcdefg/Hikari-LLVM15>61bcdefg/Hikari-LLVM15</a><span> A fork of Hikari Obfuscator [WIP]</span></li><li><a href=https://github.com/obfuscator-llvm/obfuscator>obfuscator-llvm/obfuscator</a></li><li><a href=https://github.com/toml-lang/toml>toml-lang/toml</a><span> Tom's Obvious, Minimal Language</span></li></ul>
+<ul><li><a href=https://github.com/openai-translator/bob-plugin-openai-translator>openai-translator/bob-plugin-openai-translator</a><span> 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0</span></li><li><a href=https://github.com/CareyWang/sub-web>CareyWang/sub-web</a></li><li><a href=https://github.com/andrew-levy/swiftui-react-native>andrew-levy/swiftui-react-native</a><span> Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child.</span></li><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><span> Virtual whiteboard for sketching hand-drawn like diagrams</span></li><li><a href=https://github.com/pakerwreah/Calendr>pakerwreah/Calendr</a><span> Menu bar calendar for macOS</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/30/24, 2:02 AM<br>下一次刷新：5/30/24, 5:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/30/24, 5:02 AM<br>下一次刷新：5/30/24, 8:02 AM</p>
