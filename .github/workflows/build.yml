@@ -37,14 +37,14 @@ jobs:
       - name: Build project
         run: |
           npm run build
-      - name: Update Sponsor
-        run: |
-          npx sponsorkit
-        env:
-          SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
-          SPONSORKIT_AFDIAN_USER_ID: 4fa7430ed24011ee92c052540025c377
-          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
-          SPONSORKIT_GITHUB_LOGIN: Ssttar
+      # - name: Update Sponsor
+      #   run: |
+      #     npx sponsorkit
+      #   env:
+      #     SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
+      #     SPONSORKIT_AFDIAN_USER_ID: 4fa7430ed24011ee92c052540025c377
+      #     SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
+      #     SPONSORKIT_GITHUB_LOGIN: Ssttar
       - name: Push new readme.md
         uses: EndBug/add-and-commit@v9
         with:
