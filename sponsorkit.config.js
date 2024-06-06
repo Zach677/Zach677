@@ -10,6 +10,8 @@ export default defineConfig({
   afdian: {
     userId: '4fa7430ed24011ee92c052540025c377',
     exechangeRate: 7,
+    includePurchases: true,
+    purchaseEffectivity: 30,
     // ...
   },
   includePastSponsors: true,
