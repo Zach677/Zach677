@@ -17,7 +17,7 @@ export default defineConfig({
   includePastSponsors: true,
   includePrivate: true,
   force: true,
-  providers: ['afdian', 'github'],
+  providers: ['afdian'],
   filter: (sponsor) => {
     if (
       sponsor.provider === 'afdian' &&

@@ -40,7 +40,6 @@ jobs:
           npm run build
       - name: Update Sponsor
         run: |
-          npx update sponsorkit
           npx sponsorkit
         env:
           SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
