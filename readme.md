@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Ssttar/auto-action>Ssttar/auto-action</a></li><li><a href=https://github.com/ohmyzsh/ohmyzsh>ohmyzsh/ohmyzsh</a><span> 🙃 A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</span></li><li><a href=https://github.com/openai-translator/bob-plugin-openai-translator>openai-translator/bob-plugin-openai-translator</a><span> 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0</span></li><li><a href=https://github.com/pakerwreah/Calendr>pakerwreah/Calendr</a><span> Menu bar calendar for macOS</span></li><li><a href=https://github.com/Ssttar/Swift-study>Ssttar/Swift-study</a></li></ul>
+<ul><li><a href=https://github.com/arvinxx/gitmoji-commit-workflow>arvinxx/gitmoji-commit-workflow</a><span> 😉 Gitmoji Commit Workflow</span></li><li><a href=https://github.com/OpenSwiftUIProject/OpenSwiftUI>OpenSwiftUIProject/OpenSwiftUI</a><span> [WIP] Open source implementation of Apple's SwiftUI.</span></li><li><a href=https://github.com/obfuscator-llvm/obfuscator>obfuscator-llvm/obfuscator</a></li><li><a href=https://github.com/Finb/bark-server>Finb/bark-server</a><span> Backend of Bark</span></li><li><a href=https://github.com/Ssttar/auto-action>Ssttar/auto-action</a></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/6/24, 5:02 AM<br>下一次刷新：6/6/24, 8:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/6/24, 8:08 AM<br>下一次刷新：6/6/24, 11:08 AM</p>
