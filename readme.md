@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ruanyf/weekly>ruanyf/weekly</a><span> 科技爱好者周刊，每周五发布</span></li><li><a href=https://github.com/rustdesk/rustdesk-server>rustdesk/rustdesk-server</a><span> RustDesk Server Program</span></li><li><a href=https://github.com/openai-translator/openai-translator>openai-translator/openai-translator</a><span> 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</span></li><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><span> Virtual whiteboard for sketching hand-drawn like diagrams</span></li><li><a href=https://github.com/PKU-YuanGroup/Open-Sora-Plan>PKU-YuanGroup/Open-Sora-Plan</a><span> This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.</span></li></ul>
+<ul><li><a href=https://github.com/openai-translator/openai-translator>openai-translator/openai-translator</a><span> 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</span></li><li><a href=https://github.com/61bcdefg/Hikari-LLVM15>61bcdefg/Hikari-LLVM15</a><span> A fork of Hikari Obfuscator [WIP]</span></li><li><a href=https://github.com/PKU-YuanGroup/Open-Sora-Plan>PKU-YuanGroup/Open-Sora-Plan</a><span> This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.</span></li><li><a href=https://github.com/OpenSwiftUIProject/OpenSwiftUI>OpenSwiftUIProject/OpenSwiftUI</a><span> [WIP] Open source implementation of Apple's SwiftUI.</span></li><li><a href=https://github.com/ohmyzsh/ohmyzsh>ohmyzsh/ohmyzsh</a><span> 🙃 A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/7/24, 2:03 PM<br>下一次刷新：6/7/24, 5:03 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/7/24, 5:02 PM<br>下一次刷新：6/7/24, 8:02 PM</p>
