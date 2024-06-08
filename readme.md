@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/openai-translator/bob-plugin-openai-translator>openai-translator/bob-plugin-openai-translator</a><span> 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0</span></li><li><a href=https://github.com/OpenSwiftUIProject/OpenSwiftUI>OpenSwiftUIProject/OpenSwiftUI</a><span> [WIP] Open source implementation of Apple's SwiftUI.</span></li><li><a href=https://github.com/antfu-collective/sponsorkit>antfu-collective/sponsorkit</a><span> 💖 Toolkit for generating sponsors images 😄</span></li><li><a href=https://github.com/61bcdefg/Hikari-LLVM15>61bcdefg/Hikari-LLVM15</a><span> A fork of Hikari Obfuscator [WIP]</span></li><li><a href=https://github.com/openai-translator/openai-translator>openai-translator/openai-translator</a><span> 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</span></li></ul>
+<ul><li><a href=https://github.com/Ssttar/Swift-study>Ssttar/Swift-study</a></li><li><a href=https://github.com/Openpanel-dev/openpanel>Openpanel-dev/openpanel</a><span> All the goodies from both Mixpanel and Plausible combined into one tool.</span></li><li><a href=https://github.com/danielsaidi/ScrollKit>danielsaidi/ScrollKit</a><span> ScrollKit is a SwiftUI SDK that adds powerful scroll features, like offset tracking and a header view that stretches & transforms as you pull down, and sticks to the top when you scroll.</span></li><li><a href=https://github.com/obfuscator-llvm/obfuscator>obfuscator-llvm/obfuscator</a></li><li><a href=https://github.com/Ssttar/auto-action>Ssttar/auto-action</a></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/24, 11:02 PM<br>下一次刷新：6/9/24, 2:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/9/24, 2:02 AM<br>下一次刷新：6/9/24, 5:02 AM</p>
