@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/andrew-levy/swiftui-react-native>andrew-levy/swiftui-react-native</a><span> Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child.</span></li><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><span> Virtual whiteboard for sketching hand-drawn like diagrams</span></li><li><a href=https://github.com/obfuscator-llvm/obfuscator>obfuscator-llvm/obfuscator</a></li><li><a href=https://github.com/Ssttar/Swift-study>Ssttar/Swift-study</a></li><li><a href=https://github.com/ohmyzsh/ohmyzsh>ohmyzsh/ohmyzsh</a><span> 🙃 A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</span></li></ul>
+<ul><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><span> Virtual whiteboard for sketching hand-drawn like diagrams</span></li><li><a href=https://github.com/ManimCommunity/manim>ManimCommunity/manim</a><span> A community-maintained Python framework for creating mathematical animations.</span></li><li><a href=https://github.com/danielsaidi/ScrollKit>danielsaidi/ScrollKit</a><span> ScrollKit is a SwiftUI SDK that adds powerful scroll features, like offset tracking and a header view that stretches & transforms as you pull down, and sticks to the top when you scroll.</span></li><li><a href=https://github.com/rustdesk/rustdesk-server>rustdesk/rustdesk-server</a><span> RustDesk Server Program</span></li><li><a href=https://github.com/openai-translator/openai-translator>openai-translator/openai-translator</a><span> 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/19/24, 11:02 PM<br>下一次刷新：6/20/24, 2:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/20/24, 2:02 AM<br>下一次刷新：6/20/24, 5:02 AM</p>
