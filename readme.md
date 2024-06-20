@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ggerganov/llama.cpp>ggerganov/llama.cpp</a><span> LLM inference in C/C++</span></li><li><a href=https://github.com/61bcdefg/Hikari-LLVM15>61bcdefg/Hikari-LLVM15</a><span> A fork of Hikari Obfuscator [WIP]</span></li><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><span> 📄 Documentation for Mix Space</span></li><li><a href=https://github.com/ohmyzsh/ohmyzsh>ohmyzsh/ohmyzsh</a><span> 🙃 A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</span></li><li><a href=https://github.com/ManimCommunity/manim>ManimCommunity/manim</a><span> A community-maintained Python framework for creating mathematical animations.</span></li></ul>
+<ul><li><a href=https://github.com/douglascamata/setup-docker-macos-action>douglascamata/setup-docker-macos-action</a><span> A Github Action to setup Docker on macOS runners.</span></li><li><a href=https://github.com/ggerganov/llama.cpp>ggerganov/llama.cpp</a><span> LLM inference in C/C++</span></li><li><a href=https://github.com/Ssttar/Swift-study>Ssttar/Swift-study</a></li><li><a href=https://github.com/danielsaidi/ScrollKit>danielsaidi/ScrollKit</a><span> ScrollKit is a SwiftUI SDK that adds powerful scroll features, like offset tracking and a header view that stretches & transforms as you pull down, and sticks to the top when you scroll.</span></li><li><a href=https://github.com/PKU-YuanGroup/Open-Sora-Plan>PKU-YuanGroup/Open-Sora-Plan</a><span> This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/20/24, 5:02 AM<br>下一次刷新：6/20/24, 8:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/20/24, 8:08 AM<br>下一次刷新：6/20/24, 11:08 AM</p>
