@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Ssttar/Auto-sync-other-repo>Ssttar/Auto-sync-other-repo</a><span> 自动检测私有仓库的push操作，并通过api调用使仓库运行action工作流</span></li><li><a href=https://github.com/RSSNext/follow>RSSNext/follow</a><span> [WIP] Next generation information browser</span></li><li><a href=https://github.com/61bcdefg/Hikari-LLVM15>61bcdefg/Hikari-LLVM15</a><span> A fork of Hikari Obfuscator [WIP]</span></li><li><a href=https://github.com/ruanyf/weekly>ruanyf/weekly</a><span> 科技爱好者周刊，每周五发布</span></li><li><a href=https://github.com/ggerganov/llama.cpp>ggerganov/llama.cpp</a><span> LLM inference in C/C++</span></li></ul>
+<ul><li><a href=https://github.com/openai-translator/openai-translator>openai-translator/openai-translator</a><span> 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</span></li><li><a href=https://github.com/ManimCommunity/manim>ManimCommunity/manim</a><span> A community-maintained Python framework for creating mathematical animations.</span></li><li><a href=https://github.com/Finb/bark-server>Finb/bark-server</a><span> Backend of Bark</span></li><li><a href=https://github.com/obfuscator-llvm/obfuscator>obfuscator-llvm/obfuscator</a></li><li><a href=https://github.com/arvinxx/gitmoji-commit-workflow>arvinxx/gitmoji-commit-workflow</a><span> 😉 Gitmoji Commit Workflow</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/1/24, 11:02 PM<br>下一次刷新：7/2/24, 2:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/2/24, 2:03 AM<br>下一次刷新：7/2/24, 5:03 AM</p>
