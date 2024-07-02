@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><span> 📄 Documentation for Mix Space</span></li><li><a href=https://github.com/toml-lang/toml>toml-lang/toml</a><span> Tom's Obvious, Minimal Language</span></li><li><a href=https://github.com/Finb/bark-server>Finb/bark-server</a><span> Backend of Bark</span></li><li><a href=https://github.com/obfuscator-llvm/obfuscator>obfuscator-llvm/obfuscator</a></li><li><a href=https://github.com/Openpanel-dev/openpanel>Openpanel-dev/openpanel</a><span> All the goodies from both Mixpanel and Plausible combined into one tool.</span></li></ul>
+<ul><li><a href=https://github.com/PKU-YuanGroup/Open-Sora-Plan>PKU-YuanGroup/Open-Sora-Plan</a><span> This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.</span></li><li><a href=https://github.com/obfuscator-llvm/obfuscator>obfuscator-llvm/obfuscator</a></li><li><a href=https://github.com/Finb/bark-server>Finb/bark-server</a><span> Backend of Bark</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/openai-translator/openai-translator>openai-translator/openai-translator</a><span> 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/2/24, 8:05 PM<br>下一次刷新：7/2/24, 11:05 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/2/24, 11:02 PM<br>下一次刷新：7/3/24, 2:02 AM</p>
