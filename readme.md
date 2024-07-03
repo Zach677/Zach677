@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/openai-translator/bob-plugin-openai-translator>openai-translator/bob-plugin-openai-translator</a><span> 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0</span></li><li><a href=https://github.com/HenryQW/Awesome-TTRSS>HenryQW/Awesome-TTRSS</a><span> 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.</span></li><li><a href=https://github.com/ManimCommunity/manim>ManimCommunity/manim</a><span> A community-maintained Python framework for creating mathematical animations.</span></li><li><a href=https://github.com/arvinxx/gitmoji-commit-workflow>arvinxx/gitmoji-commit-workflow</a><span> 😉 Gitmoji Commit Workflow</span></li><li><a href=https://github.com/ggerganov/llama.cpp>ggerganov/llama.cpp</a><span> LLM inference in C/C++</span></li></ul>
+<ul><li><a href=https://github.com/andrew-levy/swiftui-react-native>andrew-levy/swiftui-react-native</a><span> Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child.</span></li><li><a href=https://github.com/toml-lang/toml>toml-lang/toml</a><span> Tom's Obvious, Minimal Language</span></li><li><a href=https://github.com/HenryQW/Awesome-TTRSS>HenryQW/Awesome-TTRSS</a><span> 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.</span></li><li><a href=https://github.com/Ssttar/auto-action>Ssttar/auto-action</a></li><li><a href=https://github.com/ggerganov/llama.cpp>ggerganov/llama.cpp</a><span> LLM inference in C/C++</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/24, 2:04 PM<br>下一次刷新：7/3/24, 5:04 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/24, 5:02 PM<br>下一次刷新：7/3/24, 8:02 PM</p>
