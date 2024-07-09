@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ggerganov/llama.cpp>ggerganov/llama.cpp</a><span> LLM inference in C/C++</span></li><li><a href=https://github.com/HenryQW/Awesome-TTRSS>HenryQW/Awesome-TTRSS</a><span> 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.</span></li><li><a href=https://github.com/obfuscator-llvm/obfuscator>obfuscator-llvm/obfuscator</a></li><li><a href=https://github.com/openai-translator/openai-translator>openai-translator/openai-translator</a><span> 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</span></li><li><a href=https://github.com/openai-translator/bob-plugin-openai-translator>openai-translator/bob-plugin-openai-translator</a><span> 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0</span></li></ul>
+<ul><li><a href=https://github.com/Ssttar/Swift-study>Ssttar/Swift-study</a></li><li><a href=https://github.com/framer/motion>framer/motion</a><span> Open source, production-ready animation and gesture library for React</span></li><li><a href=https://github.com/biomejs/biome>biomejs/biome</a><span> A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/RSSNext/follow>RSSNext/follow</a><span> [WIP] Next generation information browser</span></li><li><a href=https://github.com/openai-translator/openai-translator>openai-translator/openai-translator</a><span> 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/10/24, 2:02 AM<br>下一次刷新：7/10/24, 5:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/10/24, 5:02 AM<br>下一次刷新：7/10/24, 8:02 AM</p>
