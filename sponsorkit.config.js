@@ -6,26 +6,18 @@ export default defineConfig({
     login: 'Ssttar',
     type: 'user',
   },
-
-  afdian: {
-    userId: '4fa7430ed24011ee92c052540025c377',
-    exechangeRate: 7,
-    includePurchases: true,
-    purchaseEffectivity: 30,
-    // ...
-  },
   includePastSponsors: true,
   includePrivate: true,
   force: true,
-  providers: ['afdian', 'github'],
-  filter: (sponsor) => {
-    if (
-      sponsor.provider === 'afdian' &&
-      sponsor.raw?.current_plan?.plan_id === '08eb414c930711ec8d4d52540025c377'
-    )
-      return false
-    return true
-  },
+  providers: ['github'],
+  // filter: (sponsor) => {
+  //   if (
+  //     sponsor.provider === 'afdian' &&
+  //     sponsor.raw?.current_plan?.plan_id === '08eb414c930711ec8d4d52540025c377'
+  //   )
+  //     return false
+  //   return true
+  // },
 
   // Rendering configs
   width: 800,
