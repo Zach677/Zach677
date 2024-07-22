@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/linexjlin/GPTs>linexjlin/GPTs</a><span> leaked prompts of GPTs</span></li><li><a href=https://github.com/Openpanel-dev/openpanel>Openpanel-dev/openpanel</a><span> All the goodies from both Mixpanel and Plausible combined into one tool.</span></li><li><a href=https://github.com/Lakr233/NotchDrop>Lakr233/NotchDrop</a><span> Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop</span></li><li><a href=https://github.com/QiuChenly/InjectLib>QiuChenly/InjectLib</a><span> 你知道我要说什么</span></li><li><a href=https://github.com/HenryQW/Awesome-TTRSS>HenryQW/Awesome-TTRSS</a><span> 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.</span></li></ul>
+<ul><li><a href=https://github.com/HenryQW/Awesome-TTRSS>HenryQW/Awesome-TTRSS</a><span> 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><span> 📄 Documentation for Mix Space</span></li><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/biomejs/biome>biomejs/biome</a><span> A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/22/24, 11:02 PM<br>下一次刷新：7/23/24, 2:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/23/24, 2:02 AM<br>下一次刷新：7/23/24, 5:02 AM</p>
