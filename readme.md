@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Openpanel-dev/openpanel>Openpanel-dev/openpanel</a><span> All the goodies from both Mixpanel and Plausible combined into one tool.</span></li><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/RSSNext/follow>RSSNext/follow</a><span> [WIP] Next generation information browser</span></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a><span> Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/Lakr233/NotchDrop>Lakr233/NotchDrop</a><span> Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop</span></li></ul>
+<ul><li><a href=https://github.com/biomejs/biome>biomejs/biome</a><span> A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/QiuChenly/InjectLib>QiuChenly/InjectLib</a><span> 你知道我要说什么</span></li><li><a href=https://github.com/Ssttar/docs>Ssttar/docs</a><span> 📄 Documentation for Mix Space</span></li><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><span> 📄 Documentation for Mix Space</span></li><li><a href=https://github.com/DanTheMan827/ios-app-signer>DanTheMan827/ios-app-signer</a><span> This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/22/24, 11:03 AM<br>下一次刷新：7/22/24, 2:03 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/22/24, 2:03 PM<br>下一次刷新：7/22/24, 5:03 PM</p>
