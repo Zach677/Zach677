@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/majd/ipatool>majd/ipatool</a><span> Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/DanTheMan827/ios-app-signer>DanTheMan827/ios-app-signer</a><span> This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.</span></li><li><a href=https://github.com/framer/motion>framer/motion</a><span> Open source, production-ready animation and gesture library for React</span></li><li><a href=https://github.com/kubernetes-sigs/kind>kubernetes-sigs/kind</a><span> Kubernetes IN Docker - local clusters for testing Kubernetes</span></li><li><a href=https://github.com/ggerganov/llama.cpp>ggerganov/llama.cpp</a><span> LLM inference in C/C++</span></li></ul>
+<ul><li><a href=https://github.com/kubernetes-sigs/kind>kubernetes-sigs/kind</a><span> Kubernetes IN Docker - local clusters for testing Kubernetes</span></li><li><a href=https://github.com/drizzle-team/drizzle-orm>drizzle-team/drizzle-orm</a><span> Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅</span></li><li><a href=https://github.com/lobehub/lobe-lint>lobehub/lobe-lint</a><span> 📐 ESlint, Stylelint, Commitlint, Prettier, Remark, Semantic Release config for LobeHub</span></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a><span> Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/Ssttar/auto-action>Ssttar/auto-action</a></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/25/24, 8:09 AM<br>下一次刷新：7/25/24, 11:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/25/24, 11:02 AM<br>下一次刷新：7/25/24, 2:02 PM</p>
