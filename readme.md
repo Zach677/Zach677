@@ -87,11 +87,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/creamlike1024/EasyLPAC>creamlike1024/EasyLPAC</a><span> lpac GUI Frontend</span></li><li><a href=https://github.com/EsimMoe/MiniLPA>EsimMoe/MiniLPA</a><span> Professional LPA UI</span></li><li><a href=https://github.com/rui314/chibicc>rui314/chibicc</a><span> A small C compiler</span></li><li><a href=https://github.com/Lessica/TrollFools>Lessica/TrollFools</a><span> In-place tweak injection with insert_dylib and ChOma.</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li></ul>
+<ul><li><a href=https://github.com/Ssttar/homebrew-star>Ssttar/homebrew-star</a></li><li><a href=https://github.com/creamlike1024/EasyLPAC>creamlike1024/EasyLPAC</a><span> lpac GUI Frontend</span></li><li><a href=https://github.com/EsimMoe/MiniLPA>EsimMoe/MiniLPA</a><span> Professional LPA UI</span></li><li><a href=https://github.com/rui314/chibicc>rui314/chibicc</a><span> A small C compiler</span></li><li><a href=https://github.com/Lessica/TrollFools>Lessica/TrollFools</a><span> In-place tweak injection with insert_dylib and ChOma.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/lobehub/lobe-lint>lobehub/lobe-lint</a><span> 📐 ESlint, Stylelint, Commitlint, Prettier, Remark, Semantic Release config for LobeHub</span></li><li><a href=https://github.com/iovisor/bcc>iovisor/bcc</a><span> BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</span></li><li><a href=https://github.com/ggerganov/llama.cpp>ggerganov/llama.cpp</a><span> LLM inference in C/C++</span></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a><span> Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/DanTheMan827/ios-app-signer>DanTheMan827/ios-app-signer</a><span> This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.</span></li></ul>
+<ul><li><a href=https://github.com/drizzle-team/drizzle-orm>drizzle-team/drizzle-orm</a><span> Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅</span></li><li><a href=https://github.com/Lakr233/Asspp>Lakr233/Asspp</a><span> The App Store for your multi-account eco system.</span></li><li><a href=https://github.com/ggerganov/llama.cpp>ggerganov/llama.cpp</a><span> LLM inference in C/C++</span></li><li><a href=https://github.com/iovisor/bcc>iovisor/bcc</a><span> BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</span></li><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><span> 📄 Documentation for Mix Space</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/29/24, 11:02 AM<br>下一次刷新：7/29/24, 2:02 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/29/24, 2:03 PM<br>下一次刷新：7/29/24, 5:03 PM</p>
