@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/RSSNext/follow>RSSNext/follow</a><span> 🧡 Next generation information browser</span></li><li><a href=https://github.com/QiuChenly/InjectLib>QiuChenly/InjectLib</a><span> 你知道我要说什么</span></li><li><a href=https://github.com/Lakr233/Asspp>Lakr233/Asspp</a><span> The App Store for your multi-account eco system.</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/Ssttar/repo-test-public>Ssttar/repo-test-public</a></li></ul>
+<ul><li><a href=https://github.com/DanTheMan827/ios-app-signer>DanTheMan827/ios-app-signer</a><span> This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.</span></li><li><a href=https://github.com/Lakr233/Asspp>Lakr233/Asspp</a><span> The App Store for your multi-account eco system.</span></li><li><a href=https://github.com/QiuChenly/InjectLib>QiuChenly/InjectLib</a><span> 你知道我要说什么</span></li><li><a href=https://github.com/framer/motion>framer/motion</a><span> Open source, production-ready animation and gesture library for React</span></li><li><a href=https://github.com/Ssttar/Auto-sync-other-repo>Ssttar/Auto-sync-other-repo</a><span> 自动检测私有仓库的push操作，并通过api调用使仓库运行action工作流</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/1/24, 2:03 AM<br>下一次刷新：8/1/24, 5:03 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/1/24, 5:02 AM<br>下一次刷新：8/1/24, 8:02 AM</p>
