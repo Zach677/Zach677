@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/ColorfulX>Lakr233/ColorfulX</a><span> ColorfulX is a high-performance library designed for creating vibrant, animated gradient views.</span></li><li><a href=https://github.com/kubernetes-sigs/kind>kubernetes-sigs/kind</a><span> Kubernetes IN Docker - local clusters for testing Kubernetes</span></li><li><a href=https://github.com/lobehub/lobe-lint>lobehub/lobe-lint</a><span> 📐 ESlint, Stylelint, Commitlint, Prettier, Remark, Semantic Release config for LobeHub</span></li><li><a href=https://github.com/QiuChenly/InjectLib>QiuChenly/InjectLib</a><span> 你知道我要说什么</span></li><li><a href=https://github.com/Lakr233/NotchDrop>Lakr233/NotchDrop</a><span> Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop</span></li></ul>
+<ul><li><a href=https://github.com/lobehub/lobe-lint>lobehub/lobe-lint</a><span> 📐 ESlint, Stylelint, Commitlint, Prettier, Remark, Semantic Release config for LobeHub</span></li><li><a href=https://github.com/Lakr233/NotchDrop>Lakr233/NotchDrop</a><span> Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop</span></li><li><a href=https://github.com/RSSNext/follow>RSSNext/follow</a><span> [WIP] Next generation information browser</span></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a><span> A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</span></li><li><a href=https://github.com/Ssttar/Auto-sync-other-repo>Ssttar/Auto-sync-other-repo</a><span> 自动检测私有仓库的push操作，并通过api调用使仓库运行action工作流</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/24, 2:02 PM<br>下一次刷新：7/31/24, 5:02 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/24, 5:03 PM<br>下一次刷新：7/31/24, 8:03 PM</p>
