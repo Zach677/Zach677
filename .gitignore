@@ -132,3 +132,4 @@ test.html
 
 sponsorkit/.cache.json
 .env.local
+.DS_Store

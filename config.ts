@@ -1,10 +1,5 @@
 export const opensource = {
-  active: [
-    'innei/Shiro',
-    'lobehub/lobe-chat',
-    'Ssttar/TechTrek',
-    'Ssttar/Auto-sync-other-repo',
-  ],
+  active: ['Ssttar/TechTrek', 'Ssttar/homebrew-star'],
 }
 export const motto = `<p align=center><strong>Happy Life!</strong></p>`
 export const github = {
