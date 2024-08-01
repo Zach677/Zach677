@@ -91,7 +91,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/dlevi309/ipatool-ios>dlevi309/ipatool-ios</a><span> iOS command-line tool that allows searching and downloading ipa files from the iOS App Store</span></li><li><a href=https://github.com/Lakr233/Asspp>Lakr233/Asspp</a><span> The App Store for your multi-account eco system.</span></li><li><a href=https://github.com/biomejs/biome>biomejs/biome</a><span> A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/HenryQW/Awesome-TTRSS>HenryQW/Awesome-TTRSS</a><span> 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.</span></li><li><a href=https://github.com/Ssttar/Auto-sync-other-repo>Ssttar/Auto-sync-other-repo</a><span> 自动检测私有仓库的push操作，并通过api调用使仓库运行action工作流</span></li></ul>
+<ul><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a><span> A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</span></li><li><a href=https://github.com/RSSNext/follow>RSSNext/follow</a><span> 🧡 Next generation information browser</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/drizzle-team/drizzle-orm>drizzle-team/drizzle-orm</a><span> Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅</span></li><li><a href=https://github.com/HenryQW/Awesome-TTRSS>HenryQW/Awesome-TTRSS</a><span> 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.</span></li></ul>
 
 
 **Can you find me?**
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/24, 2:03 AM<br>下一次刷新：8/2/24, 5:03 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/24, 5:02 AM<br>下一次刷新：8/2/24, 8:02 AM</p>
