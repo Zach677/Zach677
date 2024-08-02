@@ -1,14 +1,14 @@
-# Star ![](https://visitor-badge.laobi.icu/badge?page_id=Ssttar.Ssttar) [![wakatime](https://wakatime.com/badge/user/840d21f8-ccf6-4443-ba54-0b5c2549c2e4.svg)](https://wakatime.com/@840d21f8-ccf6-4443-ba54-0b5c2549c2e4)
+# Star ![](https://visitor-badge.laobi.icu/badge?page_id=Zach677.Zach677) [![wakatime](https://wakatime.com/badge/user/840d21f8-ccf6-4443-ba54-0b5c2549c2e4.svg)](https://wakatime.com/@840d21f8-ccf6-4443-ba54-0b5c2549c2e4)
 
   <picture>
     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ssttar&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Zach677&show_icons=true&theme=dark"
     />
     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ssttar&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Zach677&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Ssttar&show_icons=true" align=right />
+    <img src="https://github-readme-stats.vercel.app/api?username=Zach677&show_icons=true" align=right />
   </picture>
 
 I'm a student,Learning to program.
@@ -79,7 +79,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Open Source...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Ssttar/TechTrek><b>Ssttar/TechTrek</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Ssttar/TechTrek?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/Ssttar/TechTrek?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/Ssttar/TechTrek/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/Ssttar/TechTrek?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Ssttar/TechTrek/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Ssttar/TechTrek?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Ssttar/TechTrek/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/Ssttar/TechTrek?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/Ssttar/homebrew-star><b>Ssttar/homebrew-star</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Ssttar/homebrew-star?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/Ssttar/homebrew-star?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/Ssttar/homebrew-star/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/Ssttar/homebrew-star?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Ssttar/homebrew-star/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Ssttar/homebrew-star?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Ssttar/homebrew-star/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/Ssttar/homebrew-star?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Zach677/TechTrek><b>Zach677/TechTrek</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Zach677/TechTrek?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/Zach677/TechTrek?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/Zach677/TechTrek/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/Zach677/TechTrek?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Zach677/TechTrek/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Zach677/TechTrek?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Zach677/TechTrek/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/Zach677/TechTrek?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/Zach677/homebrew-star><b>Zach677/homebrew-star</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Zach677/homebrew-star?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/Zach677/homebrew-star?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/Zach677/homebrew-star/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/Zach677/homebrew-star?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Zach677/homebrew-star/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Zach677/homebrew-star?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Zach677/homebrew-star/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/Zach677/homebrew-star?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -87,16 +87,16 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/Ssttar/BBackupp>Ssttar/BBackupp</a><span> Automated iOS Backup Robot</span></li><li><a href=https://github.com/nrlquaker/homebrew-createzap>nrlquaker/homebrew-createzap</a><span> A `brew cask` external command that generates zap stanza</span></li><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/Ssttar/homebrew-star>Ssttar/homebrew-star</a><span> Collect Casks and Formulae not included in the official records.</span></li><li><a href=https://github.com/creamlike1024/EasyLPAC>creamlike1024/EasyLPAC</a><span> lpac GUI Frontend</span></li></ul>
+<ul><li><a href=https://github.com/Zach677/BBackupp>Zach677/BBackupp</a><span> Automated iOS Backup Robot</span></li><li><a href=https://github.com/nrlquaker/homebrew-createzap>nrlquaker/homebrew-createzap</a><span> A `brew cask` external command that generates zap stanza</span></li><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/Zach677/homebrew-star>Zach677/homebrew-star</a><span> Collect Casks and Formulae not included in the official records.</span></li><li><a href=https://github.com/creamlike1024/EasyLPAC>creamlike1024/EasyLPAC</a><span> lpac GUI Frontend</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/kubernetes-sigs/kind>kubernetes-sigs/kind</a><span> Kubernetes IN Docker - local clusters for testing Kubernetes</span></li><li><a href=https://github.com/framer/motion>framer/motion</a><span> Open source, production-ready animation and gesture library for React</span></li><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/Lessica/TrollFools>Lessica/TrollFools</a><span> In-place tweak injection with insert_dylib and ChOma.</span></li><li><a href=https://github.com/iovisor/bcc>iovisor/bcc</a><span> BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</span></li></ul>
+<ul><li><a href=https://github.com/Lessica/TrollFools>Lessica/TrollFools</a><span> In-place tweak injection with insert_dylib and ChOma.</span></li><li><a href=https://github.com/QiuChenly/InjectLib>QiuChenly/InjectLib</a><span> 你知道我要说什么</span></li><li><a href=https://github.com/framer/motion>framer/motion</a><span> Open source, production-ready animation and gesture library for React</span></li><li><a href=https://github.com/lobehub/lobe-lint>lobehub/lobe-lint</a><span> 📐 ESlint, Stylelint, Commitlint, Prettier, Remark, Semantic Release config for LobeHub</span></li><li><a href=https://github.com/linexjlin/GPTs>linexjlin/GPTs</a><span> leaked prompts of GPTs</span></li></ul>
 
 
 **Can you find me?**
 
-<p><a href="https://github.com/Ssttar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Ssttar123" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<p><a href="https://github.com/Zach677" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Zach677123" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 
 <!-- 贪吃蛇 -->
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
@@ -106,4 +106,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/24, 5:02 PM<br>下一次刷新：8/2/24, 8:02 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/24, 6:04 PM<br>下一次刷新：8/2/24, 9:04 PM</p>
