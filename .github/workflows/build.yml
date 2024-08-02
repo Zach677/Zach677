@@ -50,7 +50,7 @@ jobs:
         with:
           message: 'chore: update readme'
           add: '.'
-          author_name: Star-bot
-          author_email: bot@ssstttar.com
+          author_name: ZachTestBot
+          author_email: ssstttar@outlook.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
