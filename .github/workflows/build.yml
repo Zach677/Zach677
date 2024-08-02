@@ -44,7 +44,7 @@ jobs:
           SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
           SPONSORKIT_AFDIAN_USER_ID: 4fa7430ed24011ee92c052540025c377
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
-          SPONSORKIT_GITHUB_LOGIN: Ssttar
+          SPONSORKIT_GITHUB_LOGIN: Zach677
       - name: Push new readme.md
         uses: EndBug/add-and-commit@v9
         with:

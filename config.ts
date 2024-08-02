@@ -1,9 +1,9 @@
 export const opensource = {
-  active: ['Ssttar/TechTrek', 'Ssttar/homebrew-star'],
+  active: ['Zach677/TechTrek', 'Zach677/homebrew-star'],
 }
 export const motto = `<p align=center><strong>Happy Life!</strong></p>`
 export const github = {
-  name: 'Ssttar',
+  name: 'Zach677',
 }
 
 export const mxSpace = {

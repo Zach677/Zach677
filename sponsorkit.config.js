@@ -3,7 +3,7 @@ import { defineConfig, tierPresets } from 'sponsorkit'
 export default defineConfig({
   // Providers configs
   github: {
-    login: 'Ssttar',
+    login: 'Zach677',
     type: 'user',
   },
   includePastSponsors: true,
