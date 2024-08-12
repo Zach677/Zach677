@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a><span> A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</span></li><li><a href=https://github.com/dlevi309/ipatool-ios>dlevi309/ipatool-ios</a><span> iOS command-line tool that allows searching and downloading ipa files from the iOS App Store</span></li><li><a href=https://github.com/framer/motion>framer/motion</a><span> Open source, production-ready animation and gesture library for React</span></li><li><a href=https://github.com/creamlike1024/EasyLPAC>creamlike1024/EasyLPAC</a><span> lpac GUI Frontend</span></li><li><a href=https://github.com/Zach677/homebrew-star>Zach677/homebrew-star</a><span> Collect Casks and Formulae not included in the official records.</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/NotchDrop>Lakr233/NotchDrop</a><span> Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/biomejs/biome>biomejs/biome</a><span> A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/dlevi309/ipatool-ios>dlevi309/ipatool-ios</a><span> iOS command-line tool that allows searching and downloading ipa files from the iOS App Store</span></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a><span> Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/12/24, 8:04 PM<br>下一次刷新：8/12/24, 11:04 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/12/24, 11:02 PM<br>下一次刷新：8/13/24, 2:02 AM</p>
