@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/rui314/chibicc>rui314/chibicc</a><span> A small C compiler</span></li><li><a href=https://github.com/DanTheMan827/ios-app-signer>DanTheMan827/ios-app-signer</a><span> This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.</span></li><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/Lakr233/ColorfulX>Lakr233/ColorfulX</a><span> ColorfulX is a high-performance library designed for creating vibrant, animated gradient views.</span></li></ul>
+<ul><li><a href=https://github.com/biomejs/biome>biomejs/biome</a><span> A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/DanTheMan827/ios-app-signer>DanTheMan827/ios-app-signer</a><span> This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.</span></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a><span> Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/linexjlin/GPTs>linexjlin/GPTs</a><span> leaked prompts of GPTs</span></li><li><a href=https://github.com/EsimMoe/MiniLPA>EsimMoe/MiniLPA</a><span> Professional LPA UI</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/23/24, 2:02 AM<br>下一次刷新：8/23/24, 5:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/23/24, 5:03 AM<br>下一次刷新：8/23/24, 8:03 AM</p>
