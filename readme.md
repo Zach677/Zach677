@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/DanTheMan827/ios-app-signer>DanTheMan827/ios-app-signer</a><span> This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.</span></li><li><a href=https://github.com/linexjlin/GPTs>linexjlin/GPTs</a><span> leaked prompts of GPTs</span></li><li><a href=https://github.com/Zach677/repo-test-public>Zach677/repo-test-public</a></li><li><a href=https://github.com/EsimMoe/MiniLPA>EsimMoe/MiniLPA</a><span> Professional LPA UI</span></li></ul>
+<ul><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/DanTheMan827/ios-app-signer>DanTheMan827/ios-app-signer</a><span> This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.</span></li><li><a href=https://github.com/Zach677/homebrew-star>Zach677/homebrew-star</a><span> Collect Casks and Formulae not included in the official records.</span></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a><span> A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</span></li><li><a href=https://github.com/framer/motion>framer/motion</a><span> Open source, production-ready animation and gesture library for React</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/25/24, 11:02 PM<br>下一次刷新：8/26/24, 2:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/26/24, 2:02 AM<br>下一次刷新：8/26/24, 5:02 AM</p>
