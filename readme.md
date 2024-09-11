@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Zach677/repo-test-public>Zach677/repo-test-public</a></li><li><a href=https://github.com/dlevi309/ipatool-ios>dlevi309/ipatool-ios</a><span> iOS command-line tool that allows searching and downloading ipa files from the iOS App Store</span></li><li><a href=https://github.com/Lessica/TrollFools>Lessica/TrollFools</a><span> In-place tweak injection with insert_dylib and ChOma.</span></li><li><a href=https://github.com/Lakr233/ColorfulX>Lakr233/ColorfulX</a><span> ColorfulX is a high-performance library designed for creating vibrant, animated gradient views.</span></li><li><a href=https://github.com/EsimMoe/MiniLPA>EsimMoe/MiniLPA</a><span> Professional LPA UI</span></li></ul>
+<ul><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/linexjlin/GPTs>linexjlin/GPTs</a><span> leaked prompts of GPTs</span></li><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a><span> Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</span></li><li><a href=https://github.com/Zach677/homebrew-star>Zach677/homebrew-star</a><span> Collect Casks and Formulae not included in the official records.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/11/24, 8:09 AM<br>下一次刷新：9/11/24, 11:09 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/11/24, 11:02 AM<br>下一次刷新：9/11/24, 2:02 PM</p>
