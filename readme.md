@@ -88,11 +88,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/straight-tamago/misakaX>straight-tamago/misakaX</a></li><li><a href=https://github.com/DIYgod/RSSHub-Radar>DIYgod/RSSHub-Radar</a><span> 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub</span></li><li><a href=https://github.com/yetone/avante.nvim>yetone/avante.nvim</a><span> Use your Neovim like using Cursor AI IDE!</span></li><li><a href=https://github.com/Lakr233/MSDisplayLink>Lakr233/MSDisplayLink</a><span> The missing DisplayLink object for Apple platforms.</span></li><li><a href=https://github.com/hacksider/Deep-Live-Cam>hacksider/Deep-Live-Cam</a><span> real time face swap and one-click video deepfake with only a single image</span></li></ul>
+<ul><li><a href=https://github.com/straight-tamago/misakaX>straight-tamago/misakaX</a><span> iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</span></li><li><a href=https://github.com/DIYgod/RSSHub-Radar>DIYgod/RSSHub-Radar</a><span> 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub</span></li><li><a href=https://github.com/yetone/avante.nvim>yetone/avante.nvim</a><span> Use your Neovim like using Cursor AI IDE!</span></li><li><a href=https://github.com/Lakr233/MSDisplayLink>Lakr233/MSDisplayLink</a><span> The missing DisplayLink object for Apple platforms.</span></li><li><a href=https://github.com/hacksider/Deep-Live-Cam>hacksider/Deep-Live-Cam</a><span> real time face swap and one-click video deepfake with only a single image</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lessica/TrollFools>Lessica/TrollFools</a><span> In-place tweak injection with insert_dylib and ChOma.</span></li><li><a href=https://github.com/Zach677/repo-test-public>Zach677/repo-test-public</a></li><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/EsimMoe/MiniLPA>EsimMoe/MiniLPA</a><span> Professional LPA UI</span></li><li><a href=https://github.com/linexjlin/GPTs>linexjlin/GPTs</a><span> leaked prompts of GPTs</span></li></ul>
+<ul><li><a href=https://github.com/Zach677/NotchDrop>Zach677/NotchDrop</a><span> Unofficial build version</span></li><li><a href=https://github.com/iovisor/bcc>iovisor/bcc</a><span> BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</span></li><li><a href=https://github.com/creamlike1024/EasyLPAC>creamlike1024/EasyLPAC</a><span> lpac GUI Frontend</span></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a><span> Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/Zach677/repo-test-public>Zach677/repo-test-public</a></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/26/24, 8:04 PM<br>下一次刷新：9/26/24, 11:04 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/26/24, 11:02 PM<br>下一次刷新：9/27/24, 2:02 AM</p>
