@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lessica/TrollFools>Lessica/TrollFools</a><span> In-place tweak injection with insert_dylib and ChOma.</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a><span> A SwiftUI Mastodon client</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/nrlquaker/homebrew-createzap>nrlquaker/homebrew-createzap</a><span> A `brew cask` external command that generates zap stanza</span></li><li><a href=https://github.com/EsimMoe/MiniLPA>EsimMoe/MiniLPA</a><span> Professional LPA UI</span></li></ul>
+<ul><li><a href=https://github.com/majd/ipatool>majd/ipatool</a><span> Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/dlevi309/ipatool-ios>dlevi309/ipatool-ios</a><span> iOS command-line tool that allows searching and downloading ipa files from the iOS App Store</span></li><li><a href=https://github.com/Lakr233/ColorfulX>Lakr233/ColorfulX</a><span> ColorfulX is a high-performance library designed for creating vibrant & animated mesh gradient views.</span></li><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/Lakr233/NotchDrop>Lakr233/NotchDrop</a><span> Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/26/24, 8:10 AM<br>下一次刷新：9/26/24, 11:10 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/26/24, 11:07 AM<br>下一次刷新：9/26/24, 2:07 PM</p>
