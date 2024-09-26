@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/nrlquaker/homebrew-createzap>nrlquaker/homebrew-createzap</a><span> A `brew cask` external command that generates zap stanza</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a><span> A SwiftUI Mastodon client</span></li><li><a href=https://github.com/Zach677/BBackupp>Zach677/BBackupp</a><span> Automated iOS Backup Robot</span></li><li><a href=https://github.com/sparkle-project/Sparkle>sparkle-project/Sparkle</a><span> A software update framework for macOS</span></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a><span> Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</span></li></ul>
+<ul><li><a href=https://github.com/Lessica/TrollFools>Lessica/TrollFools</a><span> In-place tweak injection with insert_dylib and ChOma.</span></li><li><a href=https://github.com/Zach677/repo-test-public>Zach677/repo-test-public</a></li><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/EsimMoe/MiniLPA>EsimMoe/MiniLPA</a><span> Professional LPA UI</span></li><li><a href=https://github.com/linexjlin/GPTs>linexjlin/GPTs</a><span> leaked prompts of GPTs</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/26/24, 5:02 PM<br>下一次刷新：9/26/24, 8:02 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/26/24, 8:04 PM<br>下一次刷新：9/26/24, 11:04 PM</p>
