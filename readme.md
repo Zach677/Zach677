@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/rui314/chibicc>rui314/chibicc</a><span> A small C compiler</span></li><li><a href=https://github.com/nadimkobeissi/mkbsd>nadimkobeissi/mkbsd</a><span> Download all the wallpapers in MKBHD's "Panels" app</span></li><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a><span> Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/hacksider/Deep-Live-Cam>hacksider/Deep-Live-Cam</a><span> real time face swap and one-click video deepfake with only a single image</span></li></ul>
+<ul><li><a href=https://github.com/EsimMoe/MiniLPA>EsimMoe/MiniLPA</a><span> Professional LPA UI</span></li><li><a href=https://github.com/Lessica/TrollFools>Lessica/TrollFools</a><span> In-place tweak injection with insert_dylib and ChOma.</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/creamlike1024/EasyLPAC>creamlike1024/EasyLPAC</a><span> lpac GUI Frontend</span></li><li><a href=https://github.com/sparkle-project/Sparkle>sparkle-project/Sparkle</a><span> A software update framework for macOS</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/3/24, 11:02 PM<br>下一次刷新：10/4/24, 2:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/4/24, 2:03 AM<br>下一次刷新：10/4/24, 5:03 AM</p>
