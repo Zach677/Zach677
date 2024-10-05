@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/sparkle-project/Sparkle>sparkle-project/Sparkle</a><span> A software update framework for macOS</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a><span> A SwiftUI Mastodon client</span></li><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/Zach677/homebrew-star>Zach677/homebrew-star</a><span> Collect Casks and Formulae not included in the official records.</span></li></ul>
+<ul><li><a href=https://github.com/thinkingjimmy/Learning-Prompt>thinkingjimmy/Learning-Prompt</a><span> Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/hacksider/Deep-Live-Cam>hacksider/Deep-Live-Cam</a><span> real time face swap and one-click video deepfake with only a single image</span></li><li><a href=https://github.com/sparkle-project/Sparkle>sparkle-project/Sparkle</a><span> A software update framework for macOS</span></li><li><a href=https://github.com/Zach677/BBackupp>Zach677/BBackupp</a><span> Automated iOS Backup Robot</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/5/24, 5:02 AM<br>下一次刷新：10/5/24, 8:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/5/24, 8:10 AM<br>下一次刷新：10/5/24, 11:10 AM</p>
