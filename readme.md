@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/dair-ai/Prompt-Engineering-Guide>dair-ai/Prompt-Engineering-Guide</a><span> 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</span></li><li><a href=https://github.com/dlevi309/ipatool-ios>dlevi309/ipatool-ios</a><span> iOS command-line tool that allows searching and downloading ipa files from the iOS App Store</span></li><li><a href=https://github.com/straight-tamago/misakaX>straight-tamago/misakaX</a><span> iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</span></li><li><a href=https://github.com/creamlike1024/EasyLPAC>creamlike1024/EasyLPAC</a><span> lpac GUI Frontend</span></li><li><a href=https://github.com/DIYgod/RSSHub-Radar>DIYgod/RSSHub-Radar</a><span> 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub</span></li></ul>
+<ul><li><a href=https://github.com/Zach677/NotchDrop>Zach677/NotchDrop</a><span> Unofficial build version</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/hacksider/Deep-Live-Cam>hacksider/Deep-Live-Cam</a><span> real time face swap and one-click video deepfake with only a single image</span></li><li><a href=https://github.com/wibus-wee/InjectGUI>wibus-wee/InjectGUI</a><span> macOS Integrated Injection Framework (GUI version)</span></li><li><a href=https://github.com/EsimMoe/MiniLPA>EsimMoe/MiniLPA</a><span> Professional LPA UI</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/17/24, 5:02 PM<br>下一次刷新：10/17/24, 8:02 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/17/24, 8:04 PM<br>下一次刷新：10/17/24, 11:04 PM</p>
