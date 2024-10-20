@@ -88,11 +88,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/krzysztofzablocki/Inject>krzysztofzablocki/Inject</a><span> Hot Reloading for Swift applications!</span></li><li><a href=https://github.com/neondatabase/neon>neondatabase/neon</a><span> Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</span></li><li><a href=https://github.com/evgenyneu/keychain-swift>evgenyneu/keychain-swift</a><span> Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.</span></li><li><a href=https://github.com/Zach677/CI-Mac-Applications>Zach677/CI-Mac-Applications</a><span> Store the tools I use for automated building and bumping</span></li><li><a href=https://github.com/SwiftOldDriver/iOS-Weekly>SwiftOldDriver/iOS-Weekly</a><span> 🇨🇳 老司机技术 iOS 周报</span></li></ul>
+<ul><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a><span> rc file (dotfile) management</span></li><li><a href=https://github.com/krzysztofzablocki/Inject>krzysztofzablocki/Inject</a><span> Hot Reloading for Swift applications!</span></li><li><a href=https://github.com/neondatabase/neon>neondatabase/neon</a><span> Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</span></li><li><a href=https://github.com/evgenyneu/keychain-swift>evgenyneu/keychain-swift</a><span> Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.</span></li><li><a href=https://github.com/Zach677/CI-Mac-Applications>Zach677/CI-Mac-Applications</a><span> Store the tools I use for automated building and bumping</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/DIYgod/RSSHub-Radar>DIYgod/RSSHub-Radar</a><span> 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub</span></li><li><a href=https://github.com/dair-ai/Prompt-Engineering-Guide>dair-ai/Prompt-Engineering-Guide</a><span> 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</span></li><li><a href=https://github.com/Zach677/BBackupp>Zach677/BBackupp</a><span> Automated iOS Backup Robot</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a><span> A SwiftUI Mastodon client</span></li><li><a href=https://github.com/Zach677/repo-test-public>Zach677/repo-test-public</a></li></ul>
+<ul><li><a href=https://github.com/Zach677/BBackupp>Zach677/BBackupp</a><span> Automated iOS Backup Robot</span></li><li><a href=https://github.com/wibus-wee/InjectGUI>wibus-wee/InjectGUI</a><span> macOS Integrated Injection Framework (GUI version)</span></li><li><a href=https://github.com/Zach677/homebrew-star>Zach677/homebrew-star</a><span> Collect Casks and Formulae not included in the official records.</span></li><li><a href=https://github.com/straight-tamago/misakaX>straight-tamago/misakaX</a><span> iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</span></li><li><a href=https://github.com/EsimMoe/MiniLPA>EsimMoe/MiniLPA</a><span> Professional LPA UI</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/20/24, 2:03 PM<br>下一次刷新：10/20/24, 5:03 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/20/24, 5:02 PM<br>下一次刷新：10/20/24, 8:02 PM</p>
