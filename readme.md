@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/hacksider/Deep-Live-Cam>hacksider/Deep-Live-Cam</a><span> real time face swap and one-click video deepfake with only a single image</span></li><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a><span> Re-write of Injection for Xcode in (mostly) Swift</span></li><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><span> A more useful and easy-to-use bump version cli.</span></li><li><a href=https://github.com/Zach677/CI-Mac-Applications>Zach677/CI-Mac-Applications</a><span> Store the tools I use for automated building and bumping</span></li></ul>
+<ul><li><a href=https://github.com/straight-tamago/misakaX>straight-tamago/misakaX</a><span> iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</span></li><li><a href=https://github.com/creamlike1024/EasyLPAC>creamlike1024/EasyLPAC</a><span> lpac GUI Frontend</span></li><li><a href=https://github.com/krzysztofzablocki/Inject>krzysztofzablocki/Inject</a><span> Hot Reloading for Swift applications!</span></li><li><a href=https://github.com/evgenyneu/keychain-swift>evgenyneu/keychain-swift</a><span> Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.</span></li><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/24, 5:02 AM<br>下一次刷新：10/27/24, 8:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/24, 8:11 AM<br>下一次刷新：10/27/24, 11:11 AM</p>
