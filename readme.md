@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/hacksider/Deep-Live-Cam>hacksider/Deep-Live-Cam</a><span> real time face swap and one-click video deepfake with only a single image</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a><span> A SwiftUI Mastodon client</span></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><span> A more useful and easy-to-use bump version cli.</span></li><li><a href=https://github.com/krzysztofzablocki/Inject>krzysztofzablocki/Inject</a><span> Hot Reloading for Swift applications!</span></li><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a><span> rc file (dotfile) management</span></li></ul>
+<ul><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a><span> rc file (dotfile) management</span></li><li><a href=https://github.com/krzysztofzablocki/Inject>krzysztofzablocki/Inject</a><span> Hot Reloading for Swift applications!</span></li><li><a href=https://github.com/nadimkobeissi/mkbsd>nadimkobeissi/mkbsd</a><span> Download all the wallpapers in MKBHD's "Panels" app</span></li><li><a href=https://github.com/Zach677/CI-Mac-Applications>Zach677/CI-Mac-Applications</a><span> Store the tools I use for automated building and bumping</span></li><li><a href=https://github.com/Zach677/BBackupp>Zach677/BBackupp</a><span> Automated iOS Backup Robot</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/24, 8:03 PM<br>下一次刷新：10/27/24, 11:03 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/24, 11:02 PM<br>下一次刷新：10/28/24, 2:02 AM</p>
