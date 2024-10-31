@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/neondatabase/neon>neondatabase/neon</a><span> Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</span></li><li><a href=https://github.com/thinkingjimmy/Learning-Prompt>thinkingjimmy/Learning-Prompt</a><span> Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!</span></li><li><a href=https://github.com/dair-ai/Prompt-Engineering-Guide>dair-ai/Prompt-Engineering-Guide</a><span> 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</span></li><li><a href=https://github.com/yetone/avante.nvim>yetone/avante.nvim</a><span> Use your Neovim like using Cursor AI IDE!</span></li><li><a href=https://github.com/Lakr233/MSDisplayLink>Lakr233/MSDisplayLink</a><span> The missing DisplayLink object for Apple platforms.</span></li></ul>
+<ul><li><a href=https://github.com/Kyle-Ye/eligibility>Kyle-Ye/eligibility</a></li><li><a href=https://github.com/krzysztofzablocki/Inject>krzysztofzablocki/Inject</a><span> Hot Reloading for Swift applications!</span></li><li><a href=https://github.com/dair-ai/Prompt-Engineering-Guide>dair-ai/Prompt-Engineering-Guide</a><span> 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</span></li><li><a href=https://github.com/nrlquaker/homebrew-createzap>nrlquaker/homebrew-createzap</a><span> A `brew cask` external command that generates zap stanza</span></li><li><a href=https://github.com/straight-tamago/misakaX>straight-tamago/misakaX</a><span> iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/31/24, 2:03 PM<br>下一次刷新：10/31/24, 5:03 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/31/24, 5:02 PM<br>下一次刷新：10/31/24, 8:02 PM</p>
