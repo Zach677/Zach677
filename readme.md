@@ -84,7 +84,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Writing...**
 
-<ul><li><span>9/28/24 - <a href=https://ssstttar.com/notes/4>Follow体验记</a></span></li><li><span>5/5/24 - <a href=https://ssstttar.com/posts/Z-turn/auto-sync-repo>自动工作流同步仓库</a></span></li><li><span>3/24/24 - <a href=https://ssstttar.com/posts/programming/Swift-diary-of-study(1)>Swift diary of study(1)</a></span></li><li><span>2/21/24 - <a href=https://ssstttar.com/notes/2>折腾与娱乐</a></span></li><li><span>2/21/24 - <a href=https://ssstttar.com/notes/1>迟到的新年快乐！</a></span></li></ul>
+<ul><li><span>11/1/24 - <a href=https://ssstttar.com/posts/programming/apple-intelligence>如何绕过地区限制体验Apple Intelligence新功能</a></span></li><li><span>9/28/24 - <a href=https://ssstttar.com/notes/4>Follow体验记</a></span></li><li><span>5/5/24 - <a href=https://ssstttar.com/posts/Z-turn/auto-sync-repo>自动工作流同步仓库</a></span></li><li><span>3/24/24 - <a href=https://ssstttar.com/posts/programming/Swift-diary-of-study(1)>Swift diary of study(1)</a></span></li><li><span>2/21/24 - <a href=https://ssstttar.com/notes/2>折腾与娱乐</a></span></li></ul>
 
 **Recent Star...**
 
@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/dair-ai/Prompt-Engineering-Guide>dair-ai/Prompt-Engineering-Guide</a><span> 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</span></li><li><a href=https://github.com/Lakr233/MSDisplayLink>Lakr233/MSDisplayLink</a><span> The missing DisplayLink object for Apple platforms.</span></li><li><a href=https://github.com/wibus-wee/InjectGUI>wibus-wee/InjectGUI</a><span> macOS Integrated Injection Framework (GUI version)</span></li><li><a href=https://github.com/getcursor/cursor>getcursor/cursor</a><span> The AI Code Editor</span></li><li><a href=https://github.com/yetone/avante.nvim>yetone/avante.nvim</a><span> Use your Neovim like using Cursor AI IDE!</span></li></ul>
+<ul><li><a href=https://github.com/nadimkobeissi/mkbsd>nadimkobeissi/mkbsd</a><span> Download all the wallpapers in MKBHD's "Panels" app</span></li><li><a href=https://github.com/dair-ai/Prompt-Engineering-Guide>dair-ai/Prompt-Engineering-Guide</a><span> 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</span></li><li><a href=https://github.com/Zach677/CI-Mac-Applications>Zach677/CI-Mac-Applications</a><span> Store the tools I use for automated building and bumping</span></li><li><a href=https://github.com/sparkle-project/Sparkle>sparkle-project/Sparkle</a><span> A software update framework for macOS</span></li><li><a href=https://github.com/krzysztofzablocki/Inject>krzysztofzablocki/Inject</a><span> Hot Reloading for Swift applications!</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/1/24, 8:04 PM<br>下一次刷新：11/1/24, 11:04 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/1/24, 11:02 PM<br>下一次刷新：11/2/24, 2:02 AM</p>
