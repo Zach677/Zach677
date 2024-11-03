@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Zach677/NotchDrop>Zach677/NotchDrop</a><span> Unofficial build version</span></li><li><a href=https://github.com/neondatabase/neon>neondatabase/neon</a><span> Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</span></li><li><a href=https://github.com/Lakr233/AppleWebLogin>Lakr233/AppleWebLogin</a><span> Replaced login method for Xcodes.</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a><span> A SwiftUI Mastodon client</span></li><li><a href=https://github.com/hacksider/Deep-Live-Cam>hacksider/Deep-Live-Cam</a><span> real time face swap and one-click video deepfake with only a single image</span></li></ul>
+<ul><li><a href=https://github.com/wibus-wee/InjectGUI>wibus-wee/InjectGUI</a><span> macOS Integrated Injection Framework (GUI version)</span></li><li><a href=https://github.com/nadimkobeissi/mkbsd>nadimkobeissi/mkbsd</a><span> Download all the wallpapers in MKBHD's "Panels" app</span></li><li><a href=https://github.com/Lakr233/WindowAnimation>Lakr233/WindowAnimation</a><span> Provide animation when animating SwiftUI windows on macOS.</span></li><li><a href=https://github.com/Lakr233/MSDisplayLink>Lakr233/MSDisplayLink</a><span> The missing DisplayLink object for Apple platforms.</span></li><li><a href=https://github.com/getcursor/cursor>getcursor/cursor</a><span> The AI Code Editor</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/4/24, 2:03 AM<br>下一次刷新：11/4/24, 5:03 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/4/24, 5:02 AM<br>下一次刷新：11/4/24, 8:02 AM</p>
