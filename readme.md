@@ -88,11 +88,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/Lakr233/NotchNotification>Lakr233/NotchNotification</a><span> Display Notification Inside Mac's Notch.</span></li><li><a href=https://github.com/microsoft/vscode>microsoft/vscode</a><span> Visual Studio Code</span></li><li><a href=https://github.com/github/CopilotForXcode>github/CopilotForXcode</a><span> Xcode extension for GitHub Copilot</span></li><li><a href=https://github.com/Zach677/Snake>Zach677/Snake</a><span> A native snake game</span></li><li><a href=https://github.com/ArthurGuibert/SwiftUI-MulticolorGradient>ArthurGuibert/SwiftUI-MulticolorGradient</a><span> A SwiftUI implementation of multiple color gradient (like mesh gradient) 🌈</span></li></ul>
+<ul><li><a href=https://github.com/henrygd/beszel>henrygd/beszel</a><span> Lightweight server monitoring hub with historical data, docker stats, and alerts.</span></li><li><a href=https://github.com/Lakr233/NotchNotification>Lakr233/NotchNotification</a><span> Display Notification Inside Mac's Notch.</span></li><li><a href=https://github.com/microsoft/vscode>microsoft/vscode</a><span> Visual Studio Code</span></li><li><a href=https://github.com/github/CopilotForXcode>github/CopilotForXcode</a><span> Xcode extension for GitHub Copilot</span></li><li><a href=https://github.com/Zach677/Snake>Zach677/Snake</a><span> A native snake game</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/wibus-wee/InjectGUI>wibus-wee/InjectGUI</a><span> macOS Integrated Injection Framework (GUI version)</span></li><li><a href=https://github.com/yetone/avante.nvim>yetone/avante.nvim</a><span> Use your Neovim like using Cursor AI IDE!</span></li><li><a href=https://github.com/Lakr233/WindowAnimation>Lakr233/WindowAnimation</a><span> Provide animation when animating SwiftUI windows on macOS.</span></li><li><a href=https://github.com/Zach677/CI-Mac-Applications>Zach677/CI-Mac-Applications</a><span> Store the tools I use for automated building and bumping</span></li><li><a href=https://github.com/straight-tamago/misakaX>straight-tamago/misakaX</a><span> iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</span></li></ul>
+<ul><li><a href=https://github.com/hacksider/Deep-Live-Cam>hacksider/Deep-Live-Cam</a><span> real time face swap and one-click video deepfake with only a single image</span></li><li><a href=https://github.com/Zach677/CI-Mac-Applications>Zach677/CI-Mac-Applications</a><span> Store the tools I use for automated building and bumping</span></li><li><a href=https://github.com/evgenyneu/keychain-swift>evgenyneu/keychain-swift</a><span> Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.</span></li><li><a href=https://github.com/Zach677/NotchDrop>Zach677/NotchDrop</a><span> Unofficial build version</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a><span> A SwiftUI Mastodon client</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/3/24, 8:03 PM<br>下一次刷新：11/3/24, 11:03 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/3/24, 11:02 PM<br>下一次刷新：11/4/24, 2:02 AM</p>
