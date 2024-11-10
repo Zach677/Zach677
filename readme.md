@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/thinkingjimmy/Learning-Prompt>thinkingjimmy/Learning-Prompt</a><span> Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!</span></li><li><a href=https://github.com/Lakr233/AppleWebLogin>Lakr233/AppleWebLogin</a><span> Replaced login method for Xcodes.</span></li><li><a href=https://github.com/leminlimez/Nugget>leminlimez/Nugget</a><span> Unlock the fullest potential of your device</span></li><li><a href=https://github.com/Lakr233/WindowAnimation>Lakr233/WindowAnimation</a><span> Provide animation when animating SwiftUI windows on macOS.</span></li><li><a href=https://github.com/evgenyneu/keychain-swift>evgenyneu/keychain-swift</a><span> Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.</span></li></ul>
+<ul><li><a href=https://github.com/evgenyneu/keychain-swift>evgenyneu/keychain-swift</a><span> Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.</span></li><li><a href=https://github.com/Zach677/Snake>Zach677/Snake</a><span> A native snake game</span></li><li><a href=https://github.com/sparkle-project/Sparkle>sparkle-project/Sparkle</a><span> A software update framework for macOS</span></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><span> A more useful and easy-to-use bump version cli.</span></li><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a><span> rc file (dotfile) management</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/10/24, 8:11 AM<br>下一次刷新：11/10/24, 11:11 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/10/24, 11:07 AM<br>下一次刷新：11/10/24, 2:07 PM</p>
