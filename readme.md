@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/krzysztofzablocki/Inject>krzysztofzablocki/Inject</a><span> Hot Reloading for Swift applications!</span></li><li><a href=https://github.com/straight-tamago/misakaX>straight-tamago/misakaX</a><span> iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</span></li><li><a href=https://github.com/neondatabase/neon>neondatabase/neon</a><span> Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</span></li><li><a href=https://github.com/github/CopilotForXcode>github/CopilotForXcode</a><span> Xcode extension for GitHub Copilot</span></li><li><a href=https://github.com/Lakr233/AppleWebLogin>Lakr233/AppleWebLogin</a><span> Replaced login method for Xcodes.</span></li></ul>
+<ul><li><a href=https://github.com/X1a0He/Adobe-Downloader>X1a0He/Adobe-Downloader</a><span> macOS Adobe apps download & installer</span></li><li><a href=https://github.com/DIYgod/RSSHub-Radar>DIYgod/RSSHub-Radar</a><span> 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub</span></li><li><a href=https://github.com/Lakr233/WindowAnimation>Lakr233/WindowAnimation</a><span> Provide animation when animating SwiftUI windows on macOS.</span></li><li><a href=https://github.com/Zach677/CI-Mac-Applications>Zach677/CI-Mac-Applications</a><span> Store the tools I use for automated building and bumping</span></li><li><a href=https://github.com/straight-tamago/misakaX>straight-tamago/misakaX</a><span> iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/16/24, 5:02 PM<br>下一次刷新：11/16/24, 8:02 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/16/24, 8:03 PM<br>下一次刷新：11/16/24, 11:03 PM</p>
