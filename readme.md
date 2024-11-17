@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a><span> Re-write of Injection for Xcode in (mostly) Swift</span></li><li><a href=https://github.com/thinkingjimmy/Learning-Prompt>thinkingjimmy/Learning-Prompt</a><span> Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!</span></li><li><a href=https://github.com/dair-ai/Prompt-Engineering-Guide>dair-ai/Prompt-Engineering-Guide</a><span> 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</span></li><li><a href=https://github.com/nadimkobeissi/mkbsd>nadimkobeissi/mkbsd</a><span> Download all the wallpapers in MKBHD's "Panels" app</span></li><li><a href=https://github.com/leminlimez/Nugget>leminlimez/Nugget</a><span> Unlock the fullest potential of your device</span></li></ul>
+<ul><li><a href=https://github.com/SwiftOldDriver/iOS-Weekly>SwiftOldDriver/iOS-Weekly</a><span> 🇨🇳 老司机技术 iOS 周报</span></li><li><a href=https://github.com/Zach677/CI-Mac-Applications>Zach677/CI-Mac-Applications</a><span> Store the tools I use for automated building and bumping</span></li><li><a href=https://github.com/getcursor/cursor>getcursor/cursor</a><span> The AI Code Editor</span></li><li><a href=https://github.com/X1a0He/Adobe-Downloader>X1a0He/Adobe-Downloader</a><span> macOS Adobe apps download & installer</span></li><li><a href=https://github.com/leminlimez/Nugget>leminlimez/Nugget</a><span> Unlock the fullest potential of your device</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/17/24, 8:12 AM<br>下一次刷新：11/17/24, 11:12 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/17/24, 11:14 AM<br>下一次刷新：11/17/24, 2:14 PM</p>
