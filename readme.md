@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/SwiftOldDriver/iOS-Weekly>SwiftOldDriver/iOS-Weekly</a><span> 🇨🇳 老司机技术 iOS 周报</span></li><li><a href=https://github.com/microsoft/vscode>microsoft/vscode</a><span> Visual Studio Code</span></li><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a><span> rc file (dotfile) management</span></li><li><a href=https://github.com/dair-ai/Prompt-Engineering-Guide>dair-ai/Prompt-Engineering-Guide</a><span> 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</span></li><li><a href=https://github.com/nadimkobeissi/mkbsd>nadimkobeissi/mkbsd</a><span> Download all the wallpapers in MKBHD's "Panels" app</span></li></ul>
+<ul><li><a href=https://github.com/Koolson/Qure>Koolson/Qure</a><span> Quantumult X Policy Icon Set</span></li><li><a href=https://github.com/nadimkobeissi/mkbsd>nadimkobeissi/mkbsd</a><span> Download all the wallpapers in MKBHD's "Panels" app</span></li><li><a href=https://github.com/getcursor/cursor>getcursor/cursor</a><span> The AI Code Editor</span></li><li><a href=https://github.com/Lakr233/WindowAnimation>Lakr233/WindowAnimation</a><span> Provide animation when animating SwiftUI windows on macOS.</span></li><li><a href=https://github.com/X1a0He/Adobe-Downloader>X1a0He/Adobe-Downloader</a><span> macOS Adobe apps download & installer</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/20/24, 8:04 PM<br>下一次刷新：11/20/24, 11:04 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/20/24, 11:02 PM<br>下一次刷新：11/21/24, 2:02 AM</p>
