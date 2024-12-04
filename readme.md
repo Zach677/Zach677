@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/AppleWebLogin>Lakr233/AppleWebLogin</a><span> Replaced login method for Xcodes.</span></li><li><a href=https://github.com/krzysztofzablocki/Inject>krzysztofzablocki/Inject</a><span> Hot Reloading for Swift applications!</span></li><li><a href=https://github.com/henrygd/beszel>henrygd/beszel</a><span> Lightweight server monitoring hub with historical data, docker stats, and alerts.</span></li><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a><span> Re-write of Injection for Xcode in (mostly) Swift</span></li><li><a href=https://github.com/evgenyneu/keychain-swift>evgenyneu/keychain-swift</a><span> Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.</span></li></ul>
+<ul><li><a href=https://github.com/evgenyneu/keychain-swift>evgenyneu/keychain-swift</a><span> Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.</span></li><li><a href=https://github.com/missing-semester-cn/missing-semester-cn.github.io>missing-semester-cn/missing-semester-cn.github.io</a><span> the CS missing semester Chinese version</span></li><li><a href=https://github.com/henrygd/beszel>henrygd/beszel</a><span> Lightweight server monitoring hub with historical data, docker stats, and alerts.</span></li><li><a href=https://github.com/microsoft/vscode>microsoft/vscode</a><span> Visual Studio Code</span></li><li><a href=https://github.com/Zach677/Snake>Zach677/Snake</a><span> A native snake game</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/4/24, 2:19 PM<br>下一次刷新：12/4/24, 5:19 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/4/24, 5:13 PM<br>下一次刷新：12/4/24, 8:13 PM</p>
