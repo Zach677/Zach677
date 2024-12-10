@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/missing-semester-cn/missing-semester-cn.github.io>missing-semester-cn/missing-semester-cn.github.io</a><span> the CS missing semester Chinese version</span></li><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a><span> Re-write of Injection for Xcode in (mostly) Swift</span></li><li><a href=https://github.com/yichengchen/ATV-Bilibili-demo>yichengchen/ATV-Bilibili-demo</a><span> BiliBili Client Demo for Apple TV (tvOS)</span></li><li><a href=https://github.com/henrygd/beszel>henrygd/beszel</a><span> Lightweight server monitoring hub with historical data, docker stats, and alerts.</span></li><li><a href=https://github.com/github/CopilotForXcode>github/CopilotForXcode</a><span> Xcode extension for GitHub Copilot</span></li></ul>
+<ul><li><a href=https://github.com/getcursor/cursor>getcursor/cursor</a><span> The AI Code Editor</span></li><li><a href=https://github.com/Zach677/Snake>Zach677/Snake</a><span> A native snake game</span></li><li><a href=https://github.com/github/CopilotForXcode>github/CopilotForXcode</a><span> Xcode extension for GitHub Copilot</span></li><li><a href=https://github.com/Koolson/Qure>Koolson/Qure</a><span> Quantumult X Policy Icon Set</span></li><li><a href=https://github.com/Lakr233/NotchNotification>Lakr233/NotchNotification</a><span> Display Notification Inside Mac's Notch.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/11/24, 2:18 AM<br>下一次刷新：12/11/24, 5:18 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/11/24, 5:12 AM<br>下一次刷新：12/11/24, 8:12 AM</p>
