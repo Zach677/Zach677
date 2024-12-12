@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/leminlimez/Nugget>leminlimez/Nugget</a><span> Unlock the fullest potential of your device</span></li><li><a href=https://github.com/Koolson/Qure>Koolson/Qure</a><span> Quantumult X Policy Icon Set</span></li><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li><li><a href=https://github.com/ArthurGuibert/SwiftUI-MulticolorGradient>ArthurGuibert/SwiftUI-MulticolorGradient</a><span> A SwiftUI implementation of multiple color gradient (like mesh gradient) 🌈</span></li><li><a href=https://github.com/getcursor/cursor>getcursor/cursor</a><span> The AI Code Editor</span></li></ul>
+<ul><li><a href=https://github.com/Koolson/Qure>Koolson/Qure</a><span> Quantumult X Policy Icon Set</span></li><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li><li><a href=https://github.com/richards199999/Thinking-Claude>richards199999/Thinking-Claude</a><span> Let your Claude able to think</span></li><li><a href=https://github.com/pseudoyu/yu-tools>pseudoyu/yu-tools</a><span> 我的个人工具箱 (设备, macOS 软件, iOS Apps...)</span></li><li><a href=https://github.com/microsoft/vscode>microsoft/vscode</a><span> Visual Studio Code</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/12/24, 11:30 AM<br>下一次刷新：12/12/24, 2:30 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/12/24, 2:19 PM<br>下一次刷新：12/12/24, 5:19 PM</p>
