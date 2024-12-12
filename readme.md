@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/henrygd/beszel>henrygd/beszel</a><span> Lightweight server monitoring hub with historical data, docker stats, and alerts.</span></li><li><a href=https://github.com/krzysztofzablocki/Inject>krzysztofzablocki/Inject</a><span> Hot Reloading for Swift applications!</span></li><li><a href=https://github.com/lobehub/lobe-icons>lobehub/lobe-icons</a><span> 🥨 Lobe Icons - Popular AI / LLM Model Brand SVG Logo and Icon Collection.</span></li><li><a href=https://github.com/github/CopilotForXcode>github/CopilotForXcode</a><span> Xcode extension for GitHub Copilot</span></li><li><a href=https://github.com/Koolson/Qure>Koolson/Qure</a><span> Quantumult X Policy Icon Set</span></li></ul>
+<ul><li><a href=https://github.com/getcursor/cursor>getcursor/cursor</a><span> The AI Code Editor</span></li><li><a href=https://github.com/X1a0He/Adobe-Downloader>X1a0He/Adobe-Downloader</a><span> macOS Adobe apps download & installer</span></li><li><a href=https://github.com/yichengchen/ATV-Bilibili-demo>yichengchen/ATV-Bilibili-demo</a><span> BiliBili Client Demo for Apple TV (tvOS)</span></li><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a><span> Re-write of Injection for Xcode in (mostly) Swift</span></li><li><a href=https://github.com/Lakr233/AppleWebLogin>Lakr233/AppleWebLogin</a><span> Replaced login method for Xcodes.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/12/24, 5:14 PM<br>下一次刷新：12/12/24, 8:14 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/12/24, 8:26 PM<br>下一次刷新：12/12/24, 11:26 PM</p>
