@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/waydabber/BetterDisplay>waydabber/BetterDisplay</a><span> Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!</span></li><li><a href=https://github.com/Lakr233/AppleWebLogin>Lakr233/AppleWebLogin</a><span> Replaced login method for Xcodes.</span></li><li><a href=https://github.com/X1a0He/Adobe-Downloader>X1a0He/Adobe-Downloader</a><span> macOS Adobe apps download & installer</span></li><li><a href=https://github.com/apple/swift-log>apple/swift-log</a><span> A Logging API for Swift</span></li><li><a href=https://github.com/github/CopilotForXcode>github/CopilotForXcode</a><span> Xcode extension for GitHub Copilot</span></li></ul>
+<ul><li><a href=https://github.com/waydabber/BetterDisplay>waydabber/BetterDisplay</a><span> Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!</span></li><li><a href=https://github.com/getcursor/cursor>getcursor/cursor</a><span> The AI Code Editor</span></li><li><a href=https://github.com/Zach677/Snake>Zach677/Snake</a><span> A native snake game</span></li><li><a href=https://github.com/henrygd/beszel>henrygd/beszel</a><span> Lightweight server monitoring hub with historical data, docker stats, and alerts.</span></li><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a><span> Re-write of Injection for Xcode in (mostly) Swift</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/15/24, 11:33 AM<br>下一次刷新：12/15/24, 2:33 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/15/24, 2:17 PM<br>下一次刷新：12/15/24, 5:17 PM</p>
