@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ChartsOrg/Charts>ChartsOrg/Charts</a><span> Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</span></li><li><a href=https://github.com/Lakr233/SpringInterpolation>Lakr233/SpringInterpolation</a><span> Spring Interpolation for you to create animation</span></li><li><a href=https://github.com/nalexn/ViewInspector>nalexn/ViewInspector</a><span> Runtime introspection and unit testing of SwiftUI views</span></li><li><a href=https://github.com/Lakr233/Axchange>Lakr233/Axchange</a><span> Android file transfer via ADB</span></li><li><a href=https://github.com/X1a0He/Adobe-Downloader>X1a0He/Adobe-Downloader</a><span> macOS Adobe apps download & installer</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/NotchNotification>Lakr233/NotchNotification</a><span> Display Notification Inside Mac's Notch.</span></li><li><a href=https://github.com/github/CopilotForXcode>github/CopilotForXcode</a><span> Xcode extension for GitHub Copilot</span></li><li><a href=https://github.com/ChartsOrg/Charts>ChartsOrg/Charts</a><span> Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</span></li><li><a href=https://github.com/yichengchen/ATV-Bilibili-demo>yichengchen/ATV-Bilibili-demo</a><span> BiliBili Client Demo for Apple TV (tvOS)</span></li><li><a href=https://github.com/richards199999/Thinking-Claude>richards199999/Thinking-Claude</a><span> Let your Claude able to think</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/22/24, 11:09 AM<br>下一次刷新：12/22/24, 2:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/22/24, 2:03 PM<br>下一次刷新：12/22/24, 5:03 PM</p>
