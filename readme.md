@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li><li><a href=https://github.com/BerriAI/litellm>BerriAI/litellm</a><span> Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</span></li><li><a href=https://github.com/apple/swift-log>apple/swift-log</a><span> A Logging API for Swift</span></li><li><a href=https://github.com/yuaotian/go-cursor-help>yuaotian/go-cursor-help</a><span> 解决Cursor在免费订阅期间出现以下提示的问题: Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</span></li><li><a href=https://github.com/oop7/YTSage>oop7/YTSage</a><span> Modern YouTube downloader with a clean PyQt6 interface. Download videos in any quality, extract audio, fetch subtitles (including auto-generated), and view video metadata. Built with yt-dlp for reliable performance.</span></li></ul>
+<ul><li><a href=https://github.com/missing-semester-cn/missing-semester-cn.github.io>missing-semester-cn/missing-semester-cn.github.io</a><span> the CS missing semester Chinese version</span></li><li><a href=https://github.com/yichengchen/ATV-Bilibili-demo>yichengchen/ATV-Bilibili-demo</a><span> BiliBili Client Demo for Apple TV (tvOS)</span></li><li><a href=https://github.com/lobehub/lobe-icons>lobehub/lobe-icons</a><span> 🥨 Lobe Icons - Popular AI / LLM Model Brand SVG Logo and Icon Collection.</span></li><li><a href=https://github.com/X1a0He/Adobe-Downloader>X1a0He/Adobe-Downloader</a><span> macOS Adobe apps download & installer</span></li><li><a href=https://github.com/metowolf/vCards>metowolf/vCards</a><span> 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/25/24, 8:10 AM<br>下一次刷新：12/25/24, 11:10 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/25/24, 11:05 AM<br>下一次刷新：12/25/24, 2:05 PM</p>
