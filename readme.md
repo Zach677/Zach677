@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/waydabber/BetterDisplay>waydabber/BetterDisplay</a><span> Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!</span></li><li><a href=https://github.com/oop7/YTSage>oop7/YTSage</a><span> Modern YouTube downloader with a clean PyQt6 interface. Download videos in any quality, extract audio, fetch subtitles (including auto-generated), and view video metadata. Built with yt-dlp for reliable performance.</span></li><li><a href=https://github.com/ChartsOrg/Charts>ChartsOrg/Charts</a><span> Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</span></li><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li><li><a href=https://github.com/RevenueCat/purchases-ios>RevenueCat/purchases-ios</a><span> In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</span></li></ul>
+<ul><li><a href=https://github.com/nalexn/ViewInspector>nalexn/ViewInspector</a><span> Runtime introspection and unit testing of SwiftUI views</span></li><li><a href=https://github.com/Lakr233/SpringInterpolation>Lakr233/SpringInterpolation</a><span> Spring Interpolation for you to create animation</span></li><li><a href=https://github.com/X1a0He/Adobe-Downloader>X1a0He/Adobe-Downloader</a><span> macOS Adobe apps download & installer</span></li><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li><li><a href=https://github.com/oop7/YTSage>oop7/YTSage</a><span> Modern YouTube downloader with a clean PyQt6 interface. Download videos in any quality, extract audio, fetch subtitles (including auto-generated), and view video metadata. Built with yt-dlp for reliable performance.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/30/24, 11:02 PM<br>下一次刷新：12/31/24, 2:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/31/24, 2:03 AM<br>下一次刷新：12/31/24, 5:03 AM</p>
