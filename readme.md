@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/X1a0He/Adobe-Downloader>X1a0He/Adobe-Downloader</a><span> macOS Adobe apps download & installer</span></li><li><a href=https://github.com/waydabber/BetterDisplay>waydabber/BetterDisplay</a><span> Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!</span></li><li><a href=https://github.com/nalexn/ViewInspector>nalexn/ViewInspector</a><span> Runtime introspection and unit testing of SwiftUI views</span></li><li><a href=https://github.com/metowolf/vCards>metowolf/vCards</a><span> 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验</span></li><li><a href=https://github.com/yuaotian/go-cursor-help>yuaotian/go-cursor-help</a><span> 解决Cursor在免费订阅期间出现以下提示的问题: Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</span></li></ul>
+<ul><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li><li><a href=https://github.com/RevenueCat/purchases-ios>RevenueCat/purchases-ios</a><span> In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</span></li><li><a href=https://github.com/hyoban/follow-app>hyoban/follow-app</a><span> [unofficial] [wip] Mobile app for https://github.com/RSSNext/follow</span></li><li><a href=https://github.com/BerriAI/litellm>BerriAI/litellm</a><span> Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</span></li><li><a href=https://github.com/ChartsOrg/Charts>ChartsOrg/Charts</a><span> Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/2/25, 2:03 AM<br>下一次刷新：1/2/25, 5:03 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/2/25, 5:02 AM<br>下一次刷新：1/2/25, 8:02 AM</p>
