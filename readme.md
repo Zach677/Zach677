@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/SpringInterpolation>Lakr233/SpringInterpolation</a><span> Spring Interpolation for you to create animation</span></li><li><a href=https://github.com/slowmist/Knowledge-Base>slowmist/Knowledge-Base</a><span> Knowledge Base 慢雾安全团队知识库</span></li><li><a href=https://github.com/waydabber/BetterDisplay>waydabber/BetterDisplay</a><span> Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!</span></li><li><a href=https://github.com/lobehub/lobe-icons>lobehub/lobe-icons</a><span> 🥨 Lobe Icons - Popular AI / LLM Model Brand SVG Logo and Icon Collection.</span></li><li><a href=https://github.com/Lakr233/myyearwithgit>Lakr233/myyearwithgit</a><span> 代码仓库年终总结报告。</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/myyearwithgit>Lakr233/myyearwithgit</a><span> 代码仓库年终总结报告。</span></li><li><a href=https://github.com/missing-semester-cn/missing-semester-cn.github.io>missing-semester-cn/missing-semester-cn.github.io</a><span> the CS missing semester Chinese version</span></li><li><a href=https://github.com/richards199999/Thinking-Claude>richards199999/Thinking-Claude</a><span> Let your Claude able to think</span></li><li><a href=https://github.com/apple/swift-log>apple/swift-log</a><span> A Logging API for Swift</span></li><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/17/25, 5:02 PM<br>下一次刷新：1/17/25, 8:02 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/17/25, 8:04 PM<br>下一次刷新：1/17/25, 11:04 PM</p>
