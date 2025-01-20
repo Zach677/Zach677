@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ShaftUI/Shaft>ShaftUI/Shaft</a><span> Shaft is a cross-platform UI framework built for demanding workloads and developer ergonomics</span></li><li><a href=https://github.com/apple/swift-log>apple/swift-log</a><span> A Logging API for Swift</span></li><li><a href=https://github.com/Lakr233/Axchange>Lakr233/Axchange</a><span> Android file transfer via ADB</span></li><li><a href=https://github.com/missing-semester-cn/missing-semester-cn.github.io>missing-semester-cn/missing-semester-cn.github.io</a><span> the CS missing semester Chinese version</span></li><li><a href=https://github.com/RevenueCat/purchases-ios>RevenueCat/purchases-ios</a><span> In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</span></li></ul>
+<ul><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><span> Xiaomi Home Integration for Home Assistant</span></li><li><a href=https://github.com/missing-semester-cn/missing-semester-cn.github.io>missing-semester-cn/missing-semester-cn.github.io</a><span> the CS missing semester Chinese version</span></li><li><a href=https://github.com/Lakr233/myyearwithgit>Lakr233/myyearwithgit</a><span> 代码仓库年终总结报告。</span></li><li><a href=https://github.com/Lakr233/SpringInterpolation>Lakr233/SpringInterpolation</a><span> Spring Interpolation for you to create animation</span></li><li><a href=https://github.com/yuaotian/go-cursor-help>yuaotian/go-cursor-help</a><span> 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/20/25, 5:02 AM<br>下一次刷新：1/20/25, 8:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/20/25, 8:10 AM<br>下一次刷新：1/20/25, 11:10 AM</p>
