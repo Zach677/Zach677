@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/missing-semester-cn/missing-semester-cn.github.io>missing-semester-cn/missing-semester-cn.github.io</a><span> the CS missing semester Chinese version</span></li><li><a href=https://github.com/nalexn/ViewInspector>nalexn/ViewInspector</a><span> Runtime introspection and unit testing of SwiftUI views</span></li><li><a href=https://github.com/Lakr233/Axchange>Lakr233/Axchange</a><span> Android file transfer via ADB</span></li><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li><li><a href=https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook>slowmist/Blockchain-dark-forest-selfguard-handbook</a><span> Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.</span></li></ul>
+<ul><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li><li><a href=https://github.com/hyoban/follow-app>hyoban/follow-app</a><span> [unofficial] [wip] Mobile app for https://github.com/RSSNext/follow</span></li><li><a href=https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook>slowmist/Blockchain-dark-forest-selfguard-handbook</a><span> Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.</span></li><li><a href=https://github.com/Lakr233/Axchange>Lakr233/Axchange</a><span> Android file transfer via ADB</span></li><li><a href=https://github.com/hhmy27/JumpstartKit-Doc>hhmy27/JumpstartKit-Doc</a><span> 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/20/25, 5:03 PM<br>下一次刷新：1/20/25, 8:03 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/20/25, 8:04 PM<br>下一次刷新：1/20/25, 11:04 PM</p>
