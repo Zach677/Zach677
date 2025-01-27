@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/slowmist/Knowledge-Base>slowmist/Knowledge-Base</a><span> Knowledge Base 慢雾安全团队知识库</span></li><li><a href=https://github.com/RevenueCat/purchases-ios>RevenueCat/purchases-ios</a><span> In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</span></li><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li><li><a href=https://github.com/nalexn/ViewInspector>nalexn/ViewInspector</a><span> Runtime introspection and unit testing of SwiftUI views</span></li><li><a href=https://github.com/ShaftUI/Shaft>ShaftUI/Shaft</a><span> Shaft is a cross-platform UI framework built for demanding workloads and developer ergonomics</span></li></ul>
+<ul><li><a href=https://github.com/ChartsOrg/Charts>ChartsOrg/Charts</a><span> Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</span></li><li><a href=https://github.com/hhmy27/JumpstartKit-Doc>hhmy27/JumpstartKit-Doc</a><span> 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets</span></li><li><a href=https://github.com/missing-semester-cn/missing-semester-cn.github.io>missing-semester-cn/missing-semester-cn.github.io</a><span> the CS missing semester Chinese version</span></li><li><a href=https://github.com/hyoban/follow-app>hyoban/follow-app</a><span> [unofficial] [wip] Mobile app for https://github.com/RSSNext/follow</span></li><li><a href=https://github.com/yuaotian/go-cursor-help>yuaotian/go-cursor-help</a><span> 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/27/25, 2:03 PM<br>下一次刷新：1/27/25, 5:03 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/27/25, 5:03 PM<br>下一次刷新：1/27/25, 8:03 PM</p>
