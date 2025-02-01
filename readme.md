@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ghostty-org/ghostty>ghostty-org/ghostty</a><span> 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</span></li><li><a href=https://github.com/RevenueCat/purchases-ios>RevenueCat/purchases-ios</a><span> In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</span></li><li><a href=https://github.com/Lakr233/SpringInterpolation>Lakr233/SpringInterpolation</a><span> Spring Interpolation for you to create animation</span></li><li><a href=https://github.com/slowmist/Knowledge-Base>slowmist/Knowledge-Base</a><span> Knowledge Base 慢雾安全团队知识库</span></li><li><a href=https://github.com/hhmy27/JumpstartKit-Doc>hhmy27/JumpstartKit-Doc</a><span> 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets</span></li></ul>
+<ul><li><a href=https://github.com/apple/swift-log>apple/swift-log</a><span> A Logging API for Swift</span></li><li><a href=https://github.com/RevenueCat/purchases-ios>RevenueCat/purchases-ios</a><span> In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</span></li><li><a href=https://github.com/Lakr233/SpringInterpolation>Lakr233/SpringInterpolation</a><span> Spring Interpolation for you to create animation</span></li><li><a href=https://github.com/hughkli/Lookin>hughkli/Lookin</a><span> Free macOS app for iOS view debugging.</span></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><span> Xiaomi Home Integration for Home Assistant</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/25, 8:11 AM<br>下一次刷新：2/1/25, 11:11 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/25, 11:06 AM<br>下一次刷新：2/1/25, 2:06 PM</p>
