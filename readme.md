@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/hughkli/Lookin>hughkli/Lookin</a><span> Free macOS app for iOS view debugging.</span></li><li><a href=https://github.com/Tencent/QMUI_iOS>Tencent/QMUI_iOS</a><span> QMUI iOS——致力于提高项目 UI 开发效率的解决方案</span></li><li><a href=https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook>slowmist/Blockchain-dark-forest-selfguard-handbook</a><span> Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.</span></li><li><a href=https://github.com/waydabber/BetterDisplay>waydabber/BetterDisplay</a><span> Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!</span></li><li><a href=https://github.com/Lakr233/SpringInterpolation>Lakr233/SpringInterpolation</a><span> Spring Interpolation for you to create animation</span></li></ul>
+<ul><li><a href=https://github.com/Tencent/QMUI_iOS>Tencent/QMUI_iOS</a><span> QMUI iOS——致力于提高项目 UI 开发效率的解决方案</span></li><li><a href=https://github.com/ghostty-org/ghostty>ghostty-org/ghostty</a><span> 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</span></li><li><a href=https://github.com/Lakr233/myyearwithgit>Lakr233/myyearwithgit</a><span> 代码仓库年终总结报告。</span></li><li><a href=https://github.com/apple/swift-log>apple/swift-log</a><span> A Logging API for Swift</span></li><li><a href=https://github.com/Lakr233/SpringInterpolation>Lakr233/SpringInterpolation</a><span> Spring Interpolation for you to create animation</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/25, 11:04 AM<br>下一次刷新：2/2/25, 2:04 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/25, 2:03 PM<br>下一次刷新：2/2/25, 5:03 PM</p>
