@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><span> Xiaomi Home Integration for Home Assistant</span></li><li><a href=https://github.com/hughkli/Lookin>hughkli/Lookin</a><span> Free macOS app for iOS view debugging.</span></li><li><a href=https://github.com/hyoban/follow-app>hyoban/follow-app</a><span> [unofficial] [wip] Mobile app for https://github.com/RSSNext/follow</span></li><li><a href=https://github.com/ghostty-org/ghostty>ghostty-org/ghostty</a><span> 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</span></li><li><a href=https://github.com/Lakr233/Axchange>Lakr233/Axchange</a><span> Android file transfer via ADB</span></li></ul>
+<ul><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li><li><a href=https://github.com/lobehub/lobe-icons>lobehub/lobe-icons</a><span> 🥨 Lobe Icons - Popular AI / LLM Model Brand SVG Logo and Icon Collection.</span></li><li><a href=https://github.com/oop7/YTSage>oop7/YTSage</a><span> Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.</span></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><span> Xiaomi Home Integration for Home Assistant</span></li><li><a href=https://github.com/Lakr233/Axchange>Lakr233/Axchange</a><span> Android file transfer via ADB</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/25/25, 5:03 PM<br>下一次刷新：2/25/25, 8:03 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/25/25, 8:04 PM<br>下一次刷新：2/25/25, 11:04 PM</p>
