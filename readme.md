@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/hughkli/Lookin>hughkli/Lookin</a><span> Free macOS app for iOS view debugging.</span></li><li><a href=https://github.com/Lakr233/myyearwithgit>Lakr233/myyearwithgit</a><span> 代码仓库年终总结报告。</span></li><li><a href=https://github.com/yichengchen/ATV-Bilibili-demo>yichengchen/ATV-Bilibili-demo</a><span> BiliBili Client Demo for Apple TV (tvOS)</span></li><li><a href=https://github.com/Lakr233/SpringInterpolation>Lakr233/SpringInterpolation</a><span> Spring Interpolation for you to create animation</span></li><li><a href=https://github.com/djyde/AppRadar>djyde/AppRadar</a><span> Check the technology used by the software you have installed</span></li></ul>
+<ul><li><a href=https://github.com/metowolf/vCards>metowolf/vCards</a><span> 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验</span></li><li><a href=https://github.com/hughkli/Lookin>hughkli/Lookin</a><span> Free macOS app for iOS view debugging.</span></li><li><a href=https://github.com/hyoban/follow-app>hyoban/follow-app</a><span> [unofficial] [wip] Mobile app for https://github.com/RSSNext/follow</span></li><li><a href=https://github.com/Tencent/QMUI_iOS>Tencent/QMUI_iOS</a><span> QMUI iOS——致力于提高项目 UI 开发效率的解决方案</span></li><li><a href=https://github.com/apple/swift-log>apple/swift-log</a><span> A Logging API for Swift</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/25, 11:09 AM<br>下一次刷新：2/27/25, 2:09 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/25, 2:03 PM<br>下一次刷新：2/27/25, 5:03 PM</p>
