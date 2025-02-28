@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/oop7/YTSage>oop7/YTSage</a><span> Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.</span></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><span> Xiaomi Home Integration for Home Assistant</span></li><li><a href=https://github.com/QMUI/LookinServer>QMUI/LookinServer</a><span> Free macOS app for iOS view debugging.</span></li><li><a href=https://github.com/hughkli/Lookin>hughkli/Lookin</a><span> Free macOS app for iOS view debugging.</span></li><li><a href=https://github.com/Tencent/QMUI_iOS>Tencent/QMUI_iOS</a><span> QMUI iOS——致力于提高项目 UI 开发效率的解决方案</span></li></ul>
+<ul><li><a href=https://github.com/hhmy27/JumpstartKit-Doc>hhmy27/JumpstartKit-Doc</a><span> 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets</span></li><li><a href=https://github.com/Tencent/QMUI_iOS>Tencent/QMUI_iOS</a><span> QMUI iOS——致力于提高项目 UI 开发效率的解决方案</span></li><li><a href=https://github.com/oop7/YTSage>oop7/YTSage</a><span> Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.</span></li><li><a href=https://github.com/hughkli/Lookin>hughkli/Lookin</a><span> Free macOS app for iOS view debugging.</span></li><li><a href=https://github.com/lobehub/lobe-icons>lobehub/lobe-icons</a><span> 🥨 Lobe Icons - Popular AI / LLM Model Brand SVG Logo and Icon Collection.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/1/25, 2:03 AM<br>下一次刷新：3/1/25, 5:03 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/1/25, 5:02 AM<br>下一次刷新：3/1/25, 8:02 AM</p>
