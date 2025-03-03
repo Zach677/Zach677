@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/oop7/YTSage>oop7/YTSage</a><span> Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.</span></li><li><a href=https://github.com/bin64/Clash-Dash>bin64/Clash-Dash</a><span> 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具</span></li><li><a href=https://github.com/slowmist/Knowledge-Base>slowmist/Knowledge-Base</a><span> Knowledge Base 慢雾安全团队知识库</span></li><li><a href=https://github.com/lizongying/my-tv-0>lizongying/my-tv-0</a><span> 我的電視·〇 電視視頻播放軟件，可以自定義視頻源</span></li><li><a href=https://github.com/hughkli/Lookin>hughkli/Lookin</a><span> Free macOS app for iOS view debugging.</span></li></ul>
+<ul><li><a href=https://github.com/ChartsOrg/Charts>ChartsOrg/Charts</a><span> Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</span></li><li><a href=https://github.com/apple/swift-log>apple/swift-log</a><span> A Logging API for Swift</span></li><li><a href=https://github.com/Lakr233/SpringInterpolation>Lakr233/SpringInterpolation</a><span> Spring Interpolation for you to create animation</span></li><li><a href=https://github.com/yichengchen/ATV-Bilibili-demo>yichengchen/ATV-Bilibili-demo</a><span> BiliBili Client Demo for Apple TV (tvOS)</span></li><li><a href=https://github.com/slowmist/Knowledge-Base>slowmist/Knowledge-Base</a><span> Knowledge Base 慢雾安全团队知识库</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/3/25, 8:04 PM<br>下一次刷新：3/3/25, 11:04 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/3/25, 11:03 PM<br>下一次刷新：3/4/25, 2:03 AM</p>
