@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/hhmy27/JumpstartKit-Doc>hhmy27/JumpstartKit-Doc</a><span> 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets</span></li><li><a href=https://github.com/lizongying/my-tv-0>lizongying/my-tv-0</a><span> 我的電視·〇 電視視頻播放軟件，可以自定義視頻源</span></li><li><a href=https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook>slowmist/Blockchain-dark-forest-selfguard-handbook</a><span> Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.</span></li><li><a href=https://github.com/Lakr233/myyearwithgit>Lakr233/myyearwithgit</a><span> 代码仓库年终总结报告。</span></li><li><a href=https://github.com/Tencent/QMUI_iOS>Tencent/QMUI_iOS</a><span> QMUI iOS——致力于提高项目 UI 开发效率的解决方案</span></li></ul>
+<ul><li><a href=https://github.com/dqzboy/Docker-Proxy>dqzboy/Docker-Proxy</a><span> 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb</span></li><li><a href=https://github.com/QMUI/LookinServer>QMUI/LookinServer</a><span> Free macOS app for iOS view debugging.</span></li><li><a href=https://github.com/ShaftUI/Shaft>ShaftUI/Shaft</a><span> A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics</span></li><li><a href=https://github.com/yuaotian/go-cursor-help>yuaotian/go-cursor-help</a><span> 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</span></li><li><a href=https://github.com/mazzzystar/Queryable>mazzzystar/Queryable</a><span> Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/7/25, 8:11 AM<br>下一次刷新：3/7/25, 11:11 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/7/25, 11:11 AM<br>下一次刷新：3/7/25, 2:11 PM</p>
