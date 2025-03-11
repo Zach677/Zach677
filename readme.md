@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/hughkli/Lookin>hughkli/Lookin</a><span> Free macOS app for iOS view debugging.</span></li><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a><span> Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/hhmy27/JumpstartKit-Doc>hhmy27/JumpstartKit-Doc</a><span> 🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets</span></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a><span> Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/Lakr233/FlowDown-App>Lakr233/FlowDown-App</a><span> https://flowdown.ai/</span></li></ul>
+<ul><li><a href=https://github.com/zed-industries/zed>zed-industries/zed</a><span> Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</span></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><span> Xiaomi Home Integration for Home Assistant</span></li><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a><span> Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/dqzboy/Docker-Proxy>dqzboy/Docker-Proxy</a><span> 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb</span></li><li><a href=https://github.com/egoist/chatwise-releases>egoist/chatwise-releases</a><span> The fastest AI Chatbot for any LLM</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/11/25, 8:04 PM<br>下一次刷新：3/11/25, 11:04 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/11/25, 11:03 PM<br>下一次刷新：3/12/25, 2:03 AM</p>
