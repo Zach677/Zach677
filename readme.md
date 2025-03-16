@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ghostty-org/ghostty>ghostty-org/ghostty</a><span> 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</span></li><li><a href=https://github.com/Tencent/QMUI_iOS>Tencent/QMUI_iOS</a><span> QMUI iOS——致力于提高项目 UI 开发效率的解决方案</span></li><li><a href=https://github.com/dqzboy/Docker-Proxy>dqzboy/Docker-Proxy</a><span> 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb</span></li><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a><span> Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/ktiays/GlyphixTextFx>ktiays/GlyphixTextFx</a><span> A label component like numericText in SwiftUI</span></li></ul>
+<ul><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a><span> Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/tianyaxiang/neurapress>tianyaxiang/neurapress</a><span> NeuraPress</span></li><li><a href=https://github.com/mannaandpoem/OpenManus>mannaandpoem/OpenManus</a><span> No fortress, purely open ground. OpenManus is Coming.</span></li><li><a href=https://github.com/Lakr233/MobileTransfer>Lakr233/MobileTransfer</a><span> Backup & restore iOS devices with advanced settings.</span></li><li><a href=https://github.com/Tencent/QMUI_iOS>Tencent/QMUI_iOS</a><span> QMUI iOS——致力于提高项目 UI 开发效率的解决方案</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/16/25, 5:02 PM<br>下一次刷新：3/16/25, 8:02 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/16/25, 8:03 PM<br>下一次刷新：3/16/25, 11:03 PM</p>
