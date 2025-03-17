@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a><span> Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/Lakr233/MobileTransfer>Lakr233/MobileTransfer</a><span> Backup & restore iOS devices with advanced settings.</span></li><li><a href=https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook>slowmist/Blockchain-dark-forest-selfguard-handbook</a><span> Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.</span></li><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a><span> Drop in replacement for _presentMenuAtLocation:</span></li><li><a href=https://github.com/bin64/Clash-Dash>bin64/Clash-Dash</a><span> 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具</span></li></ul>
+<ul><li><a href=https://github.com/mazzzystar/Queryable>mazzzystar/Queryable</a><span> Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.</span></li><li><a href=https://github.com/ghostty-org/ghostty>ghostty-org/ghostty</a><span> 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</span></li><li><a href=https://github.com/QMUI/LookinServer>QMUI/LookinServer</a><span> Free macOS app for iOS view debugging.</span></li><li><a href=https://github.com/bin64/Clash-Dash>bin64/Clash-Dash</a><span> 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具</span></li><li><a href=https://github.com/Lakr233/MobileTransfer>Lakr233/MobileTransfer</a><span> Backup & restore iOS devices with advanced settings.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/17/25, 11:13 AM<br>下一次刷新：3/17/25, 2:13 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/17/25, 2:03 PM<br>下一次刷新：3/17/25, 5:03 PM</p>
