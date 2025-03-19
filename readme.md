@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/egoist/chatwise-releases>egoist/chatwise-releases</a><span> The fastest AI Chatbot for any LLM</span></li><li><a href=https://github.com/ghostty-org/ghostty>ghostty-org/ghostty</a><span> 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</span></li><li><a href=https://github.com/situ2001/KeyPhantom>situ2001/KeyPhantom</a><span> A macOS app that silently sends keyboard events to background applications via shortcuts, like a phantom.</span></li><li><a href=https://github.com/tianyaxiang/neurapress>tianyaxiang/neurapress</a><span> NeuraPress</span></li><li><a href=https://github.com/bin64/Clash-Dash>bin64/Clash-Dash</a><span> 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具</span></li></ul>
+<ul><li><a href=https://github.com/egoist/chatwise-releases>egoist/chatwise-releases</a><span> The fastest AI Chatbot for any LLM</span></li><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a><span> Drop in replacement for _presentMenuAtLocation:</span></li><li><a href=https://github.com/bin64/Clash-Dash>bin64/Clash-Dash</a><span> 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具</span></li><li><a href=https://github.com/ktiays/GlyphixTextFx>ktiays/GlyphixTextFx</a><span> A label component like numericText in SwiftUI</span></li><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a><span> Delightful SwiftUI effects for your app</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/19/25, 8:11 AM<br>下一次刷新：3/19/25, 11:11 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/19/25, 11:12 AM<br>下一次刷新：3/19/25, 2:12 PM</p>
