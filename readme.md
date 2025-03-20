@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/ScrubberKit>Lakr233/ScrubberKit</a></li><li><a href=https://github.com/Lakr233/FlowDown-App>Lakr233/FlowDown-App</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/Lakr233/MobileTransfer>Lakr233/MobileTransfer</a><span> Backup & restore iOS devices with advanced settings.</span></li><li><a href=https://github.com/bin64/Clash-Dash>bin64/Clash-Dash</a><span> 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具</span></li><li><a href=https://github.com/ktiays/GlyphixTextFx>ktiays/GlyphixTextFx</a><span> A label component like numericText in SwiftUI</span></li></ul>
+<ul><li><a href=https://github.com/lizongying/my-tv-0>lizongying/my-tv-0</a><span> 我的電視·〇 電視視頻播放軟件，可以自定義視頻源</span></li><li><a href=https://github.com/Lakr233/FlowDown-App>Lakr233/FlowDown-App</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/akazwz/openchat-monorepo>akazwz/openchat-monorepo</a><span> 一个现代化的全栈 AI Chatbot 应用，使用 React 和 Cloudflare Workers 结合 Connect RPC 构建，通过 Tauri 支持 Web、移动 App 和桌面端</span></li><li><a href=https://github.com/situ2001/KeyPhantom>situ2001/KeyPhantom</a><span> A macOS app that silently sends keyboard events to background applications via shortcuts, like a phantom.</span></li><li><a href=https://github.com/Lakr233/AlertController>Lakr233/AlertController</a><span> Simple AlertViewController</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/25, 11:11 AM<br>下一次刷新：3/20/25, 2:11 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/25, 2:03 PM<br>下一次刷新：3/20/25, 5:03 PM</p>
