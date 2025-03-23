@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/tianyaxiang/neurapress>tianyaxiang/neurapress</a><span> NeuraPress</span></li><li><a href=https://github.com/ktiays/GlyphixTextFx>ktiays/GlyphixTextFx</a><span> A label component like numericText in SwiftUI</span></li><li><a href=https://github.com/egoist/chatwise-releases>egoist/chatwise-releases</a><span> The fastest AI Chatbot for any LLM</span></li><li><a href=https://github.com/situ2001/KeyPhantom>situ2001/KeyPhantom</a><span> A macOS app that silently sends keyboard events to background applications via shortcuts, like a phantom.</span></li><li><a href=https://github.com/dqzboy/Docker-Proxy>dqzboy/Docker-Proxy</a><span> 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb</span></li></ul>
+<ul><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a><span> UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li><li><a href=https://github.com/tianyaxiang/neurapress>tianyaxiang/neurapress</a><span> NeuraPress</span></li><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a><span> Drop in replacement for _presentMenuAtLocation:</span></li><li><a href=https://github.com/ktiays/GlyphixTextFx>ktiays/GlyphixTextFx</a><span> A label component like numericText in SwiftUI</span></li><li><a href=https://github.com/Lakr233/MobileTransfer>Lakr233/MobileTransfer</a><span> Backup & restore iOS devices with advanced settings.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/23/25, 8:12 AM<br>下一次刷新：3/23/25, 11:12 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/23/25, 11:16 AM<br>下一次刷新：3/23/25, 2:16 PM</p>
