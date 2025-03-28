@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/AlertController>Lakr233/AlertController</a><span> Simple AlertViewController</span></li><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a><span> Drop in replacement for _presentMenuAtLocation:</span></li><li><a href=https://github.com/ktiays/GlyphixTextFx>ktiays/GlyphixTextFx</a><span> A label component like numericText in SwiftUI</span></li><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a><span> UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li><li><a href=https://github.com/satnaing/shadcn-admin>satnaing/shadcn-admin</a><span> Admin Dashboard UI built with Shadcn and Vite.</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a><span> Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/mazzzystar/Queryable>mazzzystar/Queryable</a><span> Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.</span></li><li><a href=https://github.com/ktiays/GlyphixTextFx>ktiays/GlyphixTextFx</a><span> A label component like numericText in SwiftUI</span></li><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a><span> UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li><li><a href=https://github.com/zed-industries/zed>zed-industries/zed</a><span> Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/28/25, 5:02 AM<br>下一次刷新：3/28/25, 8:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/28/25, 8:11 AM<br>下一次刷新：3/28/25, 11:11 AM</p>
