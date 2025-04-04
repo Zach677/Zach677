@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/FlowDown-App>Lakr233/FlowDown-App</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/rust-lang/rust-analyzer>rust-lang/rust-analyzer</a><span> A Rust compiler front-end for IDEs</span></li><li><a href=https://github.com/hamster1963/nezha-dash>hamster1963/nezha-dash</a><span> A simple dashboard for nezha.</span></li><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a><span> UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li><li><a href=https://github.com/subframe7536/maple-font>subframe7536/maple-font</a><span> Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/ScrubberKit>Lakr233/ScrubberKit</a></li><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a><span> UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li><li><a href=https://github.com/akazwz/openchat-monorepo>akazwz/openchat-monorepo</a><span> 一个现代化的全栈 AI Chatbot 应用，使用 React 和 Cloudflare Workers 结合 Connect RPC 构建，通过 Tauri 支持 Web、移动 App 和桌面端</span></li><li><a href=https://github.com/Lakr233/FlowDown-App>Lakr233/FlowDown-App</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/zed-industries/zed>zed-industries/zed</a><span> Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/4/25, 5:02 PM<br>下一次刷新：4/4/25, 8:02 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/4/25, 8:04 PM<br>下一次刷新：4/4/25, 11:04 PM</p>
