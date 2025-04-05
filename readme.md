@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a><span> A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/Lakr233/FlowDown-App>Lakr233/FlowDown-App</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/tianyaxiang/neurapress>tianyaxiang/neurapress</a><span> NeuraPress</span></li><li><a href=https://github.com/zed-industries/zed>zed-industries/zed</a><span> Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</span></li><li><a href=https://github.com/satnaing/shadcn-admin>satnaing/shadcn-admin</a><span> Admin Dashboard UI built with Shadcn and Vite.</span></li></ul>
+<ul><li><a href=https://github.com/akazwz/openchat-monorepo>akazwz/openchat-monorepo</a><span> 一个现代化的全栈 AI Chatbot 应用，使用 React 和 Cloudflare Workers 结合 Connect RPC 构建，通过 Tauri 支持 Web、移动 App 和桌面端</span></li><li><a href=https://github.com/zed-industries/zed>zed-industries/zed</a><span> Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</span></li><li><a href=https://github.com/situ2001/KeyPhantom>situ2001/KeyPhantom</a><span> A macOS app that silently sends keyboard events to background applications via shortcuts, like a phantom.</span></li><li><a href=https://github.com/satnaing/shadcn-admin>satnaing/shadcn-admin</a><span> Admin Dashboard UI built with Shadcn and Vite.</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a><span> A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/6/25, 2:03 AM<br>下一次刷新：4/6/25, 5:03 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/6/25, 5:02 AM<br>下一次刷新：4/6/25, 8:02 AM</p>
