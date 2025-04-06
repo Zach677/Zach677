@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ultrasev/cursor-reset>ultrasev/cursor-reset</a><span> A script to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.</span></li><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a><span> UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li><li><a href=https://github.com/gonzalezreal/swift-markdown-ui>gonzalezreal/swift-markdown-ui</a><span> Display and customize Markdown text in SwiftUI</span></li><li><a href=https://github.com/Lakr233/FlowDown-App>Lakr233/FlowDown-App</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/Lakr233/ScrubberKit>Lakr233/ScrubberKit</a></li></ul>
+<ul><li><a href=https://github.com/rust-lang/rust-analyzer>rust-lang/rust-analyzer</a><span> A Rust compiler front-end for IDEs</span></li><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a><span> Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/Lakr233/FlowDown-App>Lakr233/FlowDown-App</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a><span> A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a><span> Drop in replacement for _presentMenuAtLocation:</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/6/25, 8:12 AM<br>下一次刷新：4/6/25, 11:12 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/6/25, 11:16 AM<br>下一次刷新：4/6/25, 2:16 PM</p>
