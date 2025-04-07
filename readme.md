@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/AlertController>Lakr233/AlertController</a><span> Simple AlertViewController</span></li><li><a href=https://github.com/Lakr233/ScrubberKit>Lakr233/ScrubberKit</a></li><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a><span> Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/akazwz/openchat-monorepo>akazwz/openchat-monorepo</a><span> 一个现代化的全栈 AI Chatbot 应用，使用 React 和 Cloudflare Workers 结合 Connect RPC 构建，通过 Tauri 支持 Web、移动 App 和桌面端</span></li><li><a href=https://github.com/SukkaW/Surge>SukkaW/Surge</a><span> Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / sing-box</span></li></ul>
+<ul><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a><span> Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a><span> A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a><span> Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/hamster1963/nezha-dash>hamster1963/nezha-dash</a><span> A simple dashboard for nezha.</span></li><li><a href=https://github.com/zed-industries/zed>zed-industries/zed</a><span> Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/7/25, 2:04 PM<br>下一次刷新：4/7/25, 5:04 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/7/25, 5:03 PM<br>下一次刷新：4/7/25, 8:03 PM</p>
