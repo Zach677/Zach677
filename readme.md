@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/akazwz/openchat-monorepo>akazwz/openchat-monorepo</a><span> 一个现代化的全栈 AI Chatbot 应用，使用 React 和 Cloudflare Workers 结合 Connect RPC 构建，通过 Tauri 支持 Web、移动 App 和桌面端</span></li><li><a href=https://github.com/Lakr233/AlertController>Lakr233/AlertController</a><span> Simple AlertViewController</span></li><li><a href=https://github.com/Helixform/Litext>Helixform/Litext</a><span> A tiny rich-text supporting library for Apple platform.</span></li><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a><span> UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li><li><a href=https://github.com/Lakr233/FlowDown-LandingPage>Lakr233/FlowDown-LandingPage</a></li></ul>
+<ul><li><a href=https://github.com/SukkaW/Surge>SukkaW/Surge</a><span> Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / sing-box</span></li><li><a href=https://github.com/Lakr233/FlowDown-LandingPage>Lakr233/FlowDown-LandingPage</a></li><li><a href=https://github.com/Lakr233/MobileTransfer>Lakr233/MobileTransfer</a><span> Backup & restore iOS devices with advanced settings.</span></li><li><a href=https://github.com/Lakr233/ScrubberKit>Lakr233/ScrubberKit</a></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a><span> A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/9/25, 11:15 AM<br>下一次刷新：4/9/25, 2:15 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/9/25, 2:04 PM<br>下一次刷新：4/9/25, 5:04 PM</p>
