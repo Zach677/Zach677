@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/mannaandpoem/OpenManus>mannaandpoem/OpenManus</a><span> No fortress, purely open ground. OpenManus is Coming.</span></li><li><a href=https://github.com/Lakr233/ScrubberKit>Lakr233/ScrubberKit</a></li><li><a href=https://github.com/unixzii/SwiftUI-2048>unixzii/SwiftUI-2048</a><span> A 2048 game writing with SwiftUI.</span></li><li><a href=https://github.com/gonzalezreal/swift-markdown-ui>gonzalezreal/swift-markdown-ui</a><span> Display and customize Markdown text in SwiftUI</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a><span> A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li></ul>
+<ul><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/rust-lang/rust-analyzer>rust-lang/rust-analyzer</a><span> A Rust compiler front-end for IDEs</span></li><li><a href=https://github.com/Lakr233/FlowDown-LandingPage>Lakr233/FlowDown-LandingPage</a></li><li><a href=https://github.com/satnaing/shadcn-admin>satnaing/shadcn-admin</a><span> Admin Dashboard UI built with Shadcn and Vite.</span></li><li><a href=https://github.com/unixzii/SwiftUI-2048>unixzii/SwiftUI-2048</a><span> A 2048 game writing with SwiftUI.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/25, 11:15 AM<br>下一次刷新：4/18/25, 2:15 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/25, 2:03 PM<br>下一次刷新：4/18/25, 5:03 PM</p>
