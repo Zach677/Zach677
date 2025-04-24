@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/satnaing/shadcn-admin>satnaing/shadcn-admin</a><span> Admin Dashboard UI built with Shadcn and Vite.</span></li><li><a href=https://github.com/gonzalezreal/swift-markdown-ui>gonzalezreal/swift-markdown-ui</a><span> Display and customize Markdown text in SwiftUI</span></li><li><a href=https://github.com/facebook/react-native>facebook/react-native</a><span> A framework for building native applications using React</span></li><li><a href=https://github.com/unixzii/Tariff>unixzii/Tariff</a><span> Tariff is the Most Beautiful Swift package in your app!</span></li></ul>
+<ul><li><a href=https://github.com/CocoaPods/CocoaPods>CocoaPods/CocoaPods</a><span> The Cocoa Dependency Manager.</span></li><li><a href=https://github.com/Helixform/Litext>Helixform/Litext</a><span> A tiny rich-text supporting library for Apple platform.</span></li><li><a href=https://github.com/airbnb/lottie-ios>airbnb/lottie-ios</a><span> An iOS library to natively render After Effects vector animations</span></li><li><a href=https://github.com/TelegramMessenger/Telegram-iOS>TelegramMessenger/Telegram-iOS</a><span> Telegram-iOS</span></li><li><a href=https://github.com/facebook/react-native>facebook/react-native</a><span> A framework for building native applications using React</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/24/25, 11:03 PM<br>下一次刷新：4/25/25, 2:03 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/25/25, 2:03 AM<br>下一次刷新：4/25/25, 5:03 AM</p>
