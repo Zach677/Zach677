@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Helixform/Litext>Helixform/Litext</a><span> A tiny rich-text supporting library for Apple platform.</span></li><li><a href=https://github.com/Lakr233/FlowDown-LandingPage>Lakr233/FlowDown-LandingPage</a></li><li><a href=https://github.com/facebook/react-native>facebook/react-native</a><span> A framework for building native applications using React</span></li><li><a href=https://github.com/doocs/md>doocs/md</a><span> ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性</span></li><li><a href=https://github.com/ultrasev/cursor-reset>ultrasev/cursor-reset</a><span> A script to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.</span></li></ul>
+<ul><li><a href=https://github.com/mannaandpoem/OpenManus>mannaandpoem/OpenManus</a><span> No fortress, purely open ground. OpenManus is Coming.</span></li><li><a href=https://github.com/twostraws/HackingWithSwift>twostraws/HackingWithSwift</a><span> The project source code for Hacking with iOS.</span></li><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/cwxiaos/bark-worker>cwxiaos/bark-worker</a><span> Bark Server on Cloudflare Worker</span></li><li><a href=https://github.com/airbnb/lottie-ios>airbnb/lottie-ios</a><span> An iOS library to natively render After Effects vector animations</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/24/25, 5:03 PM<br>下一次刷新：4/24/25, 8:03 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/24/25, 8:04 PM<br>下一次刷新：4/24/25, 11:04 PM</p>
