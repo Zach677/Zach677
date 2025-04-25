@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/modelcontextprotocol/servers>modelcontextprotocol/servers</a><span> Model Context Protocol Servers</span></li><li><a href=https://github.com/Lakr233/AlertController>Lakr233/AlertController</a><span> Simple AlertViewController</span></li><li><a href=https://github.com/facebook/react-native>facebook/react-native</a><span> A framework for building native applications using React</span></li><li><a href=https://github.com/CocoaPods/CocoaPods>CocoaPods/CocoaPods</a><span> The Cocoa Dependency Manager.</span></li><li><a href=https://github.com/hamster1963/nezha-dash>hamster1963/nezha-dash</a><span> A simple dashboard for nezha.</span></li></ul>
+<ul><li><a href=https://github.com/ultrasev/cursor-reset>ultrasev/cursor-reset</a><span> A script to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.</span></li><li><a href=https://github.com/doocs/md>doocs/md</a><span> ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性</span></li><li><a href=https://github.com/Helixform/Litext>Helixform/Litext</a><span> A tiny rich-text supporting library for Apple platform.</span></li><li><a href=https://github.com/cwxiaos/bark-worker>cwxiaos/bark-worker</a><span> Bark Server on Cloudflare Worker</span></li><li><a href=https://github.com/subframe7536/maple-font>subframe7536/maple-font</a><span> Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/25/25, 11:02 PM<br>下一次刷新：4/26/25, 2:02 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/26/25, 2:03 AM<br>下一次刷新：4/26/25, 5:03 AM</p>
