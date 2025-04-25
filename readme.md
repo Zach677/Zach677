@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/CocoaPods/CocoaPods>CocoaPods/CocoaPods</a><span> The Cocoa Dependency Manager.</span></li><li><a href=https://github.com/cwxiaos/bark-worker>cwxiaos/bark-worker</a><span> Bark Server on Cloudflare Worker</span></li><li><a href=https://github.com/modelcontextprotocol/servers>modelcontextprotocol/servers</a><span> Model Context Protocol Servers</span></li><li><a href=https://github.com/SukkaW/Surge>SukkaW/Surge</a><span> Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / sing-box</span></li><li><a href=https://github.com/gonzalezreal/swift-markdown-ui>gonzalezreal/swift-markdown-ui</a><span> Display and customize Markdown text in SwiftUI</span></li></ul>
+<ul><li><a href=https://github.com/satnaing/shadcn-admin>satnaing/shadcn-admin</a><span> Admin Dashboard UI built with Shadcn and Vite.</span></li><li><a href=https://github.com/Lakr233/ScrubberKit>Lakr233/ScrubberKit</a></li><li><a href=https://github.com/Lakr233/AlertController>Lakr233/AlertController</a><span> Simple AlertViewController</span></li><li><a href=https://github.com/SukkaW/Surge>SukkaW/Surge</a><span> Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / sing-box</span></li><li><a href=https://github.com/Helixform/Litext>Helixform/Litext</a><span> A tiny rich-text supporting library for Apple platform.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/25/25, 8:12 AM<br>下一次刷新：4/25/25, 11:12 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/25/25, 11:17 AM<br>下一次刷新：4/25/25, 2:17 PM</p>
