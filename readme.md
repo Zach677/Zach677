@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/FlowDown-LandingPage>Lakr233/FlowDown-LandingPage</a></li><li><a href=https://github.com/modelcontextprotocol/servers>modelcontextprotocol/servers</a><span> Model Context Protocol Servers</span></li><li><a href=https://github.com/TelegramMessenger/Telegram-iOS>TelegramMessenger/Telegram-iOS</a><span> Telegram-iOS</span></li><li><a href=https://github.com/GramSearch/telegram-search>GramSearch/telegram-search</a><span> 🚀 一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。</span></li><li><a href=https://github.com/SukkaW/Surge>SukkaW/Surge</a><span> Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / sing-box</span></li></ul>
+<ul><li><a href=https://github.com/Helixform/Litext>Helixform/Litext</a><span> A tiny rich-text supporting library for Apple platform.</span></li><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/Lakr233/ScrubberKit>Lakr233/ScrubberKit</a></li><li><a href=https://github.com/GramSearch/telegram-search>GramSearch/telegram-search</a><span> 🚀 一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a><span> A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/27/25, 2:03 AM<br>下一次刷新：4/27/25, 5:03 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/27/25, 5:02 AM<br>下一次刷新：4/27/25, 8:02 AM</p>
