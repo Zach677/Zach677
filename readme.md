@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/cwxiaos/bark-worker>cwxiaos/bark-worker</a><span> Bark Server on Cloudflare Worker</span></li><li><a href=https://github.com/airbnb/lottie-ios>airbnb/lottie-ios</a><span> An iOS library to natively render After Effects vector animations</span></li><li><a href=https://github.com/twostraws/HackingWithSwift>twostraws/HackingWithSwift</a><span> The project source code for Hacking with iOS.</span></li><li><a href=https://github.com/TelegramMessenger/Telegram-iOS>TelegramMessenger/Telegram-iOS</a><span> Telegram-iOS</span></li><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a><span> Drop in replacement for _presentMenuAtLocation:</span></li></ul>
+<ul><li><a href=https://github.com/unixzii/SwiftUI-2048>unixzii/SwiftUI-2048</a><span> A 2048 game writing with SwiftUI.</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a><span> A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a><span> Drop in replacement for _presentMenuAtLocation:</span></li><li><a href=https://github.com/modelcontextprotocol/servers>modelcontextprotocol/servers</a><span> Model Context Protocol Servers</span></li><li><a href=https://github.com/unixzii/Tariff>unixzii/Tariff</a><span> Tariff is the Most Beautiful Swift package in your app!</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/26/25, 11:14 AM<br>下一次刷新：4/26/25, 2:14 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/26/25, 2:03 PM<br>下一次刷新：4/26/25, 5:03 PM</p>
