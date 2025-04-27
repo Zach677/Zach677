@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/GramSearch/telegram-search>GramSearch/telegram-search</a><span> 🚀 一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。</span></li><li><a href=https://github.com/ktiays/GlyphixTextFx>ktiays/GlyphixTextFx</a><span> A label component like numericText in SwiftUI</span></li><li><a href=https://github.com/tunds/YouTubeResources>tunds/YouTubeResources</a><span> A list of resources that are currently used within YouTube videos.</span></li><li><a href=https://github.com/Lakr233/FlowDown-LandingPage>Lakr233/FlowDown-LandingPage</a></li><li><a href=https://github.com/twostraws/HackingWithSwift>twostraws/HackingWithSwift</a><span> The project source code for Hacking with iOS.</span></li></ul>
+<ul><li><a href=https://github.com/twostraws/HackingWithSwift>twostraws/HackingWithSwift</a><span> The project source code for Hacking with iOS.</span></li><li><a href=https://github.com/ultrasev/cursor-reset>ultrasev/cursor-reset</a><span> A script to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.</span></li><li><a href=https://github.com/tunds/YouTubeResources>tunds/YouTubeResources</a><span> A list of resources that are currently used within YouTube videos.</span></li><li><a href=https://github.com/unixzii/Tariff>unixzii/Tariff</a><span> Tariff is the Most Beautiful Swift package in your app!</span></li><li><a href=https://github.com/gonzalezreal/swift-markdown-ui>gonzalezreal/swift-markdown-ui</a><span> Display and customize Markdown text in SwiftUI</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/27/25, 8:13 AM<br>下一次刷新：4/27/25, 11:13 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/27/25, 11:17 AM<br>下一次刷新：4/27/25, 2:17 PM</p>
