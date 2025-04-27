@@ -88,11 +88,11 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/run-llama/llama-flow>run-llama/llama-flow</a><span> 🌊 Simple, event-driven and stream oriented workflow for TypeScript</span></li><li><a href=https://github.com/Innei/ProcessReporter>Innei/ProcessReporter</a><span> A macOS application built with AppKit/Cocoa that monitors and reports real-time system activity.</span></li><li><a href=https://github.com/jordanbaird/Ice>jordanbaird/Ice</a><span> Powerful menu bar manager for macOS</span></li><li><a href=https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>x1xhlol/system-prompts-and-models-of-ai-tools</a><span> FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.</span></li><li><a href=https://github.com/TinsFox/dia-tab>TinsFox/dia-tab</a></li></ul>
+<ul><li><a href=https://github.com/remix-run/react-router>remix-run/react-router</a><span> Declarative routing for React</span></li><li><a href=https://github.com/remix-run/remix>remix-run/remix</a><span> Build Better Websites. Create modern, resilient user experiences with web fundamentals.</span></li><li><a href=https://github.com/run-llama/llama-flow>run-llama/llama-flow</a><span> 🌊 Simple, event-driven and stream oriented workflow for TypeScript</span></li><li><a href=https://github.com/Innei/ProcessReporter>Innei/ProcessReporter</a><span> A macOS application built with AppKit/Cocoa that monitors and reports real-time system activity.</span></li><li><a href=https://github.com/jordanbaird/Ice>jordanbaird/Ice</a><span> Powerful menu bar manager for macOS</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Lakr233/ScrubberKit>Lakr233/ScrubberKit</a></li><li><a href=https://github.com/TelegramMessenger/Telegram-iOS>TelegramMessenger/Telegram-iOS</a><span> Telegram-iOS</span></li><li><a href=https://github.com/facebook/react-native>facebook/react-native</a><span> A framework for building native applications using React</span></li><li><a href=https://github.com/CocoaPods/CocoaPods>CocoaPods/CocoaPods</a><span> The Cocoa Dependency Manager.</span></li><li><a href=https://github.com/Lakr233/AlertController>Lakr233/AlertController</a><span> Simple AlertViewController</span></li></ul>
+<ul><li><a href=https://github.com/Helixform/Litext>Helixform/Litext</a><span> A tiny rich-text supporting library for Apple platform.</span></li><li><a href=https://github.com/gonzalezreal/swift-markdown-ui>gonzalezreal/swift-markdown-ui</a><span> Display and customize Markdown text in SwiftUI</span></li><li><a href=https://github.com/GramSearch/telegram-search>GramSearch/telegram-search</a><span> 🚀 一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。</span></li><li><a href=https://github.com/Lakr233/AlertController>Lakr233/AlertController</a><span> Simple AlertViewController</span></li><li><a href=https://github.com/facebook/react-native>facebook/react-native</a><span> A framework for building native applications using React</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/27/25, 8:03 PM<br>下一次刷新：4/27/25, 11:03 PM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/27/25, 11:02 PM<br>下一次刷新：4/28/25, 2:02 AM</p>
