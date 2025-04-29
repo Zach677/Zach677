@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/airbnb/lottie-ios>airbnb/lottie-ios</a><span> An iOS library to natively render After Effects vector animations</span></li><li><a href=https://github.com/TelegramMessenger/Telegram-iOS>TelegramMessenger/Telegram-iOS</a><span> Telegram-iOS</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a><span> A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/gonzalezreal/swift-markdown-ui>gonzalezreal/swift-markdown-ui</a><span> Display and customize Markdown text in SwiftUI</span></li><li><a href=https://github.com/twostraws/HackingWithSwift>twostraws/HackingWithSwift</a><span> The project source code for Hacking with iOS.</span></li></ul>
+<ul><li><a href=https://github.com/gonzalezreal/swift-markdown-ui>gonzalezreal/swift-markdown-ui</a><span> Display and customize Markdown text in SwiftUI</span></li><li><a href=https://github.com/jordanbaird/Ice>jordanbaird/Ice</a><span> Powerful menu bar manager for macOS</span></li><li><a href=https://github.com/Lakr233/AlertController>Lakr233/AlertController</a><span> Simple AlertViewController</span></li><li><a href=https://github.com/facebook/react-native>facebook/react-native</a><span> A framework for building native applications using React</span></li><li><a href=https://github.com/GramSearch/telegram-search>GramSearch/telegram-search</a><span> 🚀 一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/29/25, 8:12 AM<br>下一次刷新：4/29/25, 11:12 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/29/25, 11:17 AM<br>下一次刷新：4/29/25, 2:17 PM</p>
