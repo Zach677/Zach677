@@ -92,7 +92,7 @@ Although my technology is poor now, it will slowly improve in the future.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/cwxiaos/bark-worker>cwxiaos/bark-worker</a><span> Bark Server on Cloudflare Worker</span></li><li><a href=https://github.com/TinsFox/dia-tab>TinsFox/dia-tab</a></li><li><a href=https://github.com/twostraws/HackingWithSwift>twostraws/HackingWithSwift</a><span> The project source code for Hacking with iOS.</span></li><li><a href=https://github.com/ultrasev/cursor-reset>ultrasev/cursor-reset</a><span> A script to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/AlertController>Lakr233/AlertController</a><span> Simple AlertViewController</span></li><li><a href=https://github.com/Helixform/Litext>Helixform/Litext</a><span> A tiny rich-text supporting library for Apple platform.</span></li><li><a href=https://github.com/jordanbaird/Ice>jordanbaird/Ice</a><span> Powerful menu bar manager for macOS</span></li><li><a href=https://github.com/CocoaPods/CocoaPods>CocoaPods/CocoaPods</a><span> The Cocoa Dependency Manager.</span></li><li><a href=https://github.com/cwxiaos/bark-worker>cwxiaos/bark-worker</a><span> Bark Server on Cloudflare Worker</span></li></ul>
 
 
 **Can you find me?**
@@ -107,4 +107,4 @@ Although my technology is poor now, it will slowly improve in the future.
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>Happy Life!</strong></p>
-<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/30/25, 11:03 PM<br>下一次刷新：5/1/25, 2:03 AM</p>
+<p align=center>感谢<a href=https://github.com/Innei>Innei</a>的项目,宝藏README.<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/1/25, 2:03 AM<br>下一次刷新：5/1/25, 5:03 AM</p>
