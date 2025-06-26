@@ -1,9 +1,6 @@
 ```bash
-# Zach
+I'm love swift
 
-I'm a student, learning to program.
-
-Although my technology is poor now, it will slowly improve in the future.
 
                                            ▄▲     ▲▄
                                           ┌─────────┐
