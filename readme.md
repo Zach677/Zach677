@@ -4,6 +4,6 @@
 (lldb) po self
 ▿ Developer
   - name: "Zach"
-  - passion: "Swift"
+  - passion: "Swift", "TypeScript", "Rust"
   - status: "Debugging life, one breakpoint at a time"
 ```
